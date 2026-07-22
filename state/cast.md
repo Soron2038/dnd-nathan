@@ -11,6 +11,13 @@ Nur im Spiel etablierte, spielerbekannte Fakten — DM-Geheimnisse stehen in `dm
   Zuletzt: 8 Kythorn 1496, Briar Glen. Notiz: praktisch, direkt; verwaltet offenbar Gemeindegeld.
 - **The Bent Briar** — Schankraum in Briar Glen (Ort, kein NPC). Notiz: Nathans erster Auftritt
   mit calishitischen Liedern kam gut an; guter Ort für Gerüchte und Fremde.
+- **Hessa Marden** — Wirtin des The Bent Briar; breit, grauzöpfig, trockener Humor, Stimme „wie ein
+  zufallender Deckel". Haltung: wohlgesonnen (Most aufs Haus; schläft ruhig, seit die Glocke schweigt).
+  Zuletzt: 8 Kythorn 1496, Briar Glen.
+- **Coll** — Fuhrmann, hager und wettergegerbt, um die 42; nüchtern, kein Geschichtenerzähler.
+  Haltung: dankbar, dass Nathan ihm zuhörte statt ihn zu verspotten. Zuletzt: 8 Kythorn 1496,
+  Briar Glen; fährt morgen nach Asbravn. Notiz: sah bei Dämmerung das Licht und die reglose Gestalt
+  am Corrin-Bruch und meidet den Ort seither.
 
 ## Unterwegs / Berdusk
 

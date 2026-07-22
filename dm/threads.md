@@ -7,9 +7,14 @@ Status: `[offen]` (in der Welt, unaufgegriffen) · `[angeboten]` (Nathan weiß d
 
 ## Aktiv / offen
 
-- **Nächstes Reiseziel** `[offen]` — Nathan ist in Briar Glen ohne aktive Quest (8 Kythorn 1496).
-  Nächster Schritt: beim Sessionstart organisch ein bis zwei Gerüchte oder Anlässe anbieten
-  (Wirtshausbrett, durchreisender Fuhrmann, ein ungern ausgesprochener Name) und Nathan wählen lassen.
+- **Das Licht im Corrin-Bruch** `[angeboten]` — Fuhrmann Coll berichtete von einem stillen, blassen
+  Licht und einer reglosen Gestalt am seit ~30 Jahren verlassenen Corrin-Steinbruch (halbe Tagesreise
+  südwest). Das Frühjahrshochwasser hat dort sauber geschnittenes altes Mauerwerk bloßgelegt — „eine
+  Tür in den Berg". Schäfer meiden die Hänge. Nathan wägt ab, ob er hinauffährt.
+  **Nächster Schritt:** Entscheidung Hin/Weiter; bei Aufbruch Anfahrt per Wagen bis zum Waagehäuschen,
+  dann zu Fuß. Inhalt des Bruchs noch offen — DM improvisiert old-schoolig und hält ihn solo-tauglich.
+- **Nächstes Reiseziel (Alternative)** `[angeboten]` — statt des Bruchs die Dusk Road nach Asbravn
+  (ein Tag) und weiter Richtung Iriaebor.
 - **Das Messingfernrohr mit Sternbild-Intarsien** `[offen]` — Beute aus Marr's Vault, aktuell
   „nur" hübsches Reisegepäck. Möglicher Hook: Wofür wurde es gemacht? Deutet es auf einen Ort oder
   eine Ausrichtung? Guter old-school Aufhänger, noch nicht angespielt.

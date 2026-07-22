@@ -39,3 +39,4 @@ Das Log wird chronologisch geführt. Sichtbare Würfe werden mit ihren Rohwürfe
 | 33 | 001 | Nathan | 17/11 | Thieves' Tools +5 | 22 | Open | Nadelfalle mit Advantage entschärft |
 | 34 | 001 | Nathan | 16 | Thieves' Tools +5 | 21 | Open | Truhenschloss geöffnet |
 | 35 | 001 | Nathan | 9 | Persuasion +5 | 14 | Open | gemeinsame Bergung und Teilung vermittelt |
+| 36 | 002 | Nathan | 13 | Persuasion +5 | 18 | Open | Coll zum Reden gebracht — Gerücht vom Corrin-Bruch |
