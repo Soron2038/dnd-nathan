@@ -24,7 +24,9 @@ import html
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(REPO, "player", "nathan_character_sheet.md")
 OUT = os.path.join(REPO, "player", "nathan_character_sheet.html")
+EQUIP_SRC = os.path.join(REPO, "player", "nathan_equipment.md")
 SOURCE_REL = "player/nathan_character_sheet.md"
+EQUIP_REL = "player/nathan_equipment.md"
 
 # --------------------------------------------------------------------------
 # Theme-Tokens (ein Satz Werte, in alle vier Theme-Kontexte injiziert)
@@ -119,6 +121,10 @@ COMPONENT_CSS = """
   color:var(--muted);border-bottom:1px solid var(--line);padding:.4rem .5rem;font-weight:700}
 .table-wrap td{padding:.4rem .5rem;border-bottom:1px solid var(--line);
   font-variant-numeric:tabular-nums}
+
+.equip-cols{columns:240px auto;column-gap:1.6rem}
+.equip-block{break-inside:avoid;margin-bottom:.8rem}
+.equip-block h3{margin-top:.1rem}
 
 .foot{margin-top:1.5rem;color:var(--muted);font-size:.74rem;text-align:center}
 .foot .term{font-size:.9em}
@@ -337,6 +343,17 @@ def first_bullet(body):
     return ""
 
 
+def load_equipment_sections():
+    """Sections aus player/nathan_equipment.md, um Equipment ins Sheet zu ziehen."""
+    try:
+        with open(EQUIP_SRC, "r", encoding="utf-8") as fh:
+            md = fh.read()
+    except OSError:
+        return []
+    _t, secs = split_sections(md)
+    return secs
+
+
 def quick_stats(md):
     def find(pat):
         m = re.search(pat, md)
@@ -387,9 +404,21 @@ def render_html(md):
         for l, v in tiles
     )
 
+    equip_sections = load_equipment_sections()
     cards = []
     for st, body in sections:
         sg = slug(st)
+        if sg == "equipment-and-appearance" and equip_sections:
+            blocks = "".join(
+                '<div class="equip-block"><h3>%s</h3>%s</div>'
+                % (inline(est), parse_blocks(ebody))
+                for est, ebody in equip_sections
+            )
+            cards.append(
+                '<section class="card card--equipment span-all"><h2>Equipment</h2>'
+                '<div class="equip-cols">%s</div></section>' % blocks
+            )
+            continue
         cls = "card card--%s" % sg
         if sg in ("ability-scores", "skills"):
             cls += " span-all"
@@ -443,8 +472,11 @@ def main():
             edited = None
         if edited is not None:
             norm = str(edited).replace("\\", "/")
-            if not (norm.endswith(SOURCE_REL) or os.path.abspath(edited) == SRC):
-                return 0  # nicht der Character-Bogen -> still beenden
+            triggers = (SOURCE_REL, EQUIP_REL)
+            hit = any(norm.endswith(t) for t in triggers) or \
+                os.path.abspath(edited) in (SRC, EQUIP_SRC)
+            if not hit:
+                return 0  # weder Bogen noch Equipment -> still beenden
         build()
         print(
             "🎼 Character-Sheet-Artefakt neu generiert (%s). "
