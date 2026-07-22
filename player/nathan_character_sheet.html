@@ -1,0 +1,124 @@
+<style>:root{
+  --bg:#efe8db; --surface:#faf6ee; --surface-2:#f2ebdd; --ink:#221d17;
+  --muted:#6d6454; --line:#e3d9c7; --brass:#8a5a1e; --brass-bright:#a8722a;
+  --indigo:#2f3a63; --num:#8a5a1e; --exp:#8a5a1e; --prof:#2f3a63;
+  --jack:#a99b81; --shadow:rgba(60,45,20,.10);
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#13151d; --surface:#1b1e29; --surface-2:#20242f; --ink:#ece4d5;
+  --muted:#9a9fb0; --line:#2b2f3d; --brass:#d9a24c; --brass-bright:#e7b566;
+  --indigo:#9db0dd; --num:#e2b463; --exp:#d9a24c; --prof:#9db0dd;
+  --jack:#8b8fa0; --shadow:rgba(0,0,0,.42);
+}}
+:root[data-theme="light"]{
+  --bg:#efe8db; --surface:#faf6ee; --surface-2:#f2ebdd; --ink:#221d17;
+  --muted:#6d6454; --line:#e3d9c7; --brass:#8a5a1e; --brass-bright:#a8722a;
+  --indigo:#2f3a63; --num:#8a5a1e; --exp:#8a5a1e; --prof:#2f3a63;
+  --jack:#a99b81; --shadow:rgba(60,45,20,.10);
+}
+:root[data-theme="dark"]{
+  --bg:#13151d; --surface:#1b1e29; --surface-2:#20242f; --ink:#ece4d5;
+  --muted:#9a9fb0; --line:#2b2f3d; --brass:#d9a24c; --brass-bright:#e7b566;
+  --indigo:#9db0dd; --num:#e2b463; --exp:#d9a24c; --prof:#9db0dd;
+  --jack:#8b8fa0; --shadow:rgba(0,0,0,.42);
+}
+
+*{box-sizing:border-box}
+.sheet{max-width:1000px;margin:0 auto;padding:clamp(1rem,3vw,2.25rem);
+  color:var(--ink);background:var(--bg);
+  font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  line-height:1.55;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+.sheet a{color:var(--brass);text-underline-offset:2px}
+.sheet :focus-visible{outline:2px solid var(--brass);outline-offset:2px;border-radius:4px}
+.serif{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif}
+
+.banner{margin-bottom:1.4rem}
+.kicker{font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;
+  color:var(--brass-bright);font-weight:600}
+.name{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;
+  font-weight:600;font-size:clamp(2rem,5vw,3rem);line-height:1.04;margin:.14em 0 .12em;
+  text-wrap:balance;letter-spacing:.005em}
+.subtitle{color:var(--muted);font-size:1rem;margin:0}
+.rule{height:2px;background:linear-gradient(90deg,var(--brass),transparent);
+  margin:1rem 0 1.2rem;border-radius:2px}
+
+.quickstats{display:grid;grid-template-columns:repeat(auto-fit,minmax(82px,1fr));gap:.55rem}
+.stat{background:var(--surface);border:1px solid var(--line);border-radius:10px;
+  padding:.5rem .7rem;box-shadow:0 1px 2px var(--shadow)}
+.stat .lbl{font-size:.6rem;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--muted);font-weight:700}
+.stat .val{font-family:"Iowan Old Style",Palatino,Georgia,serif;font-size:1.5rem;
+  font-weight:600;font-variant-numeric:tabular-nums;color:var(--num);line-height:1.15}
+
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem;
+  align-items:start;margin-top:1.2rem}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;
+  padding:1.05rem 1.15rem 1.2rem;box-shadow:0 1px 3px var(--shadow)}
+.card.span-all{grid-column:1/-1}
+.card h2{font-family:"Iowan Old Style",Palatino,Georgia,serif;font-size:1.16rem;
+  font-weight:600;margin:0 0 .8rem;padding-bottom:.45rem;border-bottom:1px solid var(--line);
+  position:relative;text-wrap:balance}
+.card h2::after{content:"";position:absolute;left:0;bottom:-1px;width:2.2rem;height:2px;
+  background:var(--brass)}
+.card--spellcasting h2::after{background:var(--indigo)}
+.card h3{font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);
+  margin:1rem 0 .35rem;font-weight:700}
+.card p{margin:.5rem 0}
+.card ul{margin:.4rem 0;padding-left:1.1rem}
+.card li{margin:.26rem 0}
+.term{font-family:ui-monospace,"SF Mono","JetBrains Mono",Menlo,Consolas,monospace;
+  font-size:.84em;background:var(--surface-2);border:1px solid var(--line);border-radius:5px;
+  padding:.05em .38em;color:var(--ink);white-space:nowrap}
+
+.ability-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(116px,1fr));gap:.7rem}
+.ability{background:var(--surface-2);border:1px solid var(--line);border-radius:12px;
+  padding:.7rem .5rem;text-align:center}
+.ability .an{font-size:.64rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);
+  font-weight:700}
+.ability .asc{font-family:"Iowan Old Style",Palatino,Georgia,serif;font-size:2rem;font-weight:600;
+  color:var(--num);font-variant-numeric:tabular-nums;line-height:1.1;margin:.08rem 0}
+.ability .asub{display:flex;justify-content:center;gap:.7rem;font-size:.72rem;color:var(--muted);
+  font-variant-numeric:tabular-nums}
+.ability .asub b{color:var(--ink);font-weight:600}
+
+.skill-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:.4rem .8rem}
+.skill{display:flex;align-items:center;gap:.55rem;padding:.34rem .55rem;border-radius:8px;
+  border-left:3px solid var(--jack);background:var(--surface-2)}
+.skill.exp{border-left-color:var(--exp)}
+.skill.prof{border-left-color:var(--prof)}
+.skill .sn{flex:1;font-size:.9rem}
+.skill .sm{font-variant-numeric:tabular-nums;font-weight:600;color:var(--num);min-width:2.1em;
+  text-align:right}
+.skill .sb{font-size:.58rem;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);
+  font-weight:700;min-width:4.4em;text-align:right}
+
+.table-wrap{overflow-x:auto;margin:.5rem 0}
+.table-wrap table{border-collapse:collapse;width:100%;font-size:.9rem}
+.table-wrap th{text-align:left;font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--muted);border-bottom:1px solid var(--line);padding:.4rem .5rem;font-weight:700}
+.table-wrap td{padding:.4rem .5rem;border-bottom:1px solid var(--line);
+  font-variant-numeric:tabular-nums}
+
+.foot{margin-top:1.5rem;color:var(--muted);font-size:.74rem;text-align:center}
+.foot .term{font-size:.9em}
+@media (max-width:640px){.grid{grid-template-columns:1fr}}
+</style>
+<main class="sheet">
+<header class="banner">
+<div class="kicker">Level 4 Character Sheet</div>
+<h1 class="name">Nathan al&#x27;Nassir</h1>
+<p class="subtitle">Human, 25 years old; Rogue 1 / Bard 3 (College of Lore)</p>
+<div class="rule"></div>
+<div class="quickstats"><div class="stat"><div class="lbl">AC</div><div class="val">15</div></div><div class="stat"><div class="lbl">HP</div><div class="val">27</div></div><div class="stat"><div class="lbl">Hit Dice</div><div class="val">4d8</div></div><div class="stat"><div class="lbl">Init</div><div class="val">+5</div></div><div class="stat"><div class="lbl">Speed</div><div class="val">30 ft</div></div><div class="stat"><div class="lbl">Prof</div><div class="val">+2</div></div><div class="stat"><div class="lbl">Spell DC</div><div class="val">13</div></div></div>
+</header>
+<div class="grid"><section class="card card--identity"><h2>Identity</h2><ul><li>Human, 25 years old; Rogue 1 / Bard 3 (College of Lore)</li><li>Background: Calimport Street Performer</li><li>Proficiency Bonus: +2</li><li>Speed: 30 feet</li><li>Size: Medium</li></ul></section><section class="card card--ability-scores span-all"><h2>Ability Scores</h2><div class="ability-grid"><div class="ability"><div class="an">Strength</div><div class="asc">8</div><div class="asub"><span>mod&nbsp;<b>-1</b></span><span>save&nbsp;<b>-1</b></span></div></div><div class="ability"><div class="an">Dexterity</div><div class="asc">16</div><div class="asub"><span>mod&nbsp;<b>+3</b></span><span>save&nbsp;<b>+5</b></span></div></div><div class="ability"><div class="an">Constitution</div><div class="asc">13</div><div class="asub"><span>mod&nbsp;<b>+1</b></span><span>save&nbsp;<b>+1</b></span></div></div><div class="ability"><div class="an">Intelligence</div><div class="asc">10</div><div class="asub"><span>mod&nbsp;<b>+0</b></span><span>save&nbsp;<b>+2</b></span></div></div><div class="ability"><div class="an">Wisdom</div><div class="asc">12</div><div class="asub"><span>mod&nbsp;<b>+1</b></span><span>save&nbsp;<b>+1</b></span></div></div><div class="ability"><div class="an">Charisma</div><div class="asc">16</div><div class="asub"><span>mod&nbsp;<b>+3</b></span><span>save&nbsp;<b>+3</b></span></div></div></div></section><section class="card card--combat"><h2>Combat</h2><ul><li>Hit Points: 27</li><li>Hit Dice: 4d8</li><li>Armor Class: 15 (Studded Leather Armor)</li><li>Initiative: +5 (<code class="term">Alert</code>)</li><li>Rapier: +5 to hit, 1d8+3 Piercing, Finesse, Vex</li><li>Hand Crossbow: +5 to hit, 1d6+3 Piercing, range 30/120, Light, Loading, Vex</li><li>Dagger: +5 to hit, 1d4+3 Piercing, Finesse, Light, Thrown 20/60</li><li>Sneak Attack: +1d6 once per turn when its requirements are met</li></ul></section><section class="card card--skills span-all"><h2>Skills</h2><div class="skill-grid"><div class="skill jack"><span class="sn">Acrobatics</span><span class="sm">+4</span><span class="sb" title="Jack of All Trades">Jack</span></div><div class="skill exp"><span class="sn">Animal Handling</span><span class="sm">+5</span><span class="sb" title="Expertise">Expertise</span></div><div class="skill prof"><span class="sn">Arcana</span><span class="sm">+2</span><span class="sb" title="Proficient">Proficient</span></div><div class="skill jack"><span class="sn">Athletics</span><span class="sm">+0</span><span class="sb" title="Jack of All Trades">Jack</span></div><div class="skill exp"><span class="sn">Deception</span><span class="sm">+7</span><span class="sb" title="Expertise">Expertise</span></div><div class="skill prof"><span class="sn">History</span><span class="sm">+2</span><span class="sb" title="Proficient">Proficient</span></div><div class="skill prof"><span class="sn">Insight</span><span class="sm">+3</span><span class="sb" title="Proficient">Proficient</span></div><div class="skill jack"><span class="sn">Intimidation</span><span class="sm">+4</span><span class="sb" title="Jack of All Trades">Jack</span></div><div class="skill prof"><span class="sn">Investigation</span><span class="sm">+2</span><span class="sb" title="Proficient">Proficient</span></div><div class="skill jack"><span class="sn">Medicine</span><span class="sm">+2</span><span class="sb" title="Jack of All Trades">Jack</span></div><div class="skill jack"><span class="sn">Nature</span><span class="sm">+1</span><span class="sb" title="Jack of All Trades">Jack</span></div><div class="skill exp"><span class="sn">Perception</span><span class="sm">+5</span><span class="sb" title="Expertise">Expertise</span></div><div class="skill exp"><span class="sn">Performance</span><span class="sm">+7</span><span class="sb" title="Expertise">Expertise</span></div><div class="skill prof"><span class="sn">Persuasion</span><span class="sm">+5</span><span class="sb" title="Proficient">Proficient</span></div><div class="skill jack"><span class="sn">Religion</span><span class="sm">+1</span><span class="sb" title="Jack of All Trades">Jack</span></div><div class="skill prof"><span class="sn">Sleight of Hand</span><span class="sm">+5</span><span class="sb" title="Proficient">Proficient</span></div><div class="skill prof"><span class="sn">Stealth</span><span class="sm">+5</span><span class="sb" title="Proficient">Proficient</span></div><div class="skill jack"><span class="sn">Survival</span><span class="sm">+2</span><span class="sb" title="Jack of All Trades">Jack</span></div></div>
+<ul><li>Passive Perception: 15</li></ul></section><section class="card card--core-features-and-resources"><h2>Core Features and Resources</h2><ul><li>Resourceful: gain Heroic Inspiration after each Long Rest</li><li>Lucky: 2 Luck Points per Long Rest</li><li>Alert: Proficiency on Initiative and Initiative Swap</li><li>Bardic Inspiration: 3 uses, d6, return on Long Rest</li><li>Cutting Words: Reaction; spend Bardic Inspiration to subtract d6 from qualifying roll</li><li>Jack of All Trades: +1 on ability checks using an unproficient Skill</li><li>Weapon Mastery: Rapier (Vex), Hand Crossbow (Vex)</li><li>Thieves&#x27; Cant</li><li>The Little Court; <code class="term">A Little Favor</code> once per Long Rest</li></ul></section><section class="card card--spellcasting"><h2>Spellcasting</h2><ul><li>Spellcasting Ability: Charisma</li><li>Spell Save DC: 13</li><li>Spell Attack modifier: +5</li><li>Spell Slots: Level 1 — 4; Level 2 — 2</li></ul>
+<p>Cantrips:</p>
+<ul><li>Prestidigitation</li><li>Minor Illusion</li></ul>
+<p>Prepared Level 1 Spells:</p>
+<ul><li>Dissonant Whispers</li><li>Detect Magic</li><li>Command</li><li>Cure Wounds</li></ul>
+<p>Prepared Level 2 Spells:</p>
+<ul><li>Suggestion</li><li>Silence</li></ul></section><section class="card card--proficiencies"><h2>Proficiencies</h2><ul><li>Saving Throws: Dexterity, Intelligence</li><li>Armor: Light Armor</li><li>Weapons: Simple weapons; Martial weapons with Finesse or Light</li><li>Tools: Thieves&#x27; Tools, Pan Flute, Lute</li><li>Languages: Common, Alzhedo, Thieves&#x27; Cant; a few memorized Sylvan phrases without proficiency</li></ul></section><section class="card card--equipment-and-appearance"><h2>Equipment and Appearance</h2><p>See:</p>
+<ul><li><code class="term">player/nathan_equipment.md</code></li><li><code class="term">player/nathan_al_nassir.md</code></li><li><code class="term">player/nathan_special_gift.md</code></li></ul></section></div>
+<footer class="foot">Generiert aus <code class="term">player/nathan_character_sheet.md</code> — der Markdown-Bogen bleibt der kanonische Haupt-Bogen.</footer>
+</main>

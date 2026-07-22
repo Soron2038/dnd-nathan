@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"${CLAUDE_PROJECT_DIR:-.}/tools/sync_character_sheet.py\" --hook 2>/dev/null || true",
+            "statusMessage": "Sync Character-Sheet-Artefakt…"
+          }
+        ]
+      }
+    ]
+  }
+}
