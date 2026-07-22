@@ -26,6 +26,6 @@ Status: selections and exact 2024 Spell texts confirmed. Mechanical reference: `
 - Spell Save DC: 13
 - Spell Slots: four Level 1, two Level 2
 
-Nathan has no direct damage Cantrip. His repeatable attacks are Rapier and Shortbow; his Spells emphasize deception, control, utility, silence and recovery.
+Nathan has no direct damage Cantrip. His repeatable attacks are Rapier and Hand Crossbow; his Spells emphasize deception, control, utility, silence and recovery.
 
 Concentration Spells: `Detect Magic`, `Suggestion`, `Silence`.
