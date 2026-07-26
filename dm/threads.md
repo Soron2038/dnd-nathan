@@ -7,14 +7,18 @@ Status: `[offen]` (in der Welt, unaufgegriffen) · `[angeboten]` (Nathan weiß d
 
 ## Aktiv / offen
 
-- **Das Licht im Corrin-Bruch** `[angeboten]` — Fuhrmann Coll berichtete von einem stillen, blassen
-  Licht und einer reglosen Gestalt am seit ~30 Jahren verlassenen Corrin-Steinbruch (halbe Tagesreise
-  südwest). Das Frühjahrshochwasser hat dort sauber geschnittenes altes Mauerwerk bloßgelegt — „eine
-  Tür in den Berg". Schäfer meiden die Hänge. Nathan wägt ab, ob er hinauffährt.
-  **Nächster Schritt:** Entscheidung Hin/Weiter; bei Aufbruch Anfahrt per Wagen bis zum Waagehäuschen,
-  dann zu Fuß. Inhalt des Bruchs noch offen — DM improvisiert old-schoolig und hält ihn solo-tauglich.
-- **Nächstes Reiseziel (Alternative)** `[angeboten]` — statt des Bruchs die Dusk Road nach Asbravn
-  (ein Tag) und weiter Richtung Iriaebor.
+- **Charter Hall Asbravn** `[aufgegriffen]` — Nathan nimmt die Dusk Road nach Nordosten (ein Tag) und
+  erreicht Asbravn. Dort steht eine kleine Niederlassung der Charter Hall: ein Raum im ehemaligen
+  Kontor eines Kornfaktors am Markt, eine Chartermaster, ein Brett.
+  **Nächster Schritt:** Reise kurz bespielen, dann die Hall als Szene — Raum, Leute, Brett. Drei bis
+  vier frische Aushänge vorbereiten, die zusammen alle vier Ja-Hebel abdecken; dazu mindestens ein
+  Gesicht, das wiederkehren kann (Chartermaster; optional ein konkurrierender Trupp). Nathan wählt frei.
+  Design nach `dm/00_run_procedure.md` — Probleme, keine Rätsel; spürbare Kampftendenz.
+- **Das Licht im Corrin-Bruch** `[ruht]` — Colls Bericht von Licht und reglose Gestalt am verlassenen
+  Corrin-Steinbruch südwest von Briar Glen; das Hochwasser legte dort geschnittenes Mauerwerk frei
+  („eine Tür in den Berg"). Nathan zieht weiter. Der Faden bleibt als Gerücht in der Welt: Er kann
+  später auftauchen (jemand anderes ging hinauf und kam nicht zurück; ein Aushang; ein Fund, der auf
+  denselben Ort zeigt) oder unaufgelöst bleiben.
 - **Das Messingfernrohr mit Sternbild-Intarsien** `[offen]` — Beute aus Marr's Vault, aktuell
   „nur" hübsches Reisegepäck. Möglicher Hook: Wofür wurde es gemacht? Deutet es auf einen Ort oder
   eine Ausrichtung? Guter old-school Aufhänger, noch nicht angespielt.

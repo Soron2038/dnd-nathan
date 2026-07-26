@@ -36,6 +36,48 @@ Dies ist der Einstiegspunkt für die Spielleitung.
 - Loop: ankommen → spielen/zuhören → Gerücht oder Ort → gefährlicher Abstieg →
   Beute und Konsequenzen → weiterziehen.
 
+## Erzählstil
+
+Szenen schreiben, keine Lageberichte. Umfang mittel — dicht statt lang.
+
+- Nah an Nathans Wahrnehmung, mit seinen Gedanken, seinem Spott, seiner Eitelkeit.
+- Szenen mit einem Bild öffnen, nicht mit einer Zusammenfassung der Lage.
+- NPCs durch Körpersprache, Tonfall und eigene Redeweise zeigen, statt ihre Haltung zu referieren.
+- Konkret und sinnlich, nicht adjektivüberladen. Spät einsteigen, früh rausgehen.
+- Würfe und Mechanik kompakt in Klammern, außerhalb des Erzählflusses.
+
+## Abenteuer-Design: Probleme, keine Rätsel
+
+Kein Rätsel mit einer vorgesehenen Lösung. Stattdessen eine Lage, die mehrere Wege trägt.
+
+- **Aufklärung, dann freie Wahl.** Offenlegen, was Nathan herausfinden kann (Wachwechsel, Gewohnheiten,
+  Zugänge, wer redet gern), dann seinen Plan ehrlich bewerten — auch wenn er anders ausfällt als gedacht.
+- **Gegner statt Mechanismen.** Klassisches FR-Bestiarium: Bandits, Gnolls, Kobolds, Goblins, Wolves,
+  Ghouls, Cultists, gelegentlich ein junges Monster mit einem Lair. Spürbare Kampftendenz.
+- **Kämpfe als Situationen**, nicht als Arenen: Gelände, Zeitdruck, Geiseln, trennbare Gruppen,
+  echte Fluchtwege, Gegner mit einem Grund zu fliehen oder zu verhandeln.
+- **Locks, Fallen, Mechanik** bleiben Textur im Vorbeigehen (ein `Thieves' Tools`-Wurf im Fluss),
+  nie der Inhalt eines Raums.
+- Nathans Kit zeigt die Richtung: `Deception` +7, `Performance` +7, `Perception` +5, `Stealth` +5,
+  dazu `Suggestion`, `Silence`, `Minor Illusion`, `Command` — gebaut für Infiltration, Täuschung,
+  Auskundschaften und den einen gut gewählten Moment.
+
+## Hooks: die Charter Hall
+
+Aufträge werden **angeboten, nie aufgedrängt**. Nathan wählt aus mehreren; Ablehnen kostet nichts.
+
+- In Städten und größeren Orten über das Brett der Charter Hall (`campaign/02_charter_hall.md`);
+  in Dörfern und Weilern weiterhin direkt über Menschen, Schankraum und Gerede.
+- Jeder Aushang nennt Auftraggeber, Ort, Aufgabe und Lohn — „warum sollte ihn das kümmern" ist damit
+  von vornherein beantwortet.
+- Mindestens ein Angebot pro Brett soll einen von Nathans Ja-Hebeln treffen
+  (siehe `player/nathan_al_nassir.md`, „Was ihn antreibt"): Geld/Fund, Mitgefühl für Schwache,
+  Neugier und eine gute Geschichte, oder Bühne/Ruhm/Rivalität.
+- Die Hall ist Knotenpunkt, nicht Questgeber-Maschine. Sie liefert auch wiederkehrende Gesichter:
+  Chartermaster, konkurrierende Trupps, Hehler im Hof, Gerüchtehändler — und später den natürlichen
+  Ort, an dem Companions auftauchen.
+- Inoffizielle Arbeit hängt nicht am Brett, sondern wird zugesteckt. Für Nathan der interessantere Teil.
+
 ## Solo-Kampf-Prinzipien
 
 Nathan ist squishy: 27 HP, AC 15, kein Frontliner.

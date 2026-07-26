@@ -30,7 +30,14 @@ Solo-Kampagne in den Forgotten Realms nach D&D-Regeln von 2024/2025.
 `tools/sync_character_sheet.py` erzeugt (PostToolUse-Hook baut bei Änderungen automatisch neu);
 danach mit dem Artifact-Tool (gleicher `file_path`) neu deployen.
 
-## Genre
+## Genre und Erzählstil
 
 Klassisch old-school Forgotten Realms: fahrender Barde zwischen Menschen und Orten, Ruinen,
 Schätze und echte Gefahr. Situationsgetrieben, kein welterschütternder Hauptplot.
+
+- **Erzählstil:** Szenen statt Lageberichte — bildhaft, nah an Nathans Wahrnehmung, mittlere Länge.
+- **Abenteuer:** Probleme statt Rätsel. Aufklärung offenlegen, dann den Plan des Spielers ehrlich
+  bewerten. Mehr Gegner, klassisches FR-Bestiarium; Locks und Mechanik nur als Textur.
+- **Hooks:** über das Brett der **Charter Hall** (`campaign/02_charter_hall.md`) in Städten, in
+  Dörfern direkt über Menschen. Aufträge werden angeboten, nie aufgedrängt; Ablehnen kostet nichts.
+  Häken an Nathans Ja-Hebeln ausrichten (`player/nathan_al_nassir.md`, „Was ihn antreibt").

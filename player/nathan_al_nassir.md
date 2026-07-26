@@ -16,6 +16,15 @@ Nathan stahl zunächst zum Überleben und später auch aus Freude an Geschick, R
 
 Nathan ermordet keine Unschuldigen, begeht keine sexuelle Gewalt, misshandelt keine Tiere und bestiehlt niemanden, den der Verlust in echte Not stürzen würde. Lügen, Einbruch und Betrug sind für ihn dagegen Werkzeuge, keine moralischen Tabus.
 
+## Was ihn antreibt
+
+Die vier verlässlichen Gründe, aus denen Nathan Ja sagt. Ein Angebot, das keinen davon trifft, wird er guten Gewissens ausschlagen.
+
+- **Geld und ein guter Fund.** Lohn, Beute, etwas Schönes und Verkäufliches. Der ehrlichste Antrieb eines fahrenden Diebes.
+- **Mitgefühl für Schwache.** Kinder, Tiere, Leute ohne Fürsprecher. Trifft ihn zuverlässig, auch wenn er es sich ungern eingesteht und es hinterher als Berechnung darstellt.
+- **Neugier und eine gute Geschichte.** Etwas Seltsames, Schönes oder Unerklärliches — und der Stoff, aus dem am Lagerfeuer ein Lied wird.
+- **Bühne, Ruhm und Rivalität.** Publikum, Ansehen, und jemand, dem er beweisen kann, dass er es besser kann. Eitelkeit als Motor.
+
 ## Bindungen in Calimport
 
 - **Farida al'Nassir**, seine Mutter, arbeitet als Färberin. Sie liebt Nathan vorbehaltlos, hält sein Wanderleben jedoch für gefährlichen Unsinn.

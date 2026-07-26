@@ -10,6 +10,17 @@ Gleichzeitig sind Tod, Verlust und Kontrollentzug keine willkürlichen Effekte. 
 
 Die Erzählung ist atmosphärisch, sinnlich und charakterorientiert, mit dramatischem Timing und individuellen Stimmen. Abenteuer dürfen zwischen Leichtigkeit, Spannung, Tragik, Horror und Humor wechseln. Die Kampagne vermeidet welterschütternde Hauptplots und konzentriert sich auf Schätze, Ruinen, persönliche Interessen und lokale Konflikte.
 
+Erzählt wird in Szenen, nicht in Lageberichten: nah an Nathans Wahrnehmung, mit konkreten Bildern, Gerüchen und Geräuschen, NPCs mit Körpersprache und eigener Sprechweise. Bildhaft, aber nicht überladen. Mechanik bleibt aus dem Erzählfluss heraus und erscheint kompakt in Klammern.
+
+## Abenteuer-Design
+
+Die Kampagne stellt **Probleme statt Rätsel**. Ein Rätsel hat eine vom DM ausgedachte Lösung, die gefunden wird oder nicht. Ein Problem ist eine Lage aus Gegnern, Beschränkungen und Ressourcen, in der mehrere Herangehensweisen tragen und der Plan des Spielers den Inhalt bildet.
+
+- Aufklärung, dann freie Wahl der Herangehensweise: Der DM legt offen, was Nathan herausfinden kann, und bewertet anschließend ehrlich, was sein Plan bewirkt.
+- Gegner und Situationen statt Mechanismen: Gelände, Zeitdruck, Wachen mit Gewohnheiten, trennbare Gruppen, echte Fluchtwege.
+- Locks, Fallen und Mechanik bleiben Textur im Vorbeigehen, nie der Inhalt eines Raums.
+- Klassisches Forgotten-Realms-Bestiarium mit spürbarer Kampftendenz.
+
 ## Sprache
 
 Die Erzählung ist deutsch. Alle technischen game terms erscheinen im englischen Original: `Ability`, `Skill`, `Saving Throw`, `Spell`, `Feat`, `Action`, `Bonus Action`, `Reaction`, `Short Rest`, `Long Rest`, Conditions und Eigennamen von Rules-Elementen.

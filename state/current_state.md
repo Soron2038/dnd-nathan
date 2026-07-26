@@ -19,22 +19,13 @@
 
 ## Wo wir stehen (Resume-Punkt für die nächste Session)
 
-Nathan sitzt im The Bent Briar. Er hat vom Fuhrmann Coll das Gerücht über den alten Corrin-Bruch
-gehört und **wägt ab, ob er hinauffährt oder weiterzieht** — hier setzt die nächste Session an.
-
-- **Hin zum Corrin-Bruch** (halbe Tagesreise südwest, Schafhügel): Wagen die Südwest-Spur hinunter
-  bis zum halb eingefallenen Waagehäuschen am alten Zufahrtstor (Zaunwerk zum Anbinden, Quelle für
-  Struppi), dann rund eine Meile zu Fuß in die Grube, zur vom Hochwasser bloßgelegten Wand. Colls
-  Rat: bei Aufbruch jetzt ist man vor Sonnenuntergang oben; trödeln heißt Ankunft bei Dämmerung.
-- **Oder** die Dusk Road nach Nordosten (ein Tag bis Asbravn, dann Richtung Iriaebor).
+Nathan lässt den Corrin-Bruch liegen und **nimmt die Dusk Road nach Nordosten Richtung Asbravn**
+(rund ein Reisetag). Ziel ist die dortige kleine Niederlassung der **Charter Hall** und ihr Brett.
+Die nächste Session bespielt kurz die Reise und dann die Hall.
 
 ## Aktive Quests / Leads
 
-- **Das Licht im Corrin-Bruch** (optional, unentschieden): Coll sah bei Dämmerung ein stilles, blasses
-  Licht („wie durch Horn") in einer vom Frühjahrshochwasser aufgerissenen Wand des seit ~30 Jahren
-  verlassenen Corrin-Steinbruchs — dahinter sauber geschnittenes altes Mauerwerk, „eine Tür in den
-  Berg", wo nie eines sein sollte. Eine reglose Gestalt am Grubenrand drehte ihm nur den Kopf nach.
-  Schäfer haben ihre Herden diese Tenday von den nahen Hängen geholt.
+Keine angenommene Quest. Nächster Schritt ist das Brett in Asbravn.
 
 ## Beziehungen, Besitz und Folgen
 
@@ -59,3 +50,5 @@ gehört und **wägt ab, ob er hinauffährt oder weiterzieht** — hier setzt die
 - Ursprung und Bedeutung von The Little Court bleiben unbekannt.
 - Das Messingfernrohr mit Sternbild-Intarsien ist bislang nur hübsches Reisegepäck — Herkunft und
   Zweck offen.
+- Das Licht im Corrin-Bruch bleibt unaufgeklärt; Nathan zog weiter. Der Faden ruht in der Welt.
+- Nathan ist noch kein eingetragenes Mitglied der Charter Hall und besitzt kein Charter Token.
