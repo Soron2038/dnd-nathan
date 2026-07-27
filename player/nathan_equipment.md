@@ -19,6 +19,8 @@ Status: Starting Equipment für Level 4 bestätigt. Alle Verzierungen sind zunä
 - **2 Potions of Healing**
 - Rafiqs nichtmagischer Messingkompass
 - fein gearbeitetes, nichtmagisches Messingfernrohr mit eingelegten Sternbildern; Beute aus Marr's Vault
+- **Charter Token** der Charter Hall, daumennagelgroßes Messingtäfelchen mit Namensstempel und
+  Wagenrad-Zeichen; Standing **Copper**, eingetragen in Asbravn am 9 Kythorn 1496
 
 ## Practical adventuring gear
 
