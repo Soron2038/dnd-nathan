@@ -55,11 +55,14 @@ Es werden hier keine vollständigen urheberrechtlich geschützten Regeltexte ges
 
 ## Creature lookup
 
-> **Stand 2026-07-27: In der aktuellen Spielumgebung ist `aidedd.org` nicht erreichbar** — die
-> Netzwerk-Policy lehnt die Domain am Proxy ab (CONNECT 403), unabhängig von der Seite. Der unten
-> beschriebene Selbst-Lookup steht damit faktisch nicht zur Verfügung. Solange das so bleibt, gilt
-> Punkt 5 des Anti-Regression-Checks: **nicht raten, sondern den Spieler um den Regeltext bitten.**
-> Bereits erfasste Statblocks in `rules/sources/` haben Vorrang und können ohne Rückfrage verwendet werden.
+> **Stand 2026-07-27: `aidedd.org` ist erreichbar.** Kurzzeitig blockierte die Netzwerk-Policy der
+> Umgebung die Domain (CONNECT 403); der Spieler hat sie freigeschaltet, der Lookup funktioniert wieder.
+> Falls erneut ein 403 am Proxy auftritt, gilt Punkt 5 des Anti-Regression-Checks:
+> **nicht raten, sondern den Spieler um den Regeltext bitten.**
+>
+> **URL-Form:** `https://www.aidedd.org/monster/<slug>` — **ohne** `.php`. Die Übersicht unter
+> `https://www.aidedd.org/monster/` enthält alle Slugs; jede Einzelseite weist ihre Source aus
+> („Monster Manual 2024"). Erfasste Statblocks in `rules/sources/` haben Vorrang.
 
 Für benötigte 2025 Monster-Statblocks darf der DM selbstständig die D&D-5.5-Datenbank unter `https://www.aidedd.org/monster/` verwenden. Dadurch müssen geplante Creatures nicht vor einem Abenteuer beim Spieler angefragt und verraten werden.
 
