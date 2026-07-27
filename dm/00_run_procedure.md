@@ -40,6 +40,7 @@ Dies ist der Einstiegspunkt für die Spielleitung.
 
 Szenen schreiben, keine Lageberichte. Umfang mittel — dicht statt lang.
 
+- **Zweite Person.** Nathan wird als „Du" angesprochen, nie als „er" — direkte Ansprache des Spielers.
 - Nah an Nathans Wahrnehmung, mit seinen Gedanken, seinem Spott, seiner Eitelkeit.
 - Szenen mit einem Bild öffnen, nicht mit einer Zusammenfassung der Lage.
 - NPCs durch Körpersprache, Tonfall und eigene Redeweise zeigen, statt ihre Haltung zu referieren.

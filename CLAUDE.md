@@ -36,6 +36,7 @@ Klassisch old-school Forgotten Realms: fahrender Barde zwischen Menschen und Ort
 Schätze und echte Gefahr. Situationsgetrieben, kein welterschütternder Hauptplot.
 
 - **Erzählstil:** Szenen statt Lageberichte — bildhaft, nah an Nathans Wahrnehmung, mittlere Länge.
+  Nathan wird durchgehend in der **zweiten Person** angesprochen („Du"), nie in der dritten.
 - **Abenteuer:** Probleme statt Rätsel. Aufklärung offenlegen, dann den Plan des Spielers ehrlich
   bewerten. Mehr Gegner, klassisches FR-Bestiarium; Locks und Mechanik nur als Textur.
 - **Hooks:** über das Brett der **Charter Hall** (`campaign/02_charter_hall.md`) in Städten, in
