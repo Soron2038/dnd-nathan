@@ -7,13 +7,24 @@ Status: `[offen]` (in der Welt, unaufgegriffen) · `[angeboten]` (Nathan weiß d
 
 ## Aktiv / offen
 
-- **Charter Hall Asbravn** `[aufgegriffen]` — Nathan nimmt die Dusk Road nach Nordosten (ein Tag) und
-  erreicht Asbravn. Dort steht eine kleine Niederlassung der Charter Hall: ein Raum im ehemaligen
-  Kontor eines Kornfaktors am Markt, eine Chartermaster, ein Brett.
-  **Nächster Schritt:** Reise kurz bespielen, dann die Hall als Szene — Raum, Leute, Brett. Drei bis
-  vier frische Aushänge vorbereiten, die zusammen alle vier Ja-Hebel abdecken; dazu mindestens ein
-  Gesicht, das wiederkehren kann (Chartermaster; optional ein konkurrierender Trupp). Nathan wählt frei.
-  Design nach `dm/00_run_procedure.md` — Probleme, keine Rätsel; spürbare Kampftendenz.
+- **Rückkehr nach Asbravn** `[offen]` — Nathan holt seine 8 GP 4 SP bei Ondra Vesk ab und berichtet.
+  **Nächster Schritt:** Ankunft in der Hall spielen; Ondras Reaktion auf die unblutige Lösung (sie wird
+  es notieren — Standing-relevant). Danach ein frisches Brett mit drei bis vier Aushängen, die zusammen
+  alle vier Ja-Hebel abdecken. Orlasks Straßenauftrag (60 GP) hängt eventuell noch — oder die Bracken
+  haben ihn genommen und sind damit gescheitert oder erfolgreich zurück.
+- **Der Bugbear** `[offen]` — überlebte mit 24/33 HP, verlor Gefolgschaft und Gesicht und zog nach
+  Norden ab. Ankündigung: „Ich merke mir Gesichter." Mögliche Wiederkehr: als Söldner für jemand
+  anderen, als Anführer eines neuen Haufens, oder als persönlicher Rachefaden. Nicht überstürzen —
+  ein halbes Jahr Abwesenheit macht ihn gefährlicher als eine sofortige Rückkehr.
+- **Die Faule Mulde** `[ruht]` — sieben Goblins (darunter Kinder) leben jetzt dort. Sie bleiben,
+  solange das Angebot besser ist als Schafestehlen. Optionen für später: Sie halten sich und werden zu
+  einer seltsamen Ressource; oder etwas vertreibt sie erneut; oder jemand entdeckt sie und Nathan wird
+  für „seine" Goblins verantwortlich gemacht. Das kleine Goblinkind, das auf den Getöteten wartete, ist
+  der emotionale Anker.
+- **Die Bracken** `[offen]` — Silver-Standing-Trupp aus der Hall Asbravn. Rivalität ohne Feindschaft;
+  gut geeignet als Spiegel für Nathans Ruf. Ein rothaariger Junger hat über seine Auftragswahl geschnaubt.
+- **Cardenhollow** `[offen]` — die Halners bekommen vier Mutterschafe zurück. Wohlwollen, kleine
+  Belohnung oder ein Folgeauftrag aus einem Nachbartal.
 - **Das Licht im Corrin-Bruch** `[ruht]` — Colls Bericht von Licht und reglose Gestalt am verlassenen
   Corrin-Steinbruch südwest von Briar Glen; das Hochwasser legte dort geschnittenes Mauerwerk frei
   („eine Tür in den Berg"). Nathan zieht weiter. Der Faden bleibt als Gerücht in der Welt: Er kann

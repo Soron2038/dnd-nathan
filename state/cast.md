@@ -19,6 +19,37 @@ Nur im Spiel etablierte, spielerbekannte Fakten — DM-Geheimnisse stehen in `dm
   Briar Glen; fährt morgen nach Asbravn. Notiz: sah bei Dämmerung das Licht und die reglose Gestalt
   am Corrin-Bruch und meidet den Ort seither.
 
+## Asbravn
+
+- **Ondra Vesk** — Chartermaster der Charter Hall in Asbravn; um die fünfzig, Schultern einer
+  Karawanentreiberin, eine tiefer als die andere; trocken, unbeeindruckbar, führt Buch. Haltung:
+  nüchtern wohlwollend — sie trug Nathan ein und strich bei Ewesdale wortlos die Provision.
+  Zuletzt: 9 Kythorn 1496, Asbravn.
+- **Die Bracken** — Abenteurertrupp, drei Köpfe, Silver Standing; Anführer mit Silbertäfelchen,
+  dazu ein rothaariger junger Kerl. Haltung: herablassend-gleichgültig; sie haben Nathan die
+  Ewesdale-Wahl belächelt. Zuletzt: 9 Kythorn 1496, Charter Hall Asbravn. Notiz: liebäugelten mit
+  Orlasks Straßenauftrag (60 GP).
+
+## Ewesdale (Hügelland nordwestlich von Asbravn)
+
+- **Aldo Ferrin** — elf Jahre, Hirtenjunge, außergewöhnlich begabt im Umgang mit Schafen. War fünf
+  Tage lang Gefangener der Goblins in der Hohlen Falte, angepflockt, musste ihre gestohlene Herde
+  versorgen. Von Nathan befreit. Haltung: verehrt ihn. Kennt das Lied vom „Jungen, der mit Schafen
+  spricht" auswendig.
+- **Theda Ferrin** — Aldos Mutter, rote Waschhände, zäh und wortkarg. Ging zu Fuß nach Asbravn und
+  zurück, um den Auftrag mit geknoteten 8 GP 4 SP auszuhängen. Haltung: tiefe, unausgesprochene
+  Dankbarkeit.
+- **Corm Hallow** — breitschultriger Grauhaariger, so etwas wie der Wortführer des Weilers. Haltung:
+  respektvoll; rechnete Nathan an, dass er nichts versprochen hat. Hätte die Goblins allerdings
+  lieber tot gesehen. Struppi und Wagen stehen in seiner Scheune.
+- **Wyl** — siebzehn, Hirte. War bis zur Unteren Falte hinaufgestiegen und weggerannt; wartete
+  danach einen ganzen Tag an der Langen Falte auf Nathans Rückkehr. Haltung: still verehrend.
+  Nathan hat ihm eine eigene Strophe im Lied gegeben („und einer hielt den Pass").
+- **Vann Cobb** — um die siebzig, knochig, kennt jede Falte im Hügelland beim Namen. Sprach als
+  Erster das Wort „Goblins" aus. Haltung: nüchtern anerkennend.
+- **Bran** — schwarzweißer Hirtenhund der Ferrins (Mastiff-Werte). Wurde beim Überfall schwer
+  verletzt, von Nathan mit `Cure Wounds` geheilt und kämpfte an seiner Seite. Bleibt bei Aldo.
+
 ## Unterwegs / Berdusk
 
 - **Jessa Pike** — Schatzsucherin. Haltung: amüsierte Achtung; hielt die Fundvereinbarung ein.

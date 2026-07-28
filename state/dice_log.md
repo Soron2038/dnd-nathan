@@ -40,3 +40,29 @@ Das Log wird chronologisch geführt. Sichtbare Würfe werden mit ihren Rohwürfe
 | 34 | 001 | Nathan | 16 | Thieves' Tools +5 | 21 | Open | Truhenschloss geöffnet |
 | 35 | 001 | Nathan | 9 | Persuasion +5 | 14 | Open | gemeinsame Bergung und Teilung vermittelt |
 | 36 | 002 | Nathan | 13 | Persuasion +5 | 18 | Open | Coll zum Reden gebracht — Gerücht vom Corrin-Bruch |
+| 37 | 003 | Nathan | 4 | Perception +5 | 9 | Open | Geräusch in der Kopfwand nicht lokalisiert |
+| 38 | 003 | Nathan | 8 | Stealth +5 | 13 | Open | erster Hide-Versuch im Sattel — DC 15 verfehlt |
+| 39 | 003 | Nathan | 20 | Animal Handling +5 | 25 | Open | natural 20 — Bran gewinnt Vertrauen |
+| 40 | 003 | Nathan | 6/1 | Cure Wounds 2d8+3 | 10 | Open | Bran geheilt |
+| 41 | 003 | Nathan | 19 | Stealth +5 | 24 | Open | zweiter Hide-Versuch — Erfolg, Invisible |
+| 42 | 003 | Nathan | 3 | Initiative +5 | 8 | Open | per Alert mit Bran getauscht |
+| 43 | 003 | Bran | 15 | Initiative +2 | 17 | Open | per Alert an Nathan gegeben |
+| 44 | 003 | Goblin 1 | 7/10 | Initiative +2, Disadv (Surprised) | 9 | Open | Initiative |
+| 45 | 003 | Goblin 2 | 8/1 | Initiative +2, Disadv (Surprised) | 3 | Open | Initiative |
+| 46 | 003 | Nathan | 11/13 | Rapier +5, Advantage | 18 | Open | Goblin 1 getroffen |
+| 47 | 003 | Nathan | 5 | Rapier damage +3 | 8 | Open | Piercing |
+| 48 | 003 | Nathan | 3 | Sneak Attack 1d6 | 3 | Open | Goblin 1 getötet (11 gesamt) |
+| 49 | 003 | Bran | 4 | Bite +3 | 7 | Open | verfehlt |
+| 50 | 003 | Goblin (Posten) | 16 | Perception −1 | 15 | Open | Pfiff gehört, Kopfwand abgesucht |
+| 51 | 003 | Goblin 2 | 1 | Wisdom save −1 | 0 | Open | Command (Approach) misslungen |
+| 52 | 003 | Bran | 7 | Bite +3 | 10 | Open | verfehlt |
+| 53 | 003 | Nathan | 2 | Rapier +5 | 7 | Open | verfehlt |
+| 54 | 003 | Bran | 2 | Bite +3 | 5 | Open | verfehlt |
+| 55 | 003 | Nathan | 10/5 | Hand Crossbow +5, Disadv (long range) | 10 | Open | verfehlt; Goblin 2 entkommen |
+| 56 | 003 | Nathan | 15 | Investigation +2 | 17 | Open | Brandnarben und Diebesgut am toten Goblin |
+| 57 | 003 | Nathan | 18 | Performance +7 | 25 | Open | offener Anmarsch mit Laute; Bögen gesenkt |
+| 58 | 003 | Bugbear | 2 | Wisdom save +0 | 2 | Open | Command (Grovel) misslungen — Prone |
+| 59 | 003 | Nathan | 4/13 | Deception +7, Advantage | 20 | Open | Landanspruch; Gefolgschaft bricht |
+| 60 | 003 | Bugbear | 8 | Wisdom save +0 | 8 | Open | Dissonant Whispers misslungen |
+| 61 | 003 | Nathan | 4/1/4 | Dissonant Whispers 3d6 | 9 | Open | Psychic; Bugbear flieht |
+| 62 | 003 | Nathan | 15/18 | Persuasion +5, Advantage | 23 | Open | Goblins nehmen die Faule Mulde an |
