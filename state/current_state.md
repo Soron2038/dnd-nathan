@@ -4,15 +4,16 @@
 
 - Datum: 11 Kythorn 1496 DR, früher Morgen
 - Region: Ewesdale, Hügelland nordwestlich von Asbravn, Sunset Vale, Western Heartlands
-- Party: Nathan al'Nassir (Rogue 1 / Bard 3), solo
-- Level: 4
+- Party: Nathan al'Nassir (Rogue 1 / Bard 4), solo
+- Level: **5** (Milestone erreicht; erzählerisch beim Abholen der Belohnung in Asbravn zu verankern)
 - XP-System: Milestones
 
 ## Aktuelle Ressourcen
 
-- HP 27/27; Hit Dice 4d8; AC 15 — nach Long Rest alles voll
-- Heroic Inspiration 1; Luck Points 2/2; Bardic Inspiration 3/3
-- Spell Slots: Level 1 — 4/4; Level 2 — 2/2
+- HP 33/33; Hit Dice 5d8; AC 15 — nach Long Rest alles voll
+- Proficiency Bonus +3; Spell Save DC 14; Spell Attack +6; Initiative +6
+- Heroic Inspiration 1; Luck Points 3/3; Bardic Inspiration 3/3 (d6)
+- Spell Slots: Level 1 — 4/4; Level 2 — 3/3
 - `A Little Favor` verfügbar
 - Potions of Healing 2; Geld 248 GP, 5 SP
 - Charter Token der Charter Hall, Standing **Copper**, eingetragen in Asbravn
@@ -61,7 +62,14 @@ und die hinterlegten 8 GP 4 SP abzuholen — und dort steht wieder ein Brett.
 
 ## Milestone-Stand
 
-Zwei Solo-Abenteuer sind abgeschlossen (The Bell Beneath Briar Glen, Ewesdale). Der ursprüngliche
-Milestone für Level 5 in `dm/SPOILERS_campaign_master.md` war an die Bildung eines Duos mit Maelis
-gekoppelt — diese Planung ist durch den Solo-Fokus und die Charter Hall überholt. **Der Milestone ist
-mit dem Spieler neu zu vereinbaren.**
+**Level 5 ist erreicht und angewandt** (2026-07-28, mit dem Spieler vereinbart). Grundlage: zwei
+abgeschlossene Solo-Abenteuer (The Bell Beneath Briar Glen, Ewesdale) plus abgeschlossene Session 3.
+Die alte Duo-Bedingung aus `dm/SPOILERS_campaign_master.md` entfiel mit dem Solo-Fokus.
+
+Gewählt wurde **Bard 4** (statt Rogue 2), Feature `Ability Score Improvement` → General Feat
+**`Telekinetic`** mit Charisma 16 → 17. Neu dazu: Cantrip `Vicious Mockery`, prepared Spell
+`Phantasmal Force`, ein dritter Level-2-Slot, `Mage Hand` über den Feat.
+
+Nächster Milestone (Level 6) ist noch offen und mit dem Spieler zu vereinbaren. Auf Character Level 6
+stünde Bard 5 mit `Font of Inspiration`, Bardic-Würfel d8 und Level-3-Spells zur Wahl — oder weiterhin
+Rogue 2 mit `Cunning Action`.

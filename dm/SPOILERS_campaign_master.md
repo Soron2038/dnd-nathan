@@ -31,7 +31,19 @@ Ihre Feldkraft **Hadrik Sorn** löst Probleme lieber mit Einschüchterung und an
 
 ## Milestones
 
+> **Stand 2026-07-28 — überarbeitet.** Die ursprüngliche Staffelung koppelte die Level an die Bildung
+> einer Party. Diese Planung ist mit dem Solo-Fokus und der Charter Hall hinfällig; die Level hängen
+> jetzt an abgeschlossenen Abenteuern und Entwicklungsschritten. Siehe `rules/rulings.md`.
+
+- **Level 5 — erreicht** (nach *The Bell Beneath Briar Glen* und *Ewesdale*, Ende Session 3).
+  Nathan wählte Bard 4 mit dem Feat `Telekinetic`.
+- **Level 6** nach zwei weiteren substanziellen Abenteuern oder einem einzelnen sehr großen. Offen und
+  mit dem Spieler zu vereinbaren; zur Wahl stünden Bard 5 (`Font of Inspiration`, Bardic-Würfel d8,
+  Level-3-Spells) oder Rogue 2 (`Cunning Action`).
+- Danach ungefähr alle drei bis fünf Abenteuer, abhängig von Umfang und Entwicklung.
+
+### Ursprüngliche Fassung (historisch)
+
 - Level 5 nach zwei abgeschlossenen Solo-Abenteuern und Bildung des ersten stabilen Duos; nicht vor Session 4.
 - Level 6 nach zwei weiteren substanziellen Abenteuern und einer belastbaren Party-Beziehung.
-- Danach ungefähr alle drei bis fünf Abenteuer, abhängig von Umfang und Entwicklung.
 

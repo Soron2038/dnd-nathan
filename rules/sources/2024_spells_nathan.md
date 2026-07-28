@@ -21,6 +21,46 @@ Nathan's Spell Save DC is 13 and Spellcasting Ability modifier is +3.
 - Study action and successful Intelligence (Investigation) against DC 13 reveals it
 - physical interaction reveals an image; an image creates no sound, light, smell, or other sensory effect
 
+## Vicious Mockery
+
+Neu auf Character Level 5. Quelle: `https://www.aidedd.org/spell/vicious-mockery`, Player's Handbook 2024.
+
+- Cantrip; Enchantment (Bard)
+- 1 Action; 60 feet; **V only**; instantaneous
+- one creature Nathan can see or hear makes a Wisdom save against DC 14
+- failure: 1d6 Psychic damage **and Disadvantage on its next attack roll** before the end of its next turn
+- Cantrip Upgrade: 2d6 at character level 5, 3d6 at 11, 4d6 at 17 — Nathan is at **2d6**
+
+## Mage Hand
+
+Über den Feat `Telekinetic`, nicht über die Bard-Cantrips. Quelle: `https://www.aidedd.org/spell/mage-hand`,
+Player's Handbook 2024; Modifikationen siehe `rules/sources/2024_telekinetic.md`.
+
+- Cantrip; Conjuration (Bard)
+- 1 Action; Basisreichweite 30 feet — **für Nathan 60 feet**; **ohne V und S** (durch den Feat); 1 minute
+- eine spektrale, schwebende Hand; **für Nathan nach Wahl unsichtbar**
+- verschwindet, wenn sie weiter als die maximale Distanz entfernt ist (Nathan: 60 feet) oder der Spell erneut gewirkt wird
+- kann einen Gegenstand manipulieren, eine unverschlossene Tür oder Behälter öffnen, einen Gegenstand
+  aus einem offenen Behälter nehmen oder verstauen, den Inhalt einer Phiole ausgießen
+- als **Magic action** in späteren Zügen erneut steuerbar; dabei bis zu 30 feet bewegbar
+- kann **nicht** angreifen, keine Magic Items aktivieren und **nicht mehr als 10 pounds** tragen
+
+## Phantasmal Force
+
+Neu auf Character Level 5. Quelle: `https://www.aidedd.org/spell/phantasmal-force`, Player's Handbook 2024.
+
+- Level 2; Illusion (Bard); **Concentration**
+- 1 Action; 60 feet; V, S, M (a bit of fleece); up to 1 minute
+- Ziel macht einen **Intelligence saving throw** gegen DC 14
+- bei Misserfolg entsteht ein Phantasma — Objekt, Creature oder Phänomen, höchstens ein 10-foot Cube —,
+  das **nur das Ziel** wahrnimmt, einschließlich Geräusch, Temperatur und anderer Reize
+- das Ziel kann eine `Study` action nutzen und mit einem Intelligence (`Investigation`) check gegen
+  Nathans Spell Save DC durchschauen; bei Erfolg endet der Spell
+- solange es wirkt, behandelt das Ziel das Phantasma als real und rationalisiert unlogische Folgen
+- stellt das Phantasma eine Gefahr dar, kann es in jedem von Nathans Zügen **2d8 Psychic damage**
+  verursachen, wenn das Ziel im Bereich oder innerhalb 5 feet davon ist; das Ziel nimmt den Schaden
+  als zur Illusion passenden Typ wahr
+
 ## Dissonant Whispers
 
 - Level 1; Enchantment

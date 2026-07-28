@@ -2,6 +2,24 @@
 
 Jeder Eintrag erhält Datum, Situation, Entscheidung, Quelle/Regeltext und die Angabe, ob er dauerhaft oder vorläufig gilt.
 
+## 2026-07-28 — Milestone: Level 5 und Bard 4
+
+- **Situation:** Der ursprüngliche Level-5-Milestone verlangte zwei Solo-Abenteuer **und** die Bildung
+  eines stabilen Duos mit Maelis. Die Duo-Planung entfiel mit der Umstellung auf Solo-Fokus und
+  Charter Hall; die übrigen Bedingungen (zwei Solo-Abenteuer, nicht vor Session 4) sind erfüllt.
+- **Entscheidung:** Level 5 wird gewährt. Nathan steigt auf **Bard 4** (Rogue 1 / Bard 4). Das
+  Level-4-Feature `Ability Score Improvement` wird als General Feat **`Telekinetic`** genommen,
+  erhöhtes Ability Score **Charisma 16 → 17**. Neuer Cantrip `Vicious Mockery`, neuer prepared Spell
+  `Phantasmal Force`. Erzählerisch wird der Aufstieg beim Abholen der Belohnung in Asbravn verankert.
+- **Anti-Regression-Check:** Bard-Klassentabelle und Level-4-Text vom Spieler geliefert und in
+  `rules/sources/2024_bard.md` erfasst; `Telekinetic`, `Vicious Mockery`, `Mage Hand` und
+  `Phantasmal Force` über die freigegebene Aidedd-2024-Datenbank geprüft und erfasst.
+- **Wichtige Ableitung:** Der Proficiency Bonus folgt dem **total Character Level**, nicht der
+  Bard-Spalte — auf Level 5 also **+3**. Dadurch steigen Spell Save DC auf 14, Expertise-Skills um je
+  zwei Punkte und die Luck Points auf **3** (`Lucky` gewährt Punkte in Höhe des Proficiency Bonus).
+- **Quelle:** Spielerentscheidung; `dm/SPOILERS_campaign_master.md`, `rules/sources/2024_bard.md`.
+- **Gültigkeit:** dauerhaft.
+
 ## 2026-07-26 — Feinabstimmung: Erzählstil
 
 - **Situation:** Der bisherige Ton war dem Spieler zu wenig immersiv.
