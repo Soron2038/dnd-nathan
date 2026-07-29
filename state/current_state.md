@@ -27,6 +27,12 @@ unter dem sie sitzen und warten kann — und er hat ihr ein Lied zugesagt, ausdr
 Nicht-Gabe. Danach steht der Weg nach Threeoaks und Coldwell offen, wo der Betrüger als Nächstes
 auftauchen dürfte, sowie die Rückkehr nach Asbravn zu Ondra Vesk.
 
+## Offene Tisch-Abmachung
+
+**Nach Abschluss des laufenden Abenteuers ist eine kurze Nachbesprechung vereinbart** (Spielerwunsch,
+13 Kythorn): Was lief gut, was nicht, sind Fragen offen? Kein großes Format — einmal gemeinsam
+draufschauen und gegebenenfalls nachjustieren, so wie bei der Feinabstimmung am 2026-07-26.
+
 ## Aktive Quests / Leads
 
 - **Verabredung mit der Binsenmutter** (heute früh) — einen echten Baum suchen, ein Lied spielen.
