@@ -19,8 +19,33 @@ Nur im Spiel etablierte, spielerbekannte Fakten — DM-Geheimnisse stehen in `dm
   Briar Glen; fährt morgen nach Asbravn. Notiz: sah bei Dämmerung das Licht und die reglose Gestalt
   am Corrin-Bruch und meidet den Ort seither.
 
+## Weidenbruch am Wenzel-Bach
+
+- **Die Binsenmutter** — uraltes Wesen im Weidenbruch, über 270 Jahre dort. Erscheint als kleine alte
+  Frau mit weißem Haar und grauem Tuch, macht dabei keine Ringe im Wasser und bewegt sich gelegentlich
+  einen Wimpernschlag zu schnell; einmal brach die Gestalt kurz auf und zeigte etwas Langes, Nasses mit
+  zu vielen Gelenken. Kann Stimmen und Tierlaute nachahmen. Für die Dörfer „die Gute Frau".
+  **Streng regelgebunden:** nimmt nur, was gegeben wird; nennt den Preis vorher; betrügt nicht; unter
+  ihrem Dach rührt sie niemanden an — draußen gilt das nicht. Haltung: hat Nathan **Frühling** genannt
+  und hält ihn an dem Wort „uns" fest. Sie gab alle sechs Hunde zurück, samt ihrem Wollen.
+  Notiz: Ihre erste war eine Hündin namens **Bel**, vor 66 Jahren, Preis für ein gerettetes Menschenleben.
+
+## Höfe am Wenzel-Bach
+
+- **Derrik Mullen** — Bauer, oberster Hof, hat den Auftrag ausgehängt. Rücken wie eine Sichel,
+  spröde. Behauptet seit Jahren, sein alter blinder Hund **Pell** tauge zu nichts, und hat ihn nie
+  weggegeben. Sein Hund **Nab** war unter den Entführten. Haltung: tief verbunden.
+- **Nella Barrow** — Bäuerin am Wasser; erkannte den nachgeahmten Pfiff ihres Nachbarn. Verdächtigte
+  Nathan zunächst, einen Hund als Opfergabe zu wollen, und entschuldigte sich, indem sie ihm das
+  Protokoll der Großmütter verriet. Zwei schwarzweiße Hunde zurückerhalten.
+- **Tam Osley** — sehniger Bauer, dessen Pfiff die Binsenmutter benutzte. Trug seither Schuldgefühle.
+- **Ilma Osley** — seine Mutter, über siebzig. Erinnerte sich an Mareth, die vor 66 Jahren ein Geschenk
+  hinuntertrug und in derselben Nacht ihren Hund verlor.
+
 ## Asbravn
 
+- **Odral Fenn** — Wirt der Vollen Garbe am Markt; dürr, permanent mit drei Dingen gleichzeitig
+  beschäftigt. Haltung: geschäftlich zufrieden — bietet Nathan eine Woche als Hausmusiker.
 - **Ondra Vesk** — Chartermaster der Charter Hall in Asbravn; um die fünfzig, Schultern einer
   Karawanentreiberin, eine tiefer als die andere; trocken, unbeeindruckbar, führt Buch. Haltung:
   nüchtern wohlwollend — sie trug Nathan ein und strich bei Ewesdale wortlos die Provision.

@@ -66,3 +66,10 @@ Das Log wird chronologisch geführt. Sichtbare Würfe werden mit ihren Rohwürfe
 | 60 | 003 | Bugbear | 8 | Wisdom save +0 | 8 | Open | Dissonant Whispers misslungen |
 | 61 | 003 | Nathan | 4/1/4 | Dissonant Whispers 3d6 | 9 | Open | Psychic; Bugbear flieht |
 | 62 | 003 | Nathan | 15/18 | Persuasion +5, Advantage | 23 | Open | Goblins nehmen die Faule Mulde an |
+| 63 | 004 | Nathan | 12 | Persuasion +6 | 18 | Open | Zimmer und Kost gegen Musik ausgehandelt |
+| 64 | 004 | Nathan | 4 | Performance +9 | 13 | Open | Auftritt beginnt zu bombastisch |
+| 65 | 004 | Nathan | 1 | Luck Point → Advantage | 13 | Open | Advantage-Würfel verpufft, kein Gewinn |
+| 66 | 004 | Nathan | 7 | Performance +9, Heroic Inspiration | 16 | Open | Neuwurf — Abend gerettet, 3 GP 4 SP |
+| 67 | 004 | Nathan | 5 | Insight +4 | 9 | Open | Binsenmutter nicht lesbar |
+| 68 | 004 | Nathan | 3/10 | Persuasion +6, Advantage | 16 | Open | Selbsttäuschung vorgehalten; sie räumt es ein |
+| 69 | 004 | Nathan | 3/15 | Persuasion +6, Advantage | 21 | Open | Der Rat mit dem Baum — alle sechs Hunde |

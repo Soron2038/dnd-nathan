@@ -2,10 +2,10 @@
 
 ## Kampagnenstatus
 
-- Datum: 11 Kythorn 1496 DR, früher Morgen
-- Region: Ewesdale, Hügelland nordwestlich von Asbravn, Sunset Vale, Western Heartlands
+- Datum: 13 Kythorn 1496 DR, früher Morgen
+- Region: Höfe am Wenzel-Bach, halber Tag südwestlich von Asbravn, Sunset Vale, Western Heartlands
 - Party: Nathan al'Nassir (Rogue 1 / Bard 4), solo
-- Level: **5** (Milestone erreicht; erzählerisch beim Abholen der Belohnung in Asbravn zu verankern)
+- Level: 5
 - XP-System: Milestones
 
 ## Aktuelle Ressourcen
@@ -15,61 +15,62 @@
 - Heroic Inspiration 1; Luck Points 3/3; Bardic Inspiration 3/3 (d6)
 - Spell Slots: Level 1 — 4/4; Level 2 — 3/3
 - `A Little Favor` verfügbar
-- Potions of Healing 2; Geld 248 GP, 5 SP
-- Charter Token der Charter Hall, Standing **Copper**, eingetragen in Asbravn
-- Struppi und Wagon unversehrt, in Corm Hallows Scheune in Ewesdale
+- Potions of Healing 2; Geld **260 GP 3 SP**
+- Charter Token der Charter Hall, Standing **Copper**
+- Struppi und Wagon unversehrt, bei den Wenzel-Bach-Höfen
 
 ## Wo wir stehen (Resume-Punkt für die nächste Session)
 
-Nathan wacht in Ewesdale auf. Das Abenteuer ist abgeschlossen: Aldo Ferrin ist zu Hause, die Goblins
-sind abgezogen. **Nächster naheliegender Schritt: zurück nach Asbravn**, um Ondra Vesk zu berichten
-und die hinterlegten 8 GP 4 SP abzuholen — und dort steht wieder ein Brett.
+Nathan wacht in seinem Wagen bei den Wenzel-Bach-Höfen auf. Die sechs Hunde sind zurück, der Auftrag
+ist erledigt. **Für heute früh ist er mit der Binsenmutter verabredet**: gemeinsam einen Baum suchen,
+unter dem sie sitzen und warten kann — und er hat ihr ein Lied zugesagt, ausdrücklich als
+Nicht-Gabe. Danach steht der Weg nach Threeoaks und Coldwell offen, wo der Betrüger als Nächstes
+auftauchen dürfte, sowie die Rückkehr nach Asbravn zu Ondra Vesk.
 
 ## Aktive Quests / Leads
 
-- **Belohnung Ewesdale** — 8 GP 4 SP liegen bei der Charter Hall in Asbravn; Provision gestrichen.
-- **Cardenhollow** — vier Mutterschafe mit dem Kerbschnitt der Halners wurden zurückgebracht; Corm
-  schickt einen Boten. Eine Belohnung oder zumindest Wohlwollen von dort ist wahrscheinlich.
+- **Verabredung mit der Binsenmutter** (heute früh) — einen echten Baum suchen, ein Lied spielen.
+- **Der gefälschte Charter** — jemand zieht seit einem Monat mit einem gefälschten Bronze Token durch
+  die Dörfer, kassiert Vorschüsse und verschwindet. Muster: ein Bogen um Asbravn, immer rund zwei
+  Reisetage entfernt, nie an der Dusk Road, alle Orte ohne eigene Hall. Bestätigt: Ostwick (5 Tenday),
+  Dunmere (4), Little Harrow (3), Farrow's Ford (2). Nächste Kandidaten: **Threeoaks** und **Coldwell**,
+  ein Tag südlich der Wenzel-Höfe. Er bleibt jeweils nur eine Nacht. Ondra Vesk zahlt für Hinweise;
+  kein offizieller Auftrag, nichts hängt am Brett.
+- **Belohnung Wenzel-Bach** — 6 GP liegen bei der Charter Hall in Asbravn.
+- **Angebot Volle Garbe** — Odral Fenn bietet eine Woche als Hausmusiker gegen Kost und Logis.
 
 ## Beziehungen, Besitz und Folgen
 
-- **Ewesdale schuldet Nathan alles.** Theda Ferrin, Corm Hallow, Wyl und Vann Cobb sind ihm zugetan;
-  ein Teil des Dorfes hätte allerdings lieber tote Goblins gesehen als vertriebene.
-- Aldo Ferrin lebt, ist unverletzt und hat seine Hundepfeife zurück. Bran, der Hund der Ferrins,
-  bleibt bei ihm.
-- Das Hornschalenmesser ging an seinen Besitzer zurück und beendet damit einen Nachbarschaftsstreit.
-- Ondra Vesk (Chartermaster Asbravn) hat Nathan eingetragen und die Provision gestrichen.
+- **Die Binsenmutter** schuldet Nathan nichts mehr und er ihr nichts — aber sie hält ihn an dem Wort
+  „uns" fest. Sie hat ihm einen Namen gegeben: **Frühling**.
+- Die Wenzel-Bach-Höfe (Derrik Mullen, Nella Barrow, Tam Osley, Ilma Osley) sind Nathan tief verbunden.
+- Ondra Vesk hat den Ausgang von Ewesdale ausführlich ins Hauptbuch eingetragen und Nathan die
+  inoffizielle Sache mit dem gefälschten Token anvertraut. Standing bleibt vorerst Copper.
+- Odral Fenn (Volle Garbe, Asbravn) schätzt Nathan als Hausmusiker.
+- Ewesdale: Theda und Aldo Ferrin, Corm Hallow, Wyl und Vann Cobb sind Nathan zugetan; Aldo hat ein
+  Bett für ihn. Bran bleibt bei Aldo.
 - Hessa Marden und Coll in Briar Glen sind Nathan wohlgesonnen.
-- Mara Tallow ist Nathan dankbar; die 20-GP-Belohnung des Dorfes wurde ausgezahlt.
-- Jessa Pike, Morn Halvek und Beldo Rusk reisten mit Master Ledger, Kompass, Signet und Dokumenten
-  nach Berdusk zu Ilyra Voss.
-- Nathan besitzt ein fein gearbeitetes Messingfernrohr mit Sternbildern und neu einen
+- Mara Tallow ist Nathan dankbar; Jessa Pike, Morn Halvek und Beldo Rusk sind mit dem Master Ledger
+  nach Berdusk zu Ilyra Voss gereist.
+- Sieben Goblins leben in der Faulen Mulde westlich von Ewesdale.
+- Nathan besitzt ein Messingfernrohr mit Sternbildern, Rafiqs Messingkompass und einen
   Goblin-Krummsäbel aus ordentlichem Stahl.
-- Die unterirdische Glocke des Toll House bei Briar Glen ist stillgelegt.
-- Sieben Goblins leben jetzt in der Faulen Mulde, zwei Täler westlich von Ewesdale.
 
 ## Bekannte offene Fäden
 
-- **Der Bugbear lebt.** Verwundet (24/33 HP), nach Norden über den Kamm abgezogen, ohne Gefolgschaft.
-  Ausdrückliche Ankündigung: „Ich merke mir Gesichter. Und deins ist ein sehr auffälliges."
-- Halten sich die Goblins an die Faule Mulde? Sie bleiben, solange das Angebot besser ist als Schafe.
-- Die Bracken, ein Silver-Standing-Trupp, haben Nathan in der Hall von Asbravn gesehen.
-- Das Licht im Corrin-Bruch bei Briar Glen bleibt unaufgeklärt; Nathan zog weiter.
-- Das Messingfernrohr mit Sternbild-Intarsien ist bislang nur hübsches Reisegepäck.
-- Das Master Ledger verzeichnet acht weitere Anlagen des Wayfarers' Compact. Nathan hat kein Interesse
-  daran, diese systematisch abzusuchen; der Faden bleibt optional.
-- Ursprung und Bedeutung von The Little Court bleiben unbekannt.
+- **Der Bugbear lebt.** Verwundet nach Norden abgezogen, ohne Gefolgschaft.
+  „Ich merke mir Gesichter. Und deins ist ein sehr auffälliges."
+- Hält sich die Binsenmutter an den Rat? Und wenn ja — was wird aus ihr?
+- Halten sich die Goblins an die Faule Mulde?
+- Die Bracken (Silver Standing) sind auf Orlasks Straßenauftrag unterwegs.
+- Das Licht im Corrin-Bruch bei Briar Glen bleibt unaufgeklärt.
+- Das Messingfernrohr mit Sternbild-Intarsien: Herkunft und Zweck offen.
+- Das Master Ledger und die acht weiteren Compact-Anlagen — optional, Nathan hat kein Interesse.
+- Ursprung und Bedeutung von The Little Court bleiben unbekannt. Die Binsenmutter hat es gerochen
+  und als etwas beschrieben, das Nathan „angefasst" hat.
 
 ## Milestone-Stand
 
-**Level 5 ist erreicht und angewandt** (2026-07-28, mit dem Spieler vereinbart). Grundlage: zwei
-abgeschlossene Solo-Abenteuer (The Bell Beneath Briar Glen, Ewesdale) plus abgeschlossene Session 3.
-Die alte Duo-Bedingung aus `dm/SPOILERS_campaign_master.md` entfiel mit dem Solo-Fokus.
-
-Gewählt wurde **Bard 4** (statt Rogue 2), Feature `Ability Score Improvement` → General Feat
-**`Telekinetic`** mit Charisma 16 → 17. Neu dazu: Cantrip `Vicious Mockery`, prepared Spell
-`Phantasmal Force`, ein dritter Level-2-Slot, `Mage Hand` über den Feat.
-
-Nächster Milestone (Level 6) ist noch offen und mit dem Spieler zu vereinbaren. Auf Character Level 6
-stünde Bard 5 mit `Font of Inspiration`, Bardic-Würfel d8 und Level-3-Spells zur Wahl — oder weiterhin
-Rogue 2 mit `Cunning Action`.
+Level 5 erreicht und angewandt (Bard 4, Feat `Telekinetic`). Nächster Milestone (Level 6) offen und
+mit dem Spieler zu vereinbaren; zur Wahl stünden Bard 5 (`Font of Inspiration`, Bardic-Würfel d8,
+Level-3-Spells) oder Rogue 2 (`Cunning Action`).

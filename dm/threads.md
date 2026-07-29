@@ -7,6 +7,24 @@ Status: `[offen]` (in der Welt, unaufgegriffen) · `[angeboten]` (Nathan weiß d
 
 ## Aktiv / offen
 
+- **Die Binsenmutter** `[aufgegriffen]` — Green Hag (`rules/sources/2025_green_hag.md`) im Weidenbruch
+  am Wenzel-Bach. Nathan hat sie ohne Kampf dazu gebracht, sechs entführte Hunde samt ihrem
+  weggenommenen „Wollen" zurückzugeben, und ihr geraten, sich einen echten Baum zu suchen und zu warten.
+  **Nächster Schritt:** die Verabredung am Morgen des 13 Kythorn — gemeinsam einen Baum suchen, Nathan
+  spielt ein Lied, ausdrücklich als Nicht-Gabe. Das Konzept einer freien Gabe hat sie sichtlich
+  überfordert; genau da liegt der Hebel.
+  **Langfristig offen:** Kann sie sich ändern, oder ist sie ihre Natur? Beides ist spielbar. Sie
+  betrügt nicht und hält Regeln — das macht sie zu einer verlässlichen, unheimlichen Verbündeten oder
+  zu einem furchtbaren Gegner, je nachdem, wie Nathan das Wort „uns" behandelt. Sie kennt sein Gesicht,
+  seinen Spitznamen und die Gunst, die an ihm hängt.
+- **Der gefälschte Charter** `[angeboten]` — Ondra Vesks inoffizielle Sache. Bogen um Asbravn, immer
+  zwei Reisetage entfernt, nur Orte ohne Hall, nie an der Dusk Road; nächste Kandidaten **Threeoaks**
+  und **Coldwell**, ein Tag südlich der Wenzel-Höfe. Er bleibt pro Ort nur eine Nacht.
+  **Nächster Schritt:** Wenn Nathan hinunterzieht, entscheidet der Zeitpunkt — er kann ihn verpassen.
+  Ehrlich würfeln oder ehrlich setzen, nicht dramaturgisch schieben. Der Mann ist ein Betrüger, kein
+  Kämpfer: großer Kerl, gut angezogen, feine Art, redet Dörfern Probleme erst ein. Für Nathan ein
+  Spiegel — dasselbe Handwerk, andere Grenzen.
+  **Alternative, die Nathan verworfen hat:** die Dörfer warnen lassen. Bleibt jederzeit nachholbar.
 - **Rückkehr nach Asbravn** `[offen]` — Nathan holt seine 8 GP 4 SP bei Ondra Vesk ab und berichtet.
   **Nächster Schritt:** Ankunft in der Hall spielen; Ondras Reaktion auf die unblutige Lösung (sie wird
   es notieren — Standing-relevant). Danach ein frisches Brett mit drei bis vier Aushängen, die zusammen
