@@ -42,6 +42,30 @@ Nur im Spiel etablierte, spielerbekannte Fakten — DM-Geheimnisse stehen in `dm
 - **Ilma Osley** — seine Mutter, über siebzig. Erinnerte sich an Mareth, die vor 66 Jahren ein Geschenk
   hinuntertrug und in derselben Nacht ihren Hund verlor.
 
+## Coldwell (südöstlich der Wenzel-Bach-Höfe)
+
+Zwanzig Häuser um einen sehr kalten Brunnen; keine Schenke. Wurde am 9 Kythorn von „Adric Vane" um
+12 GP betrogen. Nathan spielte dort am 13 Kythorn einen Abend umsonst; seither ist ihm der Ort verbunden.
+
+- **Der Schmied** — breit, Gesicht wie eine zugeschlagene Tür; empfing Nathan feindselig, sobald das
+  Charter Token auftauchte, und wurde zum Verbündeten, als klar war, dass Nathan wütender war als er.
+  „Wenn Ihr den findet, dann sagt ihm einen schönen Gruß von Coldwell."
+- **Sabetha Crow** — Witwe, vermietet gelegentlich eine Kammer; nahm von Nathan kein Geld. Sie hat
+  Vane den Hinweis auf den alten Stein am Hollow-Acker gegeben und weiß es seither.
+- **Wat** — Müllerjunge, elf oder zwölf, redet ohne Punkt. Sah Vane über die Felder gehen und lieferte
+  ohne es zu ahnen den Abzählreim.
+- **Der alte Hesk** — über neunzig, wird auf seinem Stuhl getragen und genießt es. Kennt die ältere
+  Fassung des Reims samt der Warnung vor der Null.
+
+## Gesucht
+
+- **„Adric Vane"** (Alias; auf Ondra Vesks Zettel stehen zwei weitere Namen) — Ende dreißig, sechs Fuß,
+  dunkles Haar mit grauen Schläfen, gepflegter Bart, dunkelgrüner Mantel mit blattförmiger Schließe,
+  Narbe auf dem linken Handrücken, städtische Sprache, sehr angenehm im Umgang. Führt ein gefälschtes
+  Bronze Charter Token. Redet Dörfern Probleme ein und verkauft die Lösung. **Kein gewöhnlicher
+  Betrüger:** Er geht die Lange Furche ab und sucht etwas; die Vorschüsse finanzieren die Suche.
+  Stand 14 Kythorn vier Tage Vorsprung, Richtung Barrowmill.
+
 ## Asbravn
 
 - **Odral Fenn** — Wirt der Vollen Garbe am Markt; dürr, permanent mit drei Dingen gleichzeitig

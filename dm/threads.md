@@ -17,13 +17,37 @@ Status: `[offen]` (in der Welt, unaufgegriffen) · `[angeboten]` (Nathan weiß d
   betrügt nicht und hält Regeln — das macht sie zu einer verlässlichen, unheimlichen Verbündeten oder
   zu einem furchtbaren Gegner, je nachdem, wie Nathan das Wort „uns" behandelt. Sie kennt sein Gesicht,
   seinen Spitznamen und die Gunst, die an ihm hängt.
-- **Der gefälschte Charter** `[angeboten]` — Ondra Vesks inoffizielle Sache. Bogen um Asbravn, immer
-  zwei Reisetage entfernt, nur Orte ohne Hall, nie an der Dusk Road; nächste Kandidaten **Threeoaks**
-  und **Coldwell**, ein Tag südlich der Wenzel-Höfe. Er bleibt pro Ort nur eine Nacht.
-  **Nächster Schritt:** Wenn Nathan hinunterzieht, entscheidet der Zeitpunkt — er kann ihn verpassen.
-  Ehrlich würfeln oder ehrlich setzen, nicht dramaturgisch schieben. Der Mann ist ein Betrüger, kein
-  Kämpfer: großer Kerl, gut angezogen, feine Art, redet Dörfern Probleme erst ein. Für Nathan ein
-  Spiegel — dasselbe Handwerk, andere Grenzen.
+- **Die Lange Furche** `[aufgegriffen]` — der Hauptfaden. Was als „Betrüger mit gefälschtem Token"
+  begann, ist etwas anderes: Eine **tausend Jahre alte, verschüttete Straße** läuft von Nordwesten nach
+  Südosten quer durch das Land, sichtbar nur als Streifen ohne Bewuchs und nur bei flachem Licht. Ihre
+  **Meilensteine** sind gehauene Quader zwei Fuß unter der Grasnarbe, mit Rad-Relief und Kerbenzahl.
+  Die Zahlen **zählen abwärts**. Coldwell ist 21.
+
+  „Adric Vane" geht diese Straße ab und finanziert die Suche mit Vorschüssen. Sein verlorener Zettel:
+  Ostwick 34, Dunmere 29, …arrow 26, Farrow's Ford 24, Threeoaks 22, Coldwell 21 (alle durchgestrichen),
+  dann Barrowmill und Ferrin's Cross ohne Zahl — und ganz unten, ohne Namen: **1**.
+
+  **Der Reim** (Kinderfassung, Merkhilfe für die letzten zehn Steine): *Zehn im Moor und neun im Ried,
+  / acht ist da, wo keiner sieht, / sieben, sechs im Hagedorn, / fünf und vier im hohlen Korn, / drei
+  steht schief und zwei ist fort — / und der Erste hält das Tor.*
+  **Hesks ältere Fassung** hängt hinten an: *Zähl nicht weiter, geh nicht vor. / Wer die Null noch
+  sehen will — den zählt sie mit, dann ist es still.*
+
+  **Noch nicht festgelegt (bewusst offen):** Was am Ende steht. Es sollte etwas sein, das die
+  Warnung verdient und trotzdem nicht welterschütternd ist — die Kampagne bleibt lokal. Kandidaten:
+  ein Tor, das etwas Zählendes bewacht; ein Ort, an dem eine alte Straße endet, weil das, wohin sie
+  führte, nicht mehr existiert; etwas, das Namen und Zahlen sammelt. Erst festlegen, wenn Nathan näher
+  ist — und immer so, dass es sich mit Cleverness statt Attrition lösen lässt.
+
+  **Nächster Schritt:** Barrowmill, vier bis fünf Meilen südöstlich, verlassener Mühlenort, zu Fuß
+  (der Wagen bleibt in Coldwell). Vane hat vier Tage Vorsprung und arbeitet langsam, weil er jeden
+  Stein sucht und freilegt — Nathan hat den Reim und weiß damit die letzten zehn Stationen im Voraus.
+  Das ist sein Vorteil, und er sollte spürbar etwas wert sein.
+
+  **Ehrlichkeitsregel für diesen Faden:** Zeitpunkte werden offen gewürfelt oder offen gesetzt, nicht
+  dramaturgisch geschoben (so geschehen am Wegstein vor Coldwell — Tabelle vorher offengelegt, d20=17,
+  Nathan kam vier Tage zu spät).
+
   **Alternative, die Nathan verworfen hat:** die Dörfer warnen lassen. Bleibt jederzeit nachholbar.
 - **Rückkehr nach Asbravn** `[offen]` — Nathan holt seine 8 GP 4 SP bei Ondra Vesk ab und berichtet.
   **Nächster Schritt:** Ankunft in der Hall spielen; Ondras Reaktion auf die unblutige Lösung (sie wird

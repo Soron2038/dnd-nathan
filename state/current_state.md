@@ -2,8 +2,8 @@
 
 ## Kampagnenstatus
 
-- Datum: 13 Kythorn 1496 DR, früher Morgen
-- Region: Höfe am Wenzel-Bach, halber Tag südwestlich von Asbravn, Sunset Vale, Western Heartlands
+- Datum: 14 Kythorn 1496 DR, früher Morgen
+- Region: Coldwell, südöstlich der Wenzel-Bach-Höfe, Sunset Vale, Western Heartlands
 - Party: Nathan al'Nassir (Rogue 1 / Bard 4), solo
 - Level: 5
 - XP-System: Milestones
@@ -17,15 +17,16 @@
 - `A Little Favor` verfügbar
 - Potions of Healing 2; Geld **260 GP 3 SP**
 - Charter Token der Charter Hall, Standing **Copper**
-- Struppi und Wagon unversehrt, bei den Wenzel-Bach-Höfen
+- Struppi und Wagon unversehrt, in Coldwell
+- Neu: gute Stiefel (Geschenk Derrik Mullens, vom Vater geerbt); Adric Vanes verlorene Notizliste
 
 ## Wo wir stehen (Resume-Punkt für die nächste Session)
 
-Nathan wacht in seinem Wagen bei den Wenzel-Bach-Höfen auf. Die sechs Hunde sind zurück, der Auftrag
-ist erledigt. **Für heute früh ist er mit der Binsenmutter verabredet**: gemeinsam einen Baum suchen,
-unter dem sie sitzen und warten kann — und er hat ihr ein Lied zugesagt, ausdrücklich als
-Nicht-Gabe. Danach steht der Weg nach Threeoaks und Coldwell offen, wo der Betrüger als Nächstes
-auftauchen dürfte, sowie die Rückkehr nach Asbravn zu Ondra Vesk.
+Nathan wacht in Sabetha Crows Kammer in Coldwell auf. Vor ihm liegt im flachen Morgenlicht die
+**Lange Furche** — die verschüttete alte Straße, sichtbar als Streifen, auf dem nichts wächst.
+**Adric Vane hat vier Tage Vorsprung** und arbeitet sich die Meilensteine hinunter nach Südosten.
+Nächste Station: **Barrowmill**, vier bis fünf Meilen, ein verlassener Mühlenort. Der Wagen muss in
+Coldwell bleiben — über Äcker und den Bach kommt er nicht mit.
 
 ## Offene Tisch-Abmachung
 
@@ -35,20 +36,33 @@ draufschauen und gegebenenfalls nachjustieren, so wie bei der Feinabstimmung am 
 
 ## Aktive Quests / Leads
 
-- **Verabredung mit der Binsenmutter** (heute früh) — einen echten Baum suchen, ein Lied spielen.
-- **Der gefälschte Charter** — jemand zieht seit einem Monat mit einem gefälschten Bronze Token durch
-  die Dörfer, kassiert Vorschüsse und verschwindet. Muster: ein Bogen um Asbravn, immer rund zwei
-  Reisetage entfernt, nie an der Dusk Road, alle Orte ohne eigene Hall. Bestätigt: Ostwick (5 Tenday),
-  Dunmere (4), Little Harrow (3), Farrow's Ford (2). Nächste Kandidaten: **Threeoaks** und **Coldwell**,
-  ein Tag südlich der Wenzel-Höfe. Er bleibt jeweils nur eine Nacht. Ondra Vesk zahlt für Hinweise;
-  kein offizieller Auftrag, nichts hängt am Brett.
-- **Belohnung Wenzel-Bach** — 6 GP liegen bei der Charter Hall in Asbravn.
+- **Die Lange Furche und Adric Vane.** Der gefälschte Charter war nie der Kern: Vane geht eine
+  tausend Jahre alte, verschüttete Straße ab und finanziert die Suche mit Vorschüssen. Die
+  Meilensteine tragen Kerbenzahlen, die abwärts zählen; Coldwell ist **21**. Auf seinem verlorenen
+  Zettel stehen erledigte Orte mit Zahlen (Ostwick 34, Dunmere 29, …arrow 26, Farrow's Ford 24,
+  Threeoaks 22, Coldwell 21), dann Barrowmill und Ferrin's Cross ohne Zahl — und ganz unten, ohne
+  Namen und ohne Streichung: **1**.
+- **Der Abzählreim.** Die Kinder in Coldwell singen beim Seilspringen eine Merkhilfe für die letzten
+  zehn Steine: *Zehn im Moor und neun im Ried, / acht ist da, wo keiner sieht, / sieben, sechs im
+  Hagedorn, / fünf und vier im hohlen Korn, / drei steht schief und zwei ist fort — / und der Erste
+  hält das Tor.* Der über neunzigjährige Hesk kennt den älteren Schluss: *Zähl nicht weiter, geh nicht
+  vor. / Wer die Null noch sehen will — den zählt sie mit, dann ist es still.*
+  **Es gibt eine Null.** Vane kennt den Reim vermutlich nicht.
+- **Beschreibung Vanes:** Ende dreißig, sechs Fuß, dunkles Haar mit grauen Schläfen, gepflegter Bart,
+  dunkelgrüner Mantel mit blattförmiger Schließe, Narbe auf dem linken Handrücken, städtische Sprache,
+  sehr angenehm im Umgang. Redet Dörfern Probleme erst ein und verkauft dann die Lösung.
+- **Belohnung Wenzel-Bach** — 6 GP liegen bei der Charter Hall in Asbravn; Bericht an Ondra Vesk steht aus.
 - **Angebot Volle Garbe** — Odral Fenn bietet eine Woche als Hausmusiker gegen Kost und Logis.
 
 ## Beziehungen, Besitz und Folgen
 
-- **Die Binsenmutter** schuldet Nathan nichts mehr und er ihr nichts — aber sie hält ihn an dem Wort
-  „uns" fest. Sie hat ihm einen Namen gegeben: **Frühling**.
+- **Die Binsenmutter** hat ihr Wasser zum ersten Mal seit 130 Jahren verlassen und sitzt seit dem
+  13 Kythorn unter einer Eiche auf dem Rücken südlich des Bruchs. Ein Rotkehlchen blieb kurz sitzen,
+  obwohl sie da war. Sie nennt Nathan **Frühling** und hat ihm ungefragt und ohne Gegenleistung gesagt,
+  was an ihm hängt: **kein Segen, sondern Aufmerksamkeit** — etwas hat ihn angeschaut und schaut noch
+  immer, und es ist nicht von hier.
+- **Coldwell** ist Nathan zugetan; er spielte einen Abend umsonst für ein Dorf, das gerade um 12 GP
+  betrogen worden war. Der Schmied, Sabetha Crow, der Müllerjunge Wat und der alte Hesk.
 - Die Wenzel-Bach-Höfe (Derrik Mullen, Nella Barrow, Tam Osley, Ilma Osley) sind Nathan tief verbunden.
 - Ondra Vesk hat den Ausgang von Ewesdale ausführlich ins Hauptbuch eingetragen und Nathan die
   inoffizielle Sache mit dem gefälschten Token anvertraut. Standing bleibt vorerst Copper.
@@ -72,8 +86,10 @@ draufschauen und gegebenenfalls nachjustieren, so wie bei der Feinabstimmung am 
 - Das Licht im Corrin-Bruch bei Briar Glen bleibt unaufgeklärt.
 - Das Messingfernrohr mit Sternbild-Intarsien: Herkunft und Zweck offen.
 - Das Master Ledger und die acht weiteren Compact-Anlagen — optional, Nathan hat kein Interesse.
-- Ursprung und Bedeutung von The Little Court bleiben unbekannt. Die Binsenmutter hat es gerochen
-  und als etwas beschrieben, das Nathan „angefasst" hat.
+- **The Little Court:** Die Binsenmutter beschreibt es als **Aufmerksamkeit**, nicht als Segen —
+  etwas schaut Nathan an und hat nie wieder weggeschaut; die Tiere kommen zu *dem*, nicht zu ihm.
+  Und es sei nicht aus dieser Gegend. Herkunft weiterhin unbekannt.
+- **Was ist die Null?** Und was das Tor, das der Erste hält? Der Reim warnt ausdrücklich davor.
 
 ## Milestone-Stand
 

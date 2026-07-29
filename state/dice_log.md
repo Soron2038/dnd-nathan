@@ -73,3 +73,6 @@ Das Log wird chronologisch geführt. Sichtbare Würfe werden mit ihren Rohwürfe
 | 67 | 004 | Nathan | 5 | Insight +4 | 9 | Open | Binsenmutter nicht lesbar |
 | 68 | 004 | Nathan | 3/10 | Persuasion +6, Advantage | 16 | Open | Selbsttäuschung vorgehalten; sie räumt es ein |
 | 69 | 004 | Nathan | 3/15 | Persuasion +6, Advantage | 21 | Open | Der Rat mit dem Baum — alle sechs Hunde |
+| 70 | 005 | DM | 17 | Situationswurf, Tabelle offengelegt | 17 | Open | Adric Vane war bereits in Coldwell (vor vier Tagen) |
+| 71 | 005 | Nathan | 12 | Investigation +3 | 15 | Open | Meilenstein am Hollow-Acker gelesen, Zettel gefunden |
+| 72 | 005 | Nathan | 20 | Performance +9 | 29 | Open | natural 20 — der Abend in Coldwell; Hesks Reim-Fassung |
