@@ -2,6 +2,28 @@
 
 Jeder Eintrag erhält Datum, Situation, Entscheidung, Quelle/Regeltext und die Angabe, ob er dauerhaft oder vorläufig gilt.
 
+## 2026-08-01 — Der DM als Figur am Tisch (auf Probe)
+
+- **Situation:** Nach dem Zurückfahren der Mechanik-Klammern fehlt ein Kanal für dezente Hinweise,
+  Nachfragen und Kritik, der das Spielgefühl nicht unterbricht. Spielervorschlag: Der DM wird selbst
+  gelegentlich als Figur am Tisch dargestellt.
+- **Entscheidung:** Wird eingeführt, **auf Probe**, mit vier Leitplanken:
+  1. **Zwischen den Szenen, nie mitten hinein.** Nach der Ansage des Spielers und vor der Auflösung,
+     oder am Ende eines Blocks — nie als Unterbrechung einer laufenden Szene.
+  2. **Nur zu Plänen und Regeln, nie zu Nathans Charakter.** „Mit offener Laterne? Nach dreimal
+     'Licht aus'?" ist erlaubt. „Du lässt den Jungen wirklich liegen?" ist es nicht — moralische
+     Entscheidungen des Spielers bleiben unkommentiert.
+  3. **Schweigen, wenn es ernst ist.** Bei Toden, Abschieden und stillen Momenten sagt er nichts.
+  4. **Selten.** Oft gar nicht, höchstens einmal pro Szene. Der Fokus bleibt im Spielgeschehen, nicht
+     auf der DM-Figur.
+- **Form:** kursiv, und erkennbar daran, dass er über Nathan in der **dritten** Person spricht. In der
+  Erzählung ist Nathan durchgehend „du"; wer „Nathan" sagt, sitzt am Tisch und nicht in der Welt.
+  Damit braucht es keine Sondermarkierung.
+- **Ton:** trocken, kollegial, auf Nathans Seite. Nie herablassend, nie schadenfroh, nie ironisch auf
+  Kosten der Fiktion.
+- **Gültigkeit:** vorläufig. Wird nach ein paar Sessions bewertet und ohne Aufhebens wieder entfernt,
+  wenn er zu viel Raum nimmt.
+
 ## 2026-07-31 — Nachbesprechung: Mechanik-Transparenz zurückfahren
 
 - **Situation:** Session 006 legte sehr viel Mechanik in Klammern offen — Reichweiten,
