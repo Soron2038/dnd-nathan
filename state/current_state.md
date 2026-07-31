@@ -114,6 +114,9 @@ Nathan hat Bett Corry gesagt, Trell sei schon Stunden tot gewesen. Das war gelog
 
 ## Milestone-Stand
 
-Level 5 erreicht und angewandt (Bard 4, Feat `Telekinetic`). Nächster Milestone (Level 6) offen und
-mit dem Spieler zu vereinbaren; zur Wahl stünden Bard 5 (`Font of Inspiration`, Bardic-Würfel d8,
-Level-3-Spells) oder Rogue 2 (`Cunning Action`).
+Level 5 erreicht und angewandt (Bard 4, Feat `Telekinetic`).
+
+**Level 6 ist entschieden: Bard 5.** Der Spieler bleibt beim Barden — `Font of Inspiration` (Bardic
+Inspiration kehrt auf jedem Short Rest zurück), Bardic-Würfel auf **d8**, dazu **Level-3-Spells**.
+Begründung des Spielers: Bardic Inspiration ist solo vor allem über die `Cutting Words`-Reaction
+wertvoll und gibt darüber indirekt Stabilität. Der Milestone selbst ist noch nicht vergeben.

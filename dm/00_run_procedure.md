@@ -89,6 +89,29 @@ Aufträge werden **angeboten, nie aufgedrängt**. Nathan wählt aus mehreren; Ab
   Ort, an dem Companions auftauchen.
 - Inoffizielle Arbeit hängt nicht am Brett, sondern wird zugesteckt. Für Nathan der interessantere Teil.
 
+## Beide Seiten zum Tragen bringen (Ruling 2026-07-31)
+
+Nathan meidet aus Charaktergründen jedes Risiko, das sich mit Tricks umgehen lässt — völlig zu Recht.
+Der Spieler mag aber **machbare Kämpfe**. Beides ist vereinbar, wenn der DM nicht jedes Mal dieselbe
+Sorte Lage baut. Nach drei Abenteuern in Folge ohne Kampf gilt:
+
+- **Die Uhr ist der Kampfkiller, nicht der Gegner.** Sobald eine Geisel, ein Sterbender oder eine
+  Frist im Spiel ist, ist Kämpfen automatisch die schlechtere Wahl. Solche Lagen sind gut — aber
+  nicht jedes Mal. Es braucht auch Gegner ohne Uhr, bei denen Zurückschlagen die vernünftige Antwort
+  ist: kein Zeitdruck, keine Geisel, ein offener Rückzugsweg.
+- **Kämpfbare Solo-Gegner machen Schaden, nicht Kontrolle.** Save-or-Suck-Effekte gegen Nathans
+  schwache Saves (Con **+1** ohne Proficiency, Wis +1) sind solo faktisch save-or-die: In einer Gruppe
+  holt dich jemand aus der Paralyse, allein wirst du gefressen. Der Carrion Crawler in Session 006 war
+  deshalb kein kämpfbarer Gegner, sondern ein Problem, das man umgehen *musste*.
+  Gut geeignet: Bandits, Wolves, Gnolls, Hobgoblins, Kobolds in Zahl, ein Ogre — Gegner, die
+  abnutzen, Runden zum Reagieren lassen und einen Abbruch mittendrin erlauben.
+- **Tricks dürfen scheitern — aber durch Gegner-Design, nie durch DM-Willkür.** Legitime Gründe:
+  keine Sprache (`Command`, `Suggestion` greifen nicht — so geschehen beim Crawler), hohe Wisdom,
+  Immunität gegen Charmed oder Frightened, oder schlicht Zahl (eine Illusion deckt keinen 30 Fuß
+  breiten Raum ab).
+- **Die Aufklärung sagt, welche Sorte Lage vorliegt.** Zahl, Bewaffnung, Gelände und Rückzugsweg
+  offenlegen reicht — der Spieler erkennt daran selbst, ob gekämpft werden kann.
+
 ## Solo-Kampf-Prinzipien
 
 Nathan ist squishy: 27 HP, AC 15, kein Frontliner.
