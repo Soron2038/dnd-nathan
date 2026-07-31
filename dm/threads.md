@@ -17,7 +17,22 @@ Status: `[offen]` (in der Welt, unaufgegriffen) · `[angeboten]` (Nathan weiß d
   betrügt nicht und hält Regeln — das macht sie zu einer verlässlichen, unheimlichen Verbündeten oder
   zu einem furchtbaren Gegner, je nachdem, wie Nathan das Wort „uns" behandelt. Sie kennt sein Gesicht,
   seinen Spitznamen und die Gunst, die an ihm hängt.
-- **Die Lange Furche** `[aufgegriffen]` — der Hauptfaden. Was als „Betrüger mit gefälschtem Token"
+- **Die Lange Furche** `[abgegeben]` — **Stand 14 Kythorn: Nathan steigt aus.** Nach Trells Tod in
+  Barrowmill hat er entschieden, alles, was er weiß, nach Asbravn zu Ondra Vesk zu tragen und die
+  Verfolgung der Charter Hall zu überlassen. Diese Entscheidung ist zu respektieren.
+
+  **DM-Regel für diesen Faden:** Der Faden wird **nicht** heimlich wieder an Nathan festgemacht — kein
+  Zufall, der ihn zurückzwingt, keine Schuldzuweisung, kein NPC, der ihn moralisch nötigt. Er darf in
+  der Welt weiterlaufen und ihn *erreichen* (ein Aushang, ein Gerücht, ein Trupp, der nicht
+  zurückkommt, eine Nachricht von Ondra), aber nur als Angebot, das er ohne Kosten ablehnen kann.
+  Wenn er ihn nie wieder aufnimmt, endet er als das, was er ist: eine Sache, die andere Leute erledigt
+  oder auch nicht. Auch das ist ein guter Ausgang.
+
+  **Was Nathan der Hall übergeben kann:** Name und Beschreibung Vanes, das gefälschte Bronze Token,
+  Vanes verlorene Notizliste, die Steine und ihre Zahlen, die Umdeutung des Musters, der Abzählreim in
+  beiden Fassungen, und die Auskunft von Bett Corry, dass Vane nach „den alten Versen" fragt.
+
+  Was als „Betrüger mit gefälschtem Token"
   begann, ist etwas anderes: Eine **tausend Jahre alte, verschüttete Straße** läuft von Nordwesten nach
   Südosten quer durch das Land, sichtbar nur als Streifen ohne Bewuchs und nur bei flachem Licht. Ihre
   **Meilensteine** sind gehauene Quader zwei Fuß unter der Grasnarbe, mit Rad-Relief und Kerbenzahl.
@@ -39,16 +54,30 @@ Status: `[offen]` (in der Welt, unaufgegriffen) · `[angeboten]` (Nathan weiß d
   führte, nicht mehr existiert; etwas, das Namen und Zahlen sammelt. Erst festlegen, wenn Nathan näher
   ist — und immer so, dass es sich mit Cleverness statt Attrition lösen lässt.
 
-  **Nächster Schritt:** Barrowmill, vier bis fünf Meilen südöstlich, verlassener Mühlenort, zu Fuß
-  (der Wagen bleibt in Coldwell). Vane hat vier Tage Vorsprung und arbeitet langsam, weil er jeden
-  Stein sucht und freilegt — Nathan hat den Reim und weiß damit die letzten zehn Stationen im Voraus.
-  Das ist sein Vorteil, und er sollte spürbar etwas wert sein.
+  **Stand nach Barrowmill:** Der Stein **16** steht aufrecht in der Grabkammer des dortigen Hügels —
+  Vane hat ihn zwei Tage lang gesucht und nicht gefunden, weil der ganze Ort aus der Straße gebaut ist.
+  Nathan hat ihn gefunden. Vane ist am 12. Kythorn nach Südost weiter, Richtung Ferrin's Cross.
+  Und: **Vane fragt Fremde nach „den alten Versen"** — er weiß von der Existenz des Reims und hat ihn
+  nicht. Nathan hat ihn seit dem 13. Kythorn.
 
   **Ehrlichkeitsregel für diesen Faden:** Zeitpunkte werden offen gewürfelt oder offen gesetzt, nicht
   dramaturgisch geschoben (so geschehen am Wegstein vor Coldwell — Tabelle vorher offengelegt, d20=17,
   Nathan kam vier Tage zu spät).
 
   **Alternative, die Nathan verworfen hat:** die Dörfer warnen lassen. Bleibt jederzeit nachholbar.
+- **Barrowmill** `[offen]` — der Carrion Crawler lebt (34/51 HP), hat Trells Körper und einen eigenen
+  Zugang durch einen Spalt in der hinteren Kammerwand; er war nie eingesperrt. Unberührt geblieben
+  sind: die **Halde** in der hinteren rechten Ecke (dort wirft etwas das Licht **gelber** zurück als
+  Bronze), die verstreuten Fibeln, fünf leere Nischen. Und der Meilenstein 16 steht immer noch dort.
+  Offen bleibt auch, was aus **Odo, Bett und Halm** wird — sie haben einen Toten, kein Werkzeug mehr
+  im Loch und keinen Lohn. Sie könnten nach Hluthvar zurück, es selbst noch einmal versuchen, oder in
+  Coldwell auftauchen. Nicht erzwingen; wenn Nathan nie zurückkommt, ist auch das eine Antwort.
+- **Die Bronzeplatte mit dem Loch** `[offen]` — handlang, aus dem Halbkreis der Grabbeigaben.
+  Zweck unbekannt. Guter Aufhänger für einen Antiquar (Ilyra Voss in Berdusk?) oder für die Frage,
+  was ein Wegwärter vor tausend Jahren bei sich trug.
+- **Der Brunnen von Coldwell** `[offen]` — kalt wie ein Stein, friert bei keinem Frost zu, dampft
+  statt dessen; Harls Großvater behauptete, ein hineingeworfener Stein sei neun Zählschläge gefallen.
+  Reine Textur, kein Auftrag. Kann Kuriosität bleiben oder irgendwann etwas sein.
 - **Rückkehr nach Asbravn** `[offen]` — Nathan holt seine 8 GP 4 SP bei Ondra Vesk ab und berichtet.
   **Nächster Schritt:** Ankunft in der Hall spielen; Ondras Reaktion auf die unblutige Lösung (sie wird
   es notieren — Standing-relevant). Danach ein frisches Brett mit drei bis vier Aushängen, die zusammen

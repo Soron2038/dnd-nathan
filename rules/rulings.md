@@ -2,6 +2,35 @@
 
 Jeder Eintrag erhält Datum, Situation, Entscheidung, Quelle/Regeltext und die Angabe, ob er dauerhaft oder vorläufig gilt.
 
+## 2026-07-31 — `Phantasmal Force` ist stationär
+
+- **Situation:** Nathan setzte im Grabhügel von Barrowmill einen phantasmalen Fire Elemental in den
+  Türsturz und fragte, ob die Illusion das Ziel verfolgen oder es aktiv angreifen kann.
+- **Entscheidung:** **Nein.** Der Phantasm bleibt in dem 10-foot Cube, in dem er erschaffen wurde. Er
+  wirkt innerhalb dieses Würfels lebendig (Bewegung, Geräusch, Temperatur — der Spelltext nennt
+  „sound, temperature, and other stimuli" ausdrücklich), verlässt ihn aber nicht und folgt nicht.
+- **Begründung:** Der 2024er Spelltext enthält keinerlei Klausel zum Bewegen der Illusion, während
+  `Major Image` (Level 3) sie ausdrücklich hat. Der Unterschied ist Design, nicht Auslassung.
+- **Zwei Ableitungen, die am Tisch wichtig waren:**
+  - Der Schaden kommt **in Nathans Zügen** („On each of your turns…"), nicht am Ende des Zieles
+    seines Zuges, und nur bei einem Ziel im Bereich oder innerhalb 5 feet: **2d8 Psychic**.
+  - Der Phantasm ist für das Ziel **sichtundurchlässig**. Wer hinter oder in ihm steht, ist für das
+    Ziel nicht sichtbar — was bei einem Carrion Crawler dessen `Paralyzing Tentacles` abschaltet
+    („one creature the carrion crawler **can see**"). Für alle anderen ist dort schlicht Luft.
+- **Quelle:** `https://www.aidedd.org/spell/phantasmal-force`, Player's Handbook 2024; erfasst in
+  `rules/sources/2024_spells_nathan.md`.
+- **Gültigkeit:** dauerhaft.
+
+## 2026-07-31 — Tödlichkeit von NPCs
+
+- **Situation:** Trell, der gefangene Steinbrucharbeiter, fiel auf 0 HP und starb an drei
+  fehlgeschlagenen Death Saves (erster Wurf eine natürliche 1, die doppelt zählt).
+- **Entscheidung:** NPC-HP und -AC werden **vor** dem ersten Wurf offen festgelegt und danach nicht
+  mehr angepasst; Death Saves laufen offen und werden nicht geschönt. Ein NPC-Tod muss aus der
+  Situation folgen und darf nicht als Schock gesetzt werden — er darf aber eintreten.
+- **Quelle:** `campaign/00_campaign_contract.md` (Würfe werden nicht geschönt); Session 006.
+- **Gültigkeit:** dauerhaft.
+
 ## 2026-07-28 — Milestone: Level 5 und Bard 4
 
 - **Situation:** Der ursprüngliche Level-5-Milestone verlangte zwei Solo-Abenteuer **und** die Bildung

@@ -2,7 +2,7 @@
 
 ## Kampagnenstatus
 
-- Datum: 14 Kythorn 1496 DR, früher Morgen
+- Datum: 15 Kythorn 1496 DR, früher Morgen
 - Region: Coldwell, südöstlich der Wenzel-Bach-Höfe, Sunset Vale, Western Heartlands
 - Party: Nathan al'Nassir (Rogue 1 / Bard 4), solo
 - Level: 5
@@ -18,78 +18,99 @@
 - Potions of Healing 2; Geld **260 GP 3 SP**
 - Charter Token der Charter Hall, Standing **Copper**
 - Struppi und Wagon unversehrt, in Coldwell
-- Neu: gute Stiefel (Geschenk Derrik Mullens, vom Vater geerbt); Adric Vanes verlorene Notizliste
+- Stiefel von Derrik Mullens Vater; Adric Vanes verlorene Notizliste; kurzes Brecheisen (Geschenk Harls)
 
 ## Wo wir stehen (Resume-Punkt für die nächste Session)
 
-Nathan wacht in Sabetha Crows Kammer in Coldwell auf. Vor ihm liegt im flachen Morgenlicht die
-**Lange Furche** — die verschüttete alte Straße, sichtbar als Streifen, auf dem nichts wächst.
-**Adric Vane hat vier Tage Vorsprung** und arbeitet sich die Meilensteine hinunter nach Südosten.
-Nächste Station: **Barrowmill**, vier bis fünf Meilen, ein verlassener Mühlenort. Der Wagen muss in
-Coldwell bleiben — über Äcker und den Bach kommt er nicht mit.
+Nathan wacht am Morgen des 15 Kythorn in Sabetha Crows Kammer in Coldwell auf. Er ist unverletzt und
+hat gut geschlafen. Kurz vor Sonnenaufgang saßen drei Vögel im offenen Fensterspalt und sahen herein.
+
+**Seine Entscheidung steht:** Er steigt aus der Verfolgung aus. Er will nach **Asbravn**, alles, was
+er über die Lange Furche und Adric Vane weiß, bei Ondra Vesk abliefern und die Sache der Charter Hall
+überlassen. Danach sucht er sich etwas Freundlicheres — einen fetten Händler mit schlecht gesicherter
+Truhe, oder, und darüber hat er beim Einschlafen gelächelt, eine Hochzeit.
+
+Wagen und Struppi stehen bereit. Asbravn liegt nordwestlich.
 
 ## Offene Tisch-Abmachung
 
-**Nach Abschluss des laufenden Abenteuers ist eine kurze Nachbesprechung vereinbart** (Spielerwunsch,
-13 Kythorn): Was lief gut, was nicht, sind Fragen offen? Kein großes Format — einmal gemeinsam
-draufschauen und gegebenenfalls nachjustieren, so wie bei der Feinabstimmung am 2026-07-26.
+Die für den Abenteuerabschluss verabredete Nachbesprechung wurde am 2026-07-31 eingelöst. Ergebnisse
+mit Regelcharakter stehen in `rules/rulings.md` (`Phantasmal Force` ist stationär; NPC-Tödlichkeit).
+Weitere Punkte kann der Spieler jederzeit nachreichen.
+
+## Was in Barrowmill geschah
+
+Nathan stieg allein in den Grabhügel bei Barrowmill, um **Trell** zu retten, einen Steinbrucharbeiter,
+der seit zwanzig Stunden mit gebrochenem Bein in einer Grabnische lag. In der Kammer hauste ein
+**Carrion Crawler**. Nathans Plan funktionierte handwerklich vollständig: `Mage Hand` trug die
+abgeblendete Laterne als Köder hinein, `Phantasmal Force` setzte dem Tier eine Feuerwand in den
+Türsturz, und er selbst blieb zehn Runden lang ungesehen und unverletzt.
+
+Es reichte trotzdem nicht. Die Illusion schützte eine Tür, keinen Weg. In der einen Runde, in der das
+Tier Trell erreichte, saß der Biss; Trell fiel auf 0 und starb an drei fehlgeschlagenen Death Saves —
+der erste davon eine natürliche 1. Nathan kniete neben ihm, als der Puls aufhörte.
+
+Er zog sich zurück, ohne den Kampf zu suchen, drückte Odo Rask draußen Trells halb geschnitztes
+Holztier in die Hand und ging wortlos. **Halm**, Trells siebzehnjähriger Bruder, zog danach dreißig Fuß
+Seil aus dem Loch und hatte am Ende einen geschlossenen Knoten in den Händen.
+
+Nathan hat Bett Corry gesagt, Trell sei schon Stunden tot gewesen. Das war gelogen.
 
 ## Aktive Quests / Leads
 
-- **Die Lange Furche und Adric Vane.** Der gefälschte Charter war nie der Kern: Vane geht eine
-  tausend Jahre alte, verschüttete Straße ab und finanziert die Suche mit Vorschüssen. Die
-  Meilensteine tragen Kerbenzahlen, die abwärts zählen; Coldwell ist **21**. Auf seinem verlorenen
-  Zettel stehen erledigte Orte mit Zahlen (Ostwick 34, Dunmere 29, …arrow 26, Farrow's Ford 24,
-  Threeoaks 22, Coldwell 21), dann Barrowmill und Ferrin's Cross ohne Zahl — und ganz unten, ohne
-  Namen und ohne Streichung: **1**.
-- **Der Abzählreim.** Die Kinder in Coldwell singen beim Seilspringen eine Merkhilfe für die letzten
-  zehn Steine: *Zehn im Moor und neun im Ried, / acht ist da, wo keiner sieht, / sieben, sechs im
-  Hagedorn, / fünf und vier im hohlen Korn, / drei steht schief und zwei ist fort — / und der Erste
-  hält das Tor.* Der über neunzigjährige Hesk kennt den älteren Schluss: *Zähl nicht weiter, geh nicht
-  vor. / Wer die Null noch sehen will — den zählt sie mit, dann ist es still.*
-  **Es gibt eine Null.** Vane kennt den Reim vermutlich nicht.
-- **Beschreibung Vanes:** Ende dreißig, sechs Fuß, dunkles Haar mit grauen Schläfen, gepflegter Bart,
-  dunkelgrüner Mantel mit blattförmiger Schließe, Narbe auf dem linken Handrücken, städtische Sprache,
-  sehr angenehm im Umgang. Redet Dörfern Probleme erst ein und verkauft dann die Lösung.
-- **Belohnung Wenzel-Bach** — 6 GP liegen bei der Charter Hall in Asbravn; Bericht an Ondra Vesk steht aus.
+- **Bericht an Ondra Vesk in Asbravn** — der nächste Schritt. Nathan übergibt der Hall: Name und
+  Beschreibung Vanes, das gefälschte Bronze Token, Vanes Notizliste, die Meilensteine und ihre Zahlen,
+  die Umdeutung des Musters, den Abzählreim in beiden Fassungen — und Bett Corrys Auskunft, dass Vane
+  Fremde nach **„den alten Versen"** fragt. Er weiß von dem Reim und hat ihn nicht.
+- **Belohnung Wenzel-Bach** — 6 GP liegen bei der Charter Hall in Asbravn.
 - **Angebot Volle Garbe** — Odral Fenn bietet eine Woche als Hausmusiker gegen Kost und Logis.
+- **Neue Arbeit** — Nathan will ausdrücklich etwas Freundlicheres: ein Diebstahl bei jemandem, der es
+  verdient hat, ein Auftritt, eine Hochzeit. Das nächste Brett der Hall sollte das bedienen.
+
+## Fundstücke aus der Grabkammer
+
+- Drei **Bronzefibeln** mit Tierschlingenmuster
+- Ein schmaler **Silberring** mit demselben Muster
+- Zwei **Nadeln**
+- Eine handlange **Bronzeplatte mit Loch am Ende** — Zweck unbekannt
+- **Trells vergoldete Scheibenfibel** mit rotem Stein (~15–20 GP), Geschenk von Bett Corry
+- Nicht geborgen: die Halde in der hinteren Kammerecke, in der etwas **gelber** als Bronze glänzt
 
 ## Beziehungen, Besitz und Folgen
 
-- **Die Binsenmutter** hat ihr Wasser zum ersten Mal seit 130 Jahren verlassen und sitzt seit dem
-  13 Kythorn unter einer Eiche auf dem Rücken südlich des Bruchs. Ein Rotkehlchen blieb kurz sitzen,
-  obwohl sie da war. Sie nennt Nathan **Frühling** und hat ihm ungefragt und ohne Gegenleistung gesagt,
-  was an ihm hängt: **kein Segen, sondern Aufmerksamkeit** — etwas hat ihn angeschaut und schaut noch
-  immer, und es ist nicht von hier.
-- **Coldwell** ist Nathan zugetan; er spielte einen Abend umsonst für ein Dorf, das gerade um 12 GP
-  betrogen worden war. Der Schmied, Sabetha Crow, der Müllerjunge Wat und der alte Hesk.
+- **Coldwell** ist Nathan verbunden. Der Schmied heißt **Harl**; er brach für Nathan seinen Monatskrug
+  an, fragte genau einmal nach Barrowmill und ließ es dann gut sein. Niemand im Dorf bat an diesem
+  Abend um Musik — sie hatten ihn am Brunnen gesehen.
+- **Odo Rask, Bett Corry und Halm** sitzen in Barrowmill mit einem Toten, ohne Werkzeug und ohne Lohn.
+  Bett hat Nathan angerechnet, dass er hineingegangen ist. Was aus ihnen wird, ist offen.
+- **Die Binsenmutter** sitzt seit dem 13 Kythorn unter einer Eiche südlich des Bruchs. Sie nennt Nathan
+  **Frühling** und hat ihm gesagt, was an ihm hängt: **kein Segen, sondern Aufmerksamkeit** — etwas hat
+  ihn angeschaut und schaut noch immer, und es ist nicht von hier.
 - Die Wenzel-Bach-Höfe (Derrik Mullen, Nella Barrow, Tam Osley, Ilma Osley) sind Nathan tief verbunden.
-- Ondra Vesk hat den Ausgang von Ewesdale ausführlich ins Hauptbuch eingetragen und Nathan die
-  inoffizielle Sache mit dem gefälschten Token anvertraut. Standing bleibt vorerst Copper.
-- Odral Fenn (Volle Garbe, Asbravn) schätzt Nathan als Hausmusiker.
-- Ewesdale: Theda und Aldo Ferrin, Corm Hallow, Wyl und Vann Cobb sind Nathan zugetan; Aldo hat ein
-  Bett für ihn. Bran bleibt bei Aldo.
-- Hessa Marden und Coll in Briar Glen sind Nathan wohlgesonnen.
-- Mara Tallow ist Nathan dankbar; Jessa Pike, Morn Halvek und Beldo Rusk sind mit dem Master Ledger
-  nach Berdusk zu Ilyra Voss gereist.
+- Ondra Vesk hat den Ausgang von Ewesdale ins Hauptbuch eingetragen; Standing bleibt vorerst Copper.
+- Ewesdale: Theda und Aldo Ferrin, Corm Hallow, Wyl und Vann Cobb sind Nathan zugetan. Bran bleibt bei Aldo.
+- Hessa Marden und Coll in Briar Glen sind Nathan wohlgesonnen; Mara Tallow ist ihm dankbar.
+- Jessa Pike, Morn Halvek und Beldo Rusk sind mit dem Master Ledger nach Berdusk zu Ilyra Voss gereist.
 - Sieben Goblins leben in der Faulen Mulde westlich von Ewesdale.
 - Nathan besitzt ein Messingfernrohr mit Sternbildern, Rafiqs Messingkompass und einen
   Goblin-Krummsäbel aus ordentlichem Stahl.
 
 ## Bekannte offene Fäden
 
-- **Der Bugbear lebt.** Verwundet nach Norden abgezogen, ohne Gefolgschaft.
-  „Ich merke mir Gesichter. Und deins ist ein sehr auffälliges."
-- Hält sich die Binsenmutter an den Rat? Und wenn ja — was wird aus ihr?
-- Halten sich die Goblins an die Faule Mulde?
+- **Die Lange Furche** wird an die Charter Hall abgegeben. Sie läuft in der Welt weiter, aber Nathan
+  verfolgt sie nicht mehr — und wird nicht dazu gezwungen.
+- **Barrowmill:** Der Crawler lebt, hat Trells Körper und einen eigenen Zugang nach draußen. Der
+  Meilenstein **16** und die unberührte Halde stehen weiter dort.
+- **Der Bugbear lebt.** Verwundet nach Norden abgezogen. „Ich merke mir Gesichter."
+- Hält sich die Binsenmutter an den Rat? Halten sich die Goblins an die Faule Mulde?
 - Die Bracken (Silver Standing) sind auf Orlasks Straßenauftrag unterwegs.
 - Das Licht im Corrin-Bruch bei Briar Glen bleibt unaufgeklärt.
-- Das Messingfernrohr mit Sternbild-Intarsien: Herkunft und Zweck offen.
-- Das Master Ledger und die acht weiteren Compact-Anlagen — optional, Nathan hat kein Interesse.
-- **The Little Court:** Die Binsenmutter beschreibt es als **Aufmerksamkeit**, nicht als Segen —
-  etwas schaut Nathan an und hat nie wieder weggeschaut; die Tiere kommen zu *dem*, nicht zu ihm.
-  Und es sei nicht aus dieser Gegend. Herkunft weiterhin unbekannt.
-- **Was ist die Null?** Und was das Tor, das der Erste hält? Der Reim warnt ausdrücklich davor.
+- Das Messingfernrohr mit Sternbild-Intarsien und die Bronzeplatte mit Loch: Herkunft und Zweck offen.
+- Der Brunnen von Coldwell: kalt wie ein Stein, friert nie zu, angeblich sehr tief.
+- **The Little Court:** Aufmerksamkeit statt Segen; etwas schaut Nathan an und hat nie weggeschaut.
+  Am Morgen des 15 Kythorn saßen drei Vögel im Fensterspalt und flogen nicht weg.
+- **Was ist die Null?** Und was das Tor, das der Erste hält? Nathan trägt die Frage nicht weiter —
+  aber sie ist noch da.
 
 ## Milestone-Stand
 

@@ -76,3 +76,22 @@ Das Log wird chronologisch geführt. Sichtbare Würfe werden mit ihren Rohwürfe
 | 70 | 005 | DM | 17 | Situationswurf, Tabelle offengelegt | 17 | Open | Adric Vane war bereits in Coldwell (vor vier Tagen) |
 | 71 | 005 | Nathan | 12 | Investigation +3 | 15 | Open | Meilenstein am Hollow-Acker gelesen, Zettel gefunden |
 | 72 | 005 | Nathan | 20 | Performance +9 | 29 | Open | natural 20 — der Abend in Coldwell; Hesks Reim-Fassung |
+| 73 | 006 | Nathan | 15 | Deception +9 | 24 | Open | verlaufener Bänkelsänger am Lagerfeuer von Barrowmill |
+| 74 | 006 | Nathan | 13 | Nature +1 | 14 | Open | Carrion Crawler erkannt: Decke, Lähmung, kommt aufs Licht |
+| 75 | 006 | Nathan | 10 | Stealth +6 | 16 | Open | leises Vorrücken durch den Grabgang |
+| 76 | 006 | Nathan | 14 | Stealth +6 | 20 | Open | Hide hinter dem Absatz am Türsturz |
+| 77 | 006 | Crawler | 8 | Int save −5 | 3 | Open | `Phantasmal Force` DC 14 misslungen — Fire Elemental steht |
+| 78 | 006 | Nathan | 11 | Initiative +6 | 17 | Open | Initiative |
+| 79 | 006 | Crawler | 9 | Initiative +1 | 10 | Open | Initiative |
+| 80 | 006 | Crawler | 20 | Wis save +1 | 21 | Open | natural 20 — `Vicious Mockery` verpufft (2d6 = 8 ungenutzt) |
+| 81 | 006 | Trell | 12 | Con save +1 | 13 | Open | Paralyzing Tentacles DC 12 bestanden (in der Nische) |
+| 82 | 006 | DM | 17 | Situationswurf, Tabelle offengelegt | 17 | Open | Crawler folgt der wandernden Laterne, lässt Trell |
+| 83 | 006 | Crawler | 14 | Wis save +1 | 15 | Open | `Dissonant Whispers` bestanden — 3d6 = 10 → 5 Psychic; 46/51 |
+| 84 | 006 | Crawler | 2 | Wis save +1 | 3 | Open | `Vicious Mockery` misslungen — 2d6 = 5 Psychic; 41/51 |
+| 85 | 006 | Trell | 15 | Con save +1 | 16 | Open | Paralyzing Tentacles bestanden — aber ohne Nischenschutz |
+| 86 | 006 | Crawler | 12/8 | Bite +4, Disadv | 12 | Open | trifft AC 11; 6 Piercing + 6 Poison = 12 → Trell auf 0 HP |
+| 87 | 006 | Trell | 1 | Death Save | 1 | Open | **natural 1 — zwei Fehlschläge** |
+| 88 | 006 | Crawler | 10 | Wis save +1 | 11 | Open | `Dissonant Whispers` misslungen — 3d6 = 7; 34/51; Flucht-Reaction |
+| 89 | 006 | DM | 9 | Situationswurf, Tabelle offengelegt | 9 | Open | Crawler umkreist an der Decke, greift nicht an |
+| 90 | 006 | Trell | 5 | Death Save | 5 | Open | dritter Fehlschlag — **Trell stirbt** |
+| 91 | 006 | Nathan | 13 | Perception +7 | 20 | Open | Überblick über die Grabkammer; Stein 16, Beigaben, Schlupfloch |

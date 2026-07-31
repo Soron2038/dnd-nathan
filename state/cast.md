@@ -47,15 +47,38 @@ Nur im Spiel etablierte, spielerbekannte Fakten — DM-Geheimnisse stehen in `dm
 Zwanzig Häuser um einen sehr kalten Brunnen; keine Schenke. Wurde am 9 Kythorn von „Adric Vane" um
 12 GP betrogen. Nathan spielte dort am 13 Kythorn einen Abend umsonst; seither ist ihm der Ort verbunden.
 
-- **Der Schmied** — breit, Gesicht wie eine zugeschlagene Tür; empfing Nathan feindselig, sobald das
-  Charter Token auftauchte, und wurde zum Verbündeten, als klar war, dass Nathan wütender war als er.
-  „Wenn Ihr den findet, dann sagt ihm einen schönen Gruß von Coldwell."
+- **Harl** — der Schmied. Breit, Gesicht wie eine zugeschlagene Tür; empfing Nathan feindselig, sobald
+  das Charter Token auftauchte, und wurde zum Verbündeten, als klar war, dass Nathan wütender war als
+  er. „Wenn Ihr den findet, dann sagt ihm einen schönen Gruß von Coldwell." Schmiedete Nathan über
+  Nacht ein kurzes Brecheisen. Am Abend des 14. brach er seinen Monatskrug an, fragte genau einmal
+  nach und ließ es dann gut sein — und redete statt dessen über den Brunnen. Haltung: kameradschaftlich.
 - **Sabetha Crow** — Witwe, vermietet gelegentlich eine Kammer; nahm von Nathan kein Geld. Sie hat
   Vane den Hinweis auf den alten Stein am Hollow-Acker gegeben und weiß es seither.
 - **Wat** — Müllerjunge, elf oder zwölf, redet ohne Punkt. Sah Vane über die Felder gehen und lieferte
   ohne es zu ahnen den Abzählreim.
 - **Der alte Hesk** — über neunzig, wird auf seinem Stuhl getragen und genießt es. Kennt die ältere
   Fassung des Reims samt der Warnung vor der Null.
+
+## Barrowmill (verlassener Mühlenort, fünf Meilen südöstlich von Coldwell)
+
+Steinbrucharbeiter aus der Gegend von Hluthvar, in Threeoaks von „Adric Vane" angeheuert, um behauene
+Steine mit Rad und Kerben zu finden. Nach seinem Weiterzug öffneten sie auf eigene Faust den Grabhügel.
+
+- **Odo Rask** — um die vierzig, sehnig, Hände wie Wurzelholz. Der Anführer und der, der die
+  Verantwortung trägt. War im Morgengrauen im Gang, hörte Trell rufen und ging wieder hinaus; sagt
+  seither jedem, auch sich selbst, dass der Hügel *ihre* Idee war. Haltung: hat Nathan nichts
+  vorgeworfen und nichts gedankt — er hat die Schnitzerei genommen und ein Geräusch gemacht.
+- **Bett Corry** — breit in den Schultern, einen Kopf kleiner, überstürzt nie etwas. Die Klügste der
+  drei. Gab Nathan die vergoldete Fibel zurück und den Hinweis, dass Vane nach „den alten Versen"
+  fragt. Ihr Satz: „Ihr seid reingegangen. Wir haben zwölf Stunden am Feuer gesessen."
+  Haltung: nüchterne, unbequeme Dankbarkeit.
+- **Halm** — siebzehn, dünn, Trells jüngerer Bruder. Wollte selbst hinein und wurde festgehalten.
+  Zog nach Nathans Rückkehr dreißig Fuß Seil aus dem Loch und hatte am Ende einen geschlossenen Knoten
+  in den Händen. Haltung: unbekannt — Nathan ist gegangen, ohne mit ihm zu sprechen.
+- **Trell** † — Halms älterer Bruder, achtzehn oder neunzehn, schnitzte in Pausen ungeschickt und
+  sorgfältig an einem Holztier. Lag zwanzig Stunden mit gebrochenem Bein in einer Grabnische und
+  machte keinen Ton, weil Stille ihn am Leben hielt. Starb am 14 Kythorn 1496 in der Grabkammer,
+  wenige Minuten nachdem Nathan ihn erreicht hatte.
 
 ## Gesucht
 
