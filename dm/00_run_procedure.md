@@ -27,6 +27,16 @@ Dies ist der Einstiegspunkt für die Spielleitung.
 - Kompakte Wurf-Darstellung, z. B.: „Die Scheibe gibt kaum merklich nach. (`Investigation`: 19)".
 - DCs bleiben technisch verborgen; die Fiktion darf Schwierigkeit und Risiko spürbar machen.
 - Würfe werden nicht geschönt (Contract).
+- **Sonst gehört keine Mechanik in den Szenentext** (Ruling 2026-07-31): keine Reichweiten in Fuß,
+  keine Trefferchancen, keine gegnerischen Save-DCs, keine Aktionsökonomie-Belehrungen, keine
+  Countdown-Listen laufender Effekte. Nähe, Gefahr und Zeitdruck werden **beschrieben, nicht
+  beziffert**. Die Pflicht, Aufklärung offenzulegen und den Plan ehrlich zu bewerten, wird als **ein
+  Satz** erfüllt. Regelauskünfte auf Nachfrage: vollständig, mit Quelle, außerhalb der Szene.
+- Hinweis auf eine ungenutzte Character-Option: **einmal** beim ersten Einsatz eines neuen Features,
+  danach nicht mehr. Nie ein Vorschlag, was zu tun sei.
+- **NPCs sind so sterblich wie alle.** HP und AC werden vor dem ersten Wurf festgelegt und danach
+  nicht angepasst; Death Saves laufen offen. Ein NPC-Tod muss aus der Situation folgen, darf aber
+  eintreten (Ruling 2026-07-31).
 
 ## Ton & Genre
 

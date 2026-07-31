@@ -2,6 +2,26 @@
 
 Jeder Eintrag erhält Datum, Situation, Entscheidung, Quelle/Regeltext und die Angabe, ob er dauerhaft oder vorläufig gilt.
 
+## 2026-07-31 — Nachbesprechung: Mechanik-Transparenz zurückfahren
+
+- **Situation:** Session 006 legte sehr viel Mechanik in Klammern offen — Reichweiten,
+  Trefferwahrscheinlichkeiten, Aktionsökonomie, Ressourcen-Timer, Vorab-Bewertungen von Plänen. Das
+  zerschnitt den Erzählfluss.
+- **Entscheidung (Spielerwahl):** **Deutlich weniger.** Im Szenentext stehen nur noch Würfe und ihre
+  Ergebnisse, kompakt: „Die Scheibe gibt nach. (`Investigation`: 19)". **Nicht** mehr in den Text
+  gehören: Reichweiten in Fuß, Trefferchancen und Prozentangaben, Save-DCs des Gegners,
+  Aktionsökonomie-Belehrungen, Countdown-Listen laufender Effekte, Absätze im Stil von „Ehrlich dazu".
+- **Wie die Information stattdessen transportiert wird:** über die **Fiktion**. Nähe, Gefahr,
+  Zeitdruck und Ressourcenknappheit werden beschrieben, nicht beziffert („nah genug, dass die Fühler
+  dich streifen würden" statt „Reichweite 10 ft"). Die Pflicht aus dem Playbook, Aufklärung
+  offenzulegen und den Plan des Spielers ehrlich zu bewerten, bleibt bestehen — sie wird als **ein
+  Satz** erfüllt, nicht als Rechnung.
+- **Regelauskünfte auf Nachfrage:** dann vollständig, mit wörtlichem Regeltext und Quelle, außerhalb
+  der Szene. Vorbild: die `Phantasmal Force`-Auskunft in Session 006.
+- **Hinweise auf ungenutzte Character-Optionen:** einmal beim ersten Einsatz eines neuen Features,
+  danach nicht mehr. Kein Vorschlagen, was zu tun sei.
+- **Gültigkeit:** dauerhaft, jederzeit per Zuruf nachjustierbar.
+
 ## 2026-07-31 — `Phantasmal Force` ist stationär
 
 - **Situation:** Nathan setzte im Grabhügel von Barrowmill einen phantasmalen Fire Elemental in den
