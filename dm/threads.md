@@ -78,11 +78,27 @@ Status: `[offen]` (in der Welt, unaufgegriffen) · `[angeboten]` (Nathan weiß d
 - **Der Brunnen von Coldwell** `[offen]` — kalt wie ein Stein, friert bei keinem Frost zu, dampft
   statt dessen; Harls Großvater behauptete, ein hineingeworfener Stein sei neun Zählschläge gefallen.
   Reine Textur, kein Auftrag. Kann Kuriosität bleiben oder irgendwann etwas sein.
-- **Rückkehr nach Asbravn** `[offen]` — Nathan holt seine 8 GP 4 SP bei Ondra Vesk ab und berichtet.
-  **Nächster Schritt:** Ankunft in der Hall spielen; Ondras Reaktion auf die unblutige Lösung (sie wird
-  es notieren — Standing-relevant). Danach ein frisches Brett mit drei bis vier Aushängen, die zusammen
-  alle vier Ja-Hebel abdecken. Orlasks Straßenauftrag (60 GP) hängt eventuell noch — oder die Bracken
-  haben ihn genommen und sind damit gescheitert oder erfolgreich zurück.
+- **Die Kompanie Hochwacht** `[offen]` — **der beste unaufgegriffene Faden.** Neun Mann unter Serjeant
+  Ollun Marek, zwei Jahre lang unter Vertrag mit dem Rat von Iriaebor auf der Straße Asbravn–Berdusk,
+  seit dem Ching ohne Vertrag, weil ihn niemand verlängert hat. Sie erheben Wegzoll an der Engstelle,
+  tun niemandem weh, nehmen nie alles und stellen Quittungen aus. Perrins Urteil: „Das ist keine
+  Bande. Das ist eine Kompanie ohne Arbeit, die einen Mann hat, der noch Buch führt, und acht, die
+  nicht wissen, was sie hier tun. Man macht das eine anders kaputt als das andere."
+
+  Nathan hat ein **Bronze Charter Token** und weiß, dass die Hall Verträge vergibt. Er hat es Ondra
+  **nicht** gesagt. **Nicht drängen** — der Faden liegt vollständig offen da und muss nicht aufgelöst
+  werden. Wenn Nathan die Gegend verlässt, kann er später als Nachricht wiederkommen (gelöst, oder
+  eskaliert, weil irgendwann jemand zurückschlägt).
+
+  Zweiter Zugang, falls Nathan zurückkommt: Ollun hat auf den Vorwurf, er genieße Macht über
+  Hilflose, **nicht geantwortet**. Das sitzt bei ihm, nicht bei Nathan.
+- **„Nihamor, Bote Morakhans"** `[offen]` — Dovals Version der Geschichte macht auf der Straße die
+  Runde und wächst. Mögliche Folgen: jemand sucht den Kesselflicker (aus Furcht, aus Neugier, oder
+  weil er einen Priester eines dunklen Gottes brauchen kann); jemand erkennt Nathan wieder; oder ein
+  Tempel findet es weniger lustig als der Schankraum. Alles optional, nichts davon zwingend.
+- **Rückkehr nach Asbravn** `[erledigt]` — am 15 Kythorn eingelöst. Wenzel-Bach-Belohnung ausgezahlt
+  (6 GP, ohne Provision), vollständiger Bericht über Adric Vane und die Lange Furche an Ondra Vesk
+  übergeben, **Standing auf Bronze** gestempelt. Orlasks Straßenauftrag hängt nicht mehr am Brett.
 - **Der Bugbear** `[offen]` — überlebte mit 24/33 HP, verlor Gefolgschaft und Gesicht und zog nach
   Norden ab. Ankündigung: „Ich merke mir Gesichter." Mögliche Wiederkehr: als Söldner für jemand
   anderen, als Anführer eines neuen Haufens, oder als persönlicher Rachefaden. Nicht überstürzen —

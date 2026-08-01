@@ -95,3 +95,8 @@ Das Log wird chronologisch geführt. Sichtbare Würfe werden mit ihren Rohwürfe
 | 89 | 006 | DM | 9 | Situationswurf, Tabelle offengelegt | 9 | Open | Crawler umkreist an der Decke, greift nicht an |
 | 90 | 006 | Trell | 5 | Death Save | 5 | Open | dritter Fehlschlag — **Trell stirbt** |
 | 91 | 006 | Nathan | 13 | Perception +7 | 20 | Open | Überblick über die Grabkammer; Stein 16, Beigaben, Schlupfloch |
+| 92 | 007 | Nathan | 12 | Performance +9 | 21 | Open | Abendessen am Rastplatz erspielt |
+| 93 | 007 | Nathan | 18 | Performance +9 | 27 | Open | „Nihamor" an Perrin geprobt — der weicht zurück |
+| 94 | 007 | Nathan | 16 | Deception +9 | 25 | Open | Eröffnung an der Engstelle; vier Männer verunsichert, Ollun nicht |
+| 95 | 007 | Nathan | 4 | Deception +9 | 13 | Open | zu persönlich geworden — Ollun wechselt von Furcht zu Verdacht |
+| 96 | 007 | Nathan | 10 | Performance +9 | 19 | Open | Abend in der Vollen Garbe, gut zwei Gold |

@@ -89,6 +89,34 @@ Steine mit Rad und Kerben zu finden. Nach seinem Weiterzug öffneten sie auf eig
   Betrüger:** Er geht die Lange Furche ab und sucht etwas; die Vorschüsse finanzieren die Suche.
   Stand 14 Kythorn vier Tage Vorsprung, Richtung Barrowmill.
 
+## Auf der Straße Coldwell–Asbravn
+
+- **Serjeant Ollun Marek** — um die fünfzig, kurzer grauer Bart, gebürsteter grüner Rock mit einem
+  weißen Balken, den er mit Kreide nachzieht, damit er nicht verschwindet. Neunzehn Jahre gedient,
+  zwei davon unter Vertrag auf dieser Straße. Erhebt seit vier Wochen „Wegzoll" an der Engstelle,
+  stellt Quittungen aus, lässt niemanden anfassen. Ließ sich von „Nihamor" erschüttern, aber nicht
+  brechen: „Ein Gespenst will nix von mir. Du willst was von mir. Und Sachen, die was von einem
+  wollen, sind Menschen." Haltung: misstrauisch, ohne Groll — bis Nathan ihm Machtgier vorwarf und er
+  darauf nicht antwortete. Neun Männer, kein Sold.
+- **Faro** — der Junge auf dem Baumstamm, Anfang zwanzig, sagt den Wegzoll-Text auswendig auf und war
+  der Erste, der zurückwich.
+- **Perrin** und **Doval** — Wollhändler aus Hluthvar, seit elf Jahren Kompagnons und seit ungefähr
+  genauso lange in einem einzigen ununterbrochenen Streit. Perrin rechnet, Doval redet. Perrin
+  verweigerte die Mitwirkung und schwieg dafür („Wir kennen Euch nicht"); Doval spielte den stummen
+  schwachsinnigen Diener Morakhans und war erschreckend gut darin. Doval erzählt die Geschichte
+  seither überall, in wachsender Fassung. Haltung: beide Nathan sehr zugetan.
+- **Gedd** — Salzfuhrmann, um die fünfzig, wortkarg, reist mit seinem etwa dreizehnjährigen Sohn.
+  Verlor neun von siebenundzwanzig Säcken. „Ihr hättet einfach durchfahren können. Habt Ihr nicht.
+  Das rechne ich Euch an."
+- **Die Frau mit dem Maultier** — um die dreißig, gerader Rücken, gute und tagelang ungewaschene
+  Reisekleidung, schwer bepacktes Maultier mit zwei langen Bündeln und einem flachen Kasten. Gab
+  Nathan gut 15 GP für das Lied vom Jungen und dem Hund und warnte ihn vor der Engstelle; die
+  Hochwacht hatte sie nach einem Blick auf ihre Ladung weitergeschickt. Name, Ziel und Ladung
+  unbekannt. Vor Sonnenaufgang abgereist.
+- **Die Handkarren-Familie** — Mann, Frau und ein etwa fünfjähriges Mädchen. Schliefen am selben
+  Feuer und hörten Nathans Musik; am Morgen sprach er sie als Nihamor an, und die Mutter hatte das
+  Kind auf dem Arm, bevor der Becher den Boden erreichte. Sie blieben zurück.
+
 ## Asbravn
 
 - **Odral Fenn** — Wirt der Vollen Garbe am Markt; dürr, permanent mit drei Dingen gleichzeitig
