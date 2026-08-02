@@ -5,6 +5,23 @@ Lebendes Board für lose Hooks. Enthält DM-Planung — nicht am Tisch vorlesen.
 Status: `[offen]` (in der Welt, unaufgegriffen) · `[angeboten]` (Nathan weiß davon) ·
 `[aufgegriffen]` (aktiv verfolgt) · `[ruht]` · `[erledigt]`.
 
+## Regionswechsel — Stand 16 Kythorn 1496
+
+**Nathan hat das Sunset Vale verlassen** und ist unterwegs nach Scornubel. Alles unter „Aktiv /
+offen" bis einschließlich „Ilyra Voss in Berdusk" ist damit **zurückgelassen**, sofern nicht
+ausdrücklich als mitgereist markiert.
+
+**Verbindliche DM-Regel für die gesamte Sunset-Vale-Gruppe** (Verallgemeinerung der Regel, die für
+die Lange Furche schon galt): Kein Faden dieser Region wird heimlich wieder an Nathan festgemacht.
+Kein Zufall, der ihn zurückzwingt, kein NPC, der ihm nachreist und ihn moralisch nötigt, keine
+Nachricht, die ihn schuldig aussehen lässt. Sie dürfen ihn als *Angebot* erreichen — ein Brief, ein
+Gerücht am Karawanenfeuer, jemand aus dem Vale, der zufällig in Scornubel steht — und er muss sie
+ohne jede Kosten ablehnen können. Wenn er nie zurückkehrt, enden sie als das, was sie sind: Dinge,
+die andere Leute erledigen oder auch nicht. Das ist ein guter Ausgang.
+
+**Mitgereist ist nur:** „Nihamor" (siehe unten), The Little Court, das Sternbild-Fernrohr und die
+Bronzeplatte.
+
 ## Aktiv / offen
 
 - **Die Binsenmutter** `[aufgegriffen]` — Green Hag (`rules/sources/2025_green_hag.md`) im Weidenbruch
@@ -92,10 +109,20 @@ Status: `[offen]` (in der Welt, unaufgegriffen) · `[angeboten]` (Nathan weiß d
 
   Zweiter Zugang, falls Nathan zurückkommt: Ollun hat auf den Vorwurf, er genieße Macht über
   Hilflose, **nicht geantwortet**. Das sitzt bei ihm, nicht bei Nathan.
-- **„Nihamor, Bote Morakhans"** `[offen]` — Dovals Version der Geschichte macht auf der Straße die
-  Runde und wächst. Mögliche Folgen: jemand sucht den Kesselflicker (aus Furcht, aus Neugier, oder
-  weil er einen Priester eines dunklen Gottes brauchen kann); jemand erkennt Nathan wieder; oder ein
-  Tempel findet es weniger lustig als der Schankraum. Alles optional, nichts davon zwingend.
+- **„Nihamor, Bote Morakhans"** `[offen — mitgereist]` — Dovals Version macht auf der Straße die Runde
+  und wächst. **Stand 16 Kythorn:** in Asbravn angekommen, und zwar vor Nathan. Aktuelle
+  Straßenfassung: der Kesselflicker redet mit den Toten, hat seit neuestem eine Krähe auf der
+  Schulter, und der Serjeant ist drei Tage später tot umgefallen (frei erfunden — Ollun lebt).
+  Nathan hat sie beim Krämer aus fremdem Mund gehört, ohne erkannt zu werden.
+
+  Der einzige Faden aus dem Vale, der **von selbst mitreist**: Geschichten wandern mit Fuhrleuten,
+  und die Dusk Road ist eine Handelsstraße. In Hluthvar (Perrins und Dovals Heimat!) und Triel kann
+  sie schon vor ihm da sein; in Scornubel eher als eine von hundert Karawanengeschichten. Mögliche
+  Folgen: jemand sucht den Kesselflicker (aus Furcht, aus Neugier, oder weil er einen Priester eines
+  dunklen Gottes brauchen kann); jemand erkennt Nathan wieder; ein Tempel findet es weniger lustig
+  als der Schankraum. Alles optional. **Bevorzugt als Spaß und Textur spielen, nicht als Strafe** —
+  der Spieler hat den Auftritt genossen, und ein wachsendes Gerücht ist Bühne, also einer von
+  Nathans Ja-Hebeln.
 - **Rückkehr nach Asbravn** `[erledigt]` — am 15 Kythorn eingelöst. Wenzel-Bach-Belohnung ausgezahlt
   (6 GP, ohne Provision), vollständiger Bericht über Adric Vane und die Lange Furche an Ondra Vesk
   übergeben, **Standing auf Bronze** gestempelt. Orlasks Straßenauftrag hängt nicht mehr am Brett.

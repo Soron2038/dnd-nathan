@@ -5,6 +5,10 @@
 Fäden**. Nichts hier ist vorgegeben — der Spieler wählt die Richtung, und was er nicht wählt,
 bleibt liegen.
 
+> **Entschieden am 2026-08-02: Richtung B — Scornubel.** Die Ausarbeitung steht in
+> `04_scornubel.md`. A, C und D bleiben als spätere Optionen liegen; die Bauvorgaben am Ende dieser
+> Datei gelten weiter und sind in `04_scornubel.md` übernommen.
+
 ## Was der Wechsel leisten soll
 
 - **Sauberer Schnitt.** Die Sunset-Vale-Fäden (Furche, Hochwacht, Barrowmill, Binsenmutter) bleiben

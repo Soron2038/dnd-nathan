@@ -120,7 +120,11 @@ Steine mit Rad und Kerben zu finden. Nach seinem Weiterzug öffneten sie auf eig
 ## Asbravn
 
 - **Odral Fenn** — Wirt der Vollen Garbe am Markt; dürr, permanent mit drei Dingen gleichzeitig
-  beschäftigt. Haltung: geschäftlich zufrieden — bietet Nathan eine Woche als Hausmusiker.
+  beschäftigt. Wollte mit zweiundzwanzig selbst los („was anderes"), erbte dann das Haus von seinem
+  Onkel und sagte den Satz nie wieder; führt die Garbe seit sechsundzwanzig Jahren. „Guter Handel,
+  sag ich mir. Meistens vor Mittag." Haltung: wohlwollend — sein Angebot einer Woche Hausmusik
+  verfiel mit Nathans Abreise am 16. Kythorn, und er gab ihm statt dessen Brot, Käse und eine
+  ungefragte Wegauskunft mit. Zuletzt: 16 Kythorn 1496, Asbravn.
 - **Ondra Vesk** — Chartermaster der Charter Hall in Asbravn; um die fünfzig, Schultern einer
   Karawanentreiberin, eine tiefer als die andere; trocken, unbeeindruckbar, führt Buch. Haltung:
   nüchtern wohlwollend — sie trug Nathan ein und strich bei Ewesdale wortlos die Provision.
