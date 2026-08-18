@@ -15,12 +15,13 @@ Status: Starting Equipment für Level 4 bestätigt. Alle Verzierungen sind zunä
 - ein vollständiges Set Fine Clothes für Auftritte vor wohlhabenden Bürgern und niederem Adel
 - dunkelblauer, calishitisch geschnittener Auftrittsmantel mit nördlichem Wollfutter
 - zwei Silberringe, ein schmaler Ohrreif und eine dekorative Mantelkette; Gesamtwert etwa 20 GP
-- Geldreserven von **248 GP und 5 SP**, unterwegs auf Belt Pouch, verborgenes Wagenfach und verschließbare Truhe verteilt
+- Geldreserven, unterwegs auf Belt Pouch, verborgenes Wagenfach und verschließbare Truhe verteilt;
+  der **aktuelle Betrag steht immer in `state/current_state.md`** und wird hier nicht doppelt geführt
 - **2 Potions of Healing**
 - Rafiqs nichtmagischer Messingkompass
 - fein gearbeitetes, nichtmagisches Messingfernrohr mit eingelegten Sternbildern; Beute aus Marr's Vault
 - **Charter Token** der Charter Hall, daumennagelgroßes Messingtäfelchen mit Namensstempel und
-  Wagenrad-Zeichen; Standing **Copper**, eingetragen in Asbravn am 9 Kythorn 1496
+  Wagenrad-Zeichen; Standing **Bronze**, gestempelt in Asbravn am 15 Kythorn 1496
 
 ## Practical adventuring gear
 
