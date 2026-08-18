@@ -134,6 +134,40 @@ Steine mit Rad und Kerben zu finden. Nach seinem Weiterzug öffneten sie auf eig
   Ewesdale-Wahl belächelt. Zuletzt: 9 Kythorn 1496, Charter Hall Asbravn. Notiz: liebäugelten mit
   Orlasks Straßenauftrag (60 GP).
 
+## Hluthvar (befestigter Marktflecken, drei Tage nördlich von Asbravn)
+
+Mauer aus grauen Quadern mit Brandspuren, ein einziges Südtor, Garnison, Torgeld und Meldepflicht.
+Über einer Tür ein verblichenes offenes Auge — hier war einmal ein Tempel. Perrins und Dovals Heimat.
+Nathan war dort am 19.–20. Kythorn 1496.
+
+- **Wenna Ilk** — Hausmusikerin im *Wollsack*, Ende dreißig, breite Schultern, Kopftuch, weiße Narbe
+  über zwei Fingerknöchel. Spielt **Hackbrett**, technisch hervorragend, **singt kein einziges Wort**
+  und hat trotzdem einen vollen Schankraum in der Hand. Seit sechs Jahren dort; sie war einmal in
+  Scornubel und reist seither nicht mehr, ohne zu sagen warum. Spricht ohne Begrüßungsfloskeln und
+  fragt direkt, was sie wissen will. Jagte vier Jahre lang einer calishitischen Kadenz nach, die sie
+  zweimal von einem betrunkenen Mann aus Memnon gehört hatte; Nathan fand den fehlenden Ton in einer
+  halben Stunde, und gemeinsam retteten sie die Figur. Haltung: **kollegialer Respekt, ohne
+  Sentimentalität** — sie gab ihm dafür Nazhiras Namen. „Das war der beste Abend, den ich seit Jahren
+  hatte, und ich sag das nicht noch mal, also merk's dir."
+- **Berrin Toal** — Wirt des *Wollsack* am Markt. Bauch eines Mannes, der sein eigenes Bier ernst
+  nimmt, Unterarme eines, der die Fässer selbst trägt. Verweigerte Nathan die Bühne ohne jede Härte
+  („Ich hab Wenna. Seit sechs Jahren hab ich Wenna."), gab ihm aber Zimmer, Hof und später einen Krug
+  aufs Haus. Hat einen Kater, der ein Vermögen frisst und offenbar nichts kann. Haltung: freundlich
+  verblüfft — die vier Mäuse im Schankraum haben ihn nachhaltig beschäftigt.
+- **Der Torwächter** — Hellebarde, sagt seinen Text zweihundertmal am Tag und hört trotzdem zu.
+  Trug Nathan als „Kategorie vier" ein und empfahl ungefragt zwei Häuser: den *Wollsack* („Geld und
+  keine Ohren") und den *Blinden Helm* an der Nordmauer („Ohren und kein Geld").
+- **Sarn** — der Junge mit Griffel und Wachstafel am Tor. Hörte auf zu schreiben, als das Wort
+  *Spielmann* fiel, und tat sehr angestrengt so, als täte er das nicht.
+
+## Scornubel (noch nicht persönlich getroffen)
+
+- **Nazhira** — Wirtin des **Langen Zugs**, eines karawanserei-artigen Hauses mit Hof und drei Feuern
+  am Rand der Zeltstadt. Kleine Frau aus Memnon, redet mit jedem in dessen Sprache. Von Wenna Ilk
+  empfohlen, allerdings ohne Empfehlungsschreiben: Nathan soll ihr die gerettete Kadenz vorspielen
+  und dann sagen, wo er sie herhat. Wennas Einschätzung: „Wenn du bei ihr anfängst, brauchst du
+  sonst niemanden."
+
 ## Ewesdale (Hügelland nordwestlich von Asbravn)
 
 - **Aldo Ferrin** — elf Jahre, Hirtenjunge, außergewöhnlich begabt im Umgang mit Schafen. War fünf

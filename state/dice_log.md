@@ -100,3 +100,5 @@ Das Log wird chronologisch geführt. Sichtbare Würfe werden mit ihren Rohwürfe
 | 94 | 007 | Nathan | 16 | Deception +9 | 25 | Open | Eröffnung an der Engstelle; vier Männer verunsichert, Ollun nicht |
 | 95 | 007 | Nathan | 4 | Deception +9 | 13 | Open | zu persönlich geworden — Ollun wechselt von Furcht zu Verdacht |
 | 96 | 007 | Nathan | 10 | Performance +9 | 19 | Open | Abend in der Vollen Garbe, gut zwei Gold |
+| 97 | 009 | Nathan | 2 | Performance +9 | 11 | Open | die calishitische Kadenz auf der Laute — Ton zwischen den Bünden, misslungen |
+| 98 | 009 | Nathan | 11 | Performance +9 | 20 | Open | dieselbe Kadenz gesungen, mit Wenna Ilks Begleitung — gelungen |

@@ -123,6 +123,16 @@ Bronzeplatte.
   als der Schankraum. Alles optional. **Bevorzugt als Spaß und Textur spielen, nicht als Strafe** —
   der Spieler hat den Auftritt genossen, und ein wachsendes Gerücht ist Bühne, also einer von
   Nathans Ja-Hebeln.
+- **Nazhira im Langen Zug** `[angeboten]` — Wenna Ilks Gegengeschenk und der einzige Faden, den
+  Nathan aus dem Norden mitbringt. Einzulösen mit einem Vorspiel, nicht mit einem Namen. **Kein
+  Auftrag und keine Verpflichtung** — wenn Nathan nie hingeht, passiert nichts. Details in
+  `dm/adventures/04_scornubel.md`. Wenn er hingeht: Nazhira ist der Anker für die Zeltseite der
+  Stadt, wo Alzhedo Gebrauchssprache ist und calishitische Musik Heimatklang statt Kuriosität.
+  **Nicht als Questgeberin bauen** — als Ort, an dem er spielen kann und Leute kennenlernt.
+- **Wenna Ilk** `[offen]` — sie bleibt in Hluthvar und wird Nathan nicht nachreisen. Mögliche spätere
+  Berührungen, alle optional: Er kommt zurück durch. Sie hört über Fuhrleute, was aus ihm geworden
+  ist. Oder — der interessanteste Fall — jemand in Scornubel kennt sie noch von damals und weiß,
+  warum sie aufgehört hat zu reisen. Das ist bewusst nicht festgelegt.
 - **Rückkehr nach Asbravn** `[erledigt]` — am 15 Kythorn eingelöst. Wenzel-Bach-Belohnung ausgezahlt
   (6 GP, ohne Provision), vollständiger Bericht über Adric Vane und die Lange Furche an Ondra Vesk
   übergeben, **Standing auf Bronze** gestempelt. Orlasks Straßenauftrag hängt nicht mehr am Brett.
@@ -155,6 +165,17 @@ Bronzeplatte.
 
 - **The Little Court** `[offen]` — Herkunft von Nathans Fey-Gunst unbekannt; kein
   welterschütterndes Geheimnis nötig. Langsam über Manifestationen entfalten, nie erzwingen.
+
+  **Seit 2026-08-12 zusätzlich Nathans Subclass** (`rules/homebrew/college_of_the_little_court.md`).
+  Das ändert nichts an der Erzählweise: Es wird weiterhin nicht erklärt. Was sich geändert hat, ist
+  die Steigerung der Manifestationen — Stand 28 Kythorn: **zwei** graue Vögel mit hellem Augenring
+  statt einem, seit dem 19.; vier Mäuse, die sich nach Mitternacht in einen Schankraum setzen und
+  beim letzten Ton gleichzeitig verschwinden; ein Weißdorn, der zu blühen anfängt, als Nathan
+  vorbeifährt. **Ohne dass Nathan etwas dafür tut.** Er erklärt es weiterhin als Zufall.
+
+  Gute nächste Schritte, unverbindlich: dass jemand anderes es zuerst bemerkt und benennt; dass es
+  einmal **unpassend** kommt (in einem Kontor, in einem Tempel, mitten in einer Lüge); dass die Zahl
+  weiter wächst. Kein Auflösungsdruck.
 
 ## Ledger-Klammer (optional — `dm/SPOILERS_campaign_master.md`)
 

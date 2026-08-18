@@ -2,8 +2,8 @@
 
 ## Kampagnenstatus
 
-- Datum: 16 Kythorn 1496 DR, Abend
-- Region: Dusk Road, ~20 Meilen nördlich von **Asbravn** — Rastplatz an einem Bachlauf unter Pappeln
+- Datum: 28 Kythorn 1496 DR, Nachmittag
+- Region: auf der Kuppe über **Scornubel**, am Zusammenfluss von Chionthar und River Reaching
 - Party: Nathan al'Nassir (Rogue 1 / Bard 4), solo
 - Level: 5
 - XP-System: Milestones
@@ -15,51 +15,63 @@
 - Heroic Inspiration 1; Luck Points 3/3; Bardic Inspiration 3/3 (d6)
 - Spell Slots: Level 1 — 4/4; Level 2 — 3/3
 - `A Little Favor` verfügbar
-- Potions of Healing 2; Geld **280 GP 3 SP**
+- Potions of Healing 2; Geld **272 GP 5 SP**
 - Charter Token der Charter Hall, Standing **Bronze** (gestempelt 15 Kythorn, Asbravn)
 - Struppi und Wagon unversehrt
 - Stiefel von Derrik Mullens Vater; kurzes Brecheisen (Geschenk Harls)
-- **Proviant für gut zehn Tage:** Zwieback, Hartkäse, Speck, Dörrpflaumen, Salz, ein Sack Hafer,
-  Erbsen in Schoten. (Die Kirschen haben nicht bis Mittag gehalten.)
+- Proviant unterwegs mehrfach nachgeladen; ausreichend
 - Im Geheimfach: der Großteil des Geldes, Rafiqs Messingkompass, das Sternbild-Fernrohr und alle
   Fundstücke aus Barrowmill
 
 ## Wo wir stehen (Resume-Punkt für die nächste Session)
 
-Nathan hat das Sunset Vale verlassen. Er ist am Vormittag des 16. aus Asbravn abgefahren, allein,
-ohne Auftrag und ohne Frist, und sitzt am Abend an einem Rastplatz unter alten Pappeln.
+Nathan ist **angekommen** — beziehungsweise steht auf der Kuppe und sieht es zum ersten Mal: den
+Chionthar, die Steinstadt am Zusammenfluss, und drumherum meilenweit die Zelt- und Wagenstadt der
+Karawanensaison mit Tausenden Feuern bei Tageslicht. Der Wind trägt Ochsen, Fisch, Gewürz und aus
+drei Richtungen gleichzeitig Musik herauf.
 
-**Ziel: Scornubel**, die Karawanenstadt am Chionthar. Route (Odral Fenns Auskunft): Dusk Road
-nordwärts nach **Hluthvar** (3 Tage, also 19. Kythorn), weiter nach **Triel** (4 Tage, 23. Kythorn),
-ab Triel hinunter nach **Hill's Edge** und an den Chionthar. Zehn bis zwölf Tage insgesamt, Ankunft
-also um den **26.–28. Kythorn**. Alle drei bis vier Tage ein Ort, an dem Proviant nachgeladen werden
-kann — genau deshalb hat der Spieler diese Route der kürzeren Karrenspur vorgezogen.
+Zwölf Tage Straße liegen hinter ihm. Er hat keinen Auftrag, keine Frist und niemanden, der auf ihn
+zählt. **Was als nächstes passiert, sucht er sich selbst aus.**
 
-Die Vorbereitung für Reise und Ankunft liegt in `dm/adventures/04_scornubel.md` (DM-only).
+Vorbereitung für Stadt und erstes Abenteuer: `dm/adventures/04_scornubel.md` (DM-only).
 
-**Die alten Fäden sind bewusst zurückgelassen.** Sie werden nicht heimlich wieder festgemacht.
+**Der eine Faden, den er mitbringt:** Wenna Ilk hat ihm **Nazhira** genannt, Wirtin des **Langen
+Zugs** am Rand der Zeltstadt — kleine Frau aus Memnon, redet mit jedem in dessen Sprache. Einzulösen
+nicht mit einem Namen, sondern mit einem Vorspiel: Nathan soll ihr die calishitische Kadenz spielen,
+die er und Wenna gemeinsam gerettet haben, und dann sagen, wo er sie herhat.
 
-## Was am 16. Kythorn geschah
+## Was auf der Reise geschah (16.–28. Kythorn)
 
-Abschied von Odral Fenn, der eine Woche Hausmusik verlor, bevor er sie hatte, und es besser aufnahm
-als erwartet. Einkauf auf dem Wollmarkt; dabei hörte Nathan zum ersten Mal seine eigene Legende aus
-fremdem Mund — ein Fuhrmann erzählte die Kesselflicker-Geschichte weiter, inklusive der frei
-erfundenen Pointe, der Serjeant sei drei Tage später tot umgefallen. Niemand erkannte ihn.
+Drei Tage leere Dusk Road, dann **Hluthvar** — befestigt, Torgeld, Meldepflicht, „Kategorie vier".
+Im **Wollsack** verweigerte Wirt Berrin Toal ihm die Bühne, weil er seit sechs Jahren **Wenna Ilk**
+hat. Sie spielt Hackbrett, singt kein Wort, und hatte fünfzehn Leute in der Hand.
 
-Perrin und Doval fahren erst am 17. heim nach Hluthvar; Nathan schlug die Reisegesellschaft aus und
-fuhr noch am Vormittag allein los.
+Mitten im Spiel baute sie eine calishitische Kadenz ein, die sie vor vier Jahren zweimal gehört hat
+und seither falsch spielt. Nathan fand den Fehler: ein einziger Ton, der auf einem diatonisch
+gestimmten Instrument schlicht nicht existiert. Seine Idee (die Figur nach hinten legen, leise, „als
+wehte sie zum Fenster herein") plus ihr Handwerk (den obersten Chor herunterziehen) haben ihn
+gerettet. Auf der Laute scheiterte Nathan daran; gesungen gelang es.
+
+Danach kamen vier Mäuse in den Schankraum und setzten sich hin. Berrin Toal hat das in
+sechsundzwanzig Jahren nicht erlebt.
+
+Dann **Triel** (teuer, unfreundlich, nicht gespielt), der Abstieg mit den Sunset Mountains als Wand,
+ein Berggewitter, eine Karawane von fünfzig Wagen, die ihn ohne einen Blick überholte, und
+**Hill's Edge** — eine Stadt ohne Manieren.
 
 ## Aktive Quests / Leads
 
-Keine. Zum ersten Mal seit Briar Glen hat Nathan keinen Auftrag, keine Frist und niemanden, der auf
-ihn zählt. Das ist Absicht.
+Keine Aufträge. Ein einziger Lead, und der ist ein Geschenk: **Nazhira im Langen Zug** (siehe oben).
 
-Liegengeblieben in Asbravn (nicht angenommen, verfallen mit der Abreise): die Hochzeit zu
-Nettlemarch, die Wolfsplage bei Threefall, der eiserne Brunnen von Marrow's Green, Odral Fenns
-Angebot einer Woche als Hausmusiker.
+Liegengeblieben in Asbravn (verfallen mit der Abreise): Hochzeit zu Nettlemarch, Wolfsplage bei
+Threefall, der eiserne Brunnen von Marrow's Green, Odral Fenns Angebot als Hausmusiker.
 
 ## Beziehungen, Besitz und Folgen
 
+- **Wenna Ilk** in Hluthvar — Hausmusikerin im Wollsack, Hackbrett, technisch hervorragend, reist
+  seit Jahren nicht mehr und sagt nicht warum. Nathan hat ihr einen Ton zurückgegeben, den sie vier
+  Jahre gesucht hat. „Das war der beste Abend, den ich seit Jahren hatte, und ich sag das nicht noch
+  mal, also merk's dir."
 - **Odral Fenn** hat Nathan ziehen lassen, mit Brot, Käse und einer Wegauskunft, um die er nicht
   gebeten hatte.
 - **Ondra Vesk** hat Nathan auf Bronze gesetzt und ihm gesagt, warum: zwei Aufträge ohne Verletzte,
@@ -90,9 +102,11 @@ Vollständig in `dm/threads.md`. Keiner davon verfolgt Nathan.
 
 - **„Nihamor"** reist schneller als Nathan und war vor ihm in Asbravn. Wächst ohne sein Zutun.
 - Das Sternbild-Fernrohr und die Bronzeplatte mit Loch: Herkunft und Zweck offen.
-- **The Little Court:** Ein grauer Vogel mit hellem Ring ums Auge saß am Morgen auf dem Fenstersims,
-  dann auf der Deichsel, dann auf dem Wagendach — und ist zwanzig Meilen mitgekommen. Ein Weißdorn
-  fing zu blühen an, als Nathan vorbeifuhr.
+- **The Little Court** wird deutlicher und braucht keinen Anlass mehr: seit dem 19. Kythorn sitzen
+  **zwei** graue Vögel mit hellem Augenring auf dem Wagendach statt einem. In Hluthvar kamen nach
+  Mitternacht vier Mäuse in den Schankraum, setzten sich aufrecht ins Halbdunkel und waren beim
+  letzten Ton alle vier gleichzeitig weg. Ein Weißdorn fing zu blühen an, als Nathan vorbeifuhr.
+  Nathan erklärt es weiterhin mit „die kleinen Kerle mögen meine Lieder einfach".
 
 ## Milestone-Stand
 
