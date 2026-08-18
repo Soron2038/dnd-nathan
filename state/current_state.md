@@ -98,7 +98,12 @@ Vollständig in `dm/threads.md`. Keiner davon verfolgt Nathan.
 
 Level 5 erreicht und angewandt (Bard 4, Feat `Telekinetic`).
 
+**Subclass-Wechsel am 2026-08-12:** Nathan ist nicht mehr `College of Lore`, sondern
+**`College of the Little Court`** — gemeinsam entworfene Homebrew, die seine Fey-Gabe absorbiert.
+Regeltext: `rules/homebrew/college_of_the_little_court.md`, Ruling in `rules/rulings.md`. Behandelt
+als Retcon: In der Fiktion war es immer so. `Cutting Words` ist weg, `The Court Stirs` ist da.
+
 **Level 6 ist entschieden: Bard 5** — `Font of Inspiration`, Bardic-Würfel **d8**, **Level-3-Spells**.
-Begründung des Spielers: Bardic Inspiration ist solo vor allem über die `Cutting Words`-Reaction
-wertvoll. Der Milestone selbst ist noch nicht vergeben; vorgesehen ist der **Abschluss des ersten
-Abenteuers in Scornubel**.
+Begründung nach dem Subclass-Wechsel bestätigt: `The Court Stirs` verbraucht Bardic Inspiration, und
+`Font of Inspiration` gibt die Würfel auf **Short Rest** zurück. Der Milestone selbst ist noch nicht
+vergeben; vorgesehen ist der **Abschluss des ersten Abenteuers in Scornubel**.

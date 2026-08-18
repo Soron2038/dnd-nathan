@@ -1,6 +1,8 @@
 # The Little Court
 
-Status: bestätigte Homebrew-Besonderheit für Nathan. Die Herkunft ist unbekannt.
+Status: **seit dem 2026-08-12 Teil von Nathans Subclass** `College of the Little Court`
+(`rules/homebrew/college_of_the_little_court.md`). Was hier steht, ist die ausführliche Beschreibung;
+der Regeltext im Subclass-Dokument hat im Zweifel Vorrang. Die Herkunft der Gabe bleibt unbekannt.
 
 Eine leise Fey-Gunst begleitet Nathan und reagiert besonders auf Berührung, Musik und freundliche Aufmerksamkeit.
 
@@ -25,7 +27,9 @@ Einmal pro Long Rest kann Nathan nach mindestens einer Minute Musik ein anwesend
 
 Beispiele: einen Tiny object holen oder tragen, an ein Fenster klopfen, eine leichte Schnur ziehen oder eine kurze physische Nachricht zu einer nahen erreichbaren Person bringen.
 
-Das Beast kann nicht berichten, was es gesehen hat, unbekannte Orte zuverlässig auskundschaften, Schlösser öffnen oder Fähigkeiten ersetzen, die es körperlich nicht besitzt. Ist kein geeignetes Beast vorhanden, wird die Nutzung nicht verbraucht.
+Das Beast kann keine unbekannten Orte zuverlässig auskundschaften, keine Schlösser öffnen und keine Fähigkeiten ersetzen, die es körperlich nicht besitzt. Ist kein geeignetes Beast vorhanden, wird die Nutzung nicht verbraucht.
+
+**Seit Bard 3 (Subclass): Das Tier kann berichten.** Kehrt das Beast zurück, erfasst Nathan grob, was es wahrgenommen hat — ungefähre Zahl, Bewegung, Licht und Dunkel, ob dort etwas war, vor dem es Angst hatte. In Bildern und Eindrücken, nie in Worten, Namen, Zahlenangaben oder Absichten. Für alles Genauere braucht es `Speak with Animals`.
 
 ## Manifestation
 

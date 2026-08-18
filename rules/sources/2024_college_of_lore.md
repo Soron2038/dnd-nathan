@@ -1,6 +1,12 @@
 # College of Lore — provided 2024 rules text
 
-Status: vom Spieler am 2026-07-21 bereitgestellt; verbindliche Quelle für diese Kampagne.
+Status: vom Spieler am 2026-07-21 bereitgestellt.
+
+> **Nicht mehr Nathans Subclass.** Am 2026-08-12 wurde auf die Homebrew
+> `College of the Little Court` gewechselt (`rules/homebrew/college_of_the_little_court.md`,
+> Ruling in `rules/rulings.md`). Diese Datei bleibt als Regelreferenz und als Beleg dafür stehen,
+> was der Wechsel gekostet hat — die unten genannten Skill-Wahlen und `Cutting Words` gelten für
+> Nathan **nicht mehr**.
 
 ## Level 3: Bonus Proficiencies
 

@@ -28,6 +28,19 @@ Dazu über den Feat `Telekinetic`, ohne gegen die bekannten Cantrips zu zählen:
 - `Silence`
 - `Phantasmal Force` — neu auf Level 5
 
+## Always Prepared (Subclass)
+
+Aus `The Little Court` (Bard 3, Homebrew — `rules/homebrew/college_of_the_little_court.md`).
+Zählen als Bard Spells und **nicht** gegen die sieben Prepared Spells:
+
+- `Speak with Animals` (Level 1, **Ritual**) — verstehen und sprechen mit Beasts, 10 Minuten. Liefert
+  laut 2024-Text Informationen über nahe Orte und Monster, „including whatever it has perceived
+  within the past day". Als Ritual ohne Slot wirkbar, wenn Nathan zehn Minuten Zeit hat.
+- `Animal Friendship` (Level 1) — ein Beast, Wisdom save, sonst **Charmed für 24 Stunden**. Endet,
+  wenn Nathan oder ein Verbündeter dem Ziel Schaden zufügt. Pro Slot-Level über 1 ein weiteres Ziel.
+  **Anti-Regression-Hinweis:** Das „Intelligence 4 or lower"-Limit ist eine 2014-Regel und gilt
+  nicht mehr.
+
 ## Spellcasting summary
 
 - Spellcasting Ability: Charisma 17 (+3)

@@ -2,7 +2,8 @@
 
 ## Identity
 
-- Human, 25 years old; Rogue 1 / Bard 4 (College of Lore)
+- Human, 25 years old; Rogue 1 / Bard 4 (College of the Little Court — Homebrew,
+  `rules/homebrew/college_of_the_little_court.md`)
 - Background: Calimport Street Performer
 - Proficiency Bonus: +3
 - Speed: 30 feet
@@ -36,10 +37,10 @@
 |---|---:|---|
 | Acrobatics | +4 | Jack of All Trades |
 | Animal Handling | +7 | Expertise |
-| Arcana | +3 | Proficient |
+| Arcana | +1 | Jack of All Trades |
 | Athletics | +0 | Jack of All Trades |
 | Deception | +9 | Expertise |
-| History | +3 | Proficient |
+| History | +1 | Jack of All Trades |
 | Insight | +4 | Proficient |
 | Intimidation | +4 | Jack of All Trades |
 | Investigation | +3 | Proficient |
@@ -51,7 +52,7 @@
 | Religion | +1 | Jack of All Trades |
 | Sleight of Hand | +6 | Proficient |
 | Stealth | +6 | Proficient |
-| Survival | +2 | Jack of All Trades |
+| Survival | +4 | Proficient |
 
 - Passive Perception: 17
 
@@ -61,11 +62,19 @@
 - Lucky: 3 Luck Points per Long Rest (equal to Proficiency Bonus)
 - Alert: Proficiency on Initiative and Initiative Swap
 - Bardic Inspiration: 3 uses, d6, return on Long Rest
-- Cutting Words: Reaction; spend Bardic Inspiration to subtract d6 from qualifying roll
 - Jack of All Trades: +1 on ability checks using an unproficient Skill
 - Weapon Mastery: Rapier (Vex), Hand Crossbow (Vex)
 - Thieves' Cant
-- The Little Court; `A Little Favor` once per Long Rest
+- **The Little Court** (Subclass, Bard 3): `Sylvan`; `Speak with Animals` and `Animal Friendship`
+  always prepared; *Gentle Bloom*; *Small Audience*; `A Little Favor` once per Long Rest — the Beast
+  can now report back in images (rough numbers, movement, light and dark, whether it was afraid)
+- **The Court Stirs** (Subclass, Bard 3): Bonus Action, spend one Bardic Inspiration. Choose a point
+  within 30 feet; until the start of your next turn, every creature within 15 feet of it has
+  Disadvantage on Wisdom (Perception) checks and on checks to locate or track you. As part of the
+  same Bonus Action you may take the `Hide` action — ignoring the Heavily Obscured/Cover and line of
+  sight requirements — provided every creature that can see you is affected. You stop being hidden
+  at the end of your next turn if you are not then obscured or behind cover. Requires small animal
+  life nearby; if none is present, nothing happens and the use is not expended.
 - **Telekinetic** (Feat): `Mage Hand` without Verbal or Somatic components, the hand can be Invisible, range and maximum distance both 60 feet; Charisma is its spellcasting ability
 - **Telekinetic Shove**: Bonus Action, one visible creature within 30 feet, Strength saving throw against DC 14 or moved 5 feet toward or away from Nathan
 
@@ -96,13 +105,18 @@ Prepared Level 2 Spells:
 - Silence
 - Phantasmal Force
 
+Always Prepared (from The Little Court; do not count against prepared spells):
+
+- Speak with Animals (Ritual)
+- Animal Friendship
+
 ## Proficiencies
 
 - Saving Throws: Dexterity, Intelligence
 - Armor: Light Armor
 - Weapons: Simple weapons; Martial weapons with Finesse or Light
 - Tools: Thieves' Tools, Pan Flute, Lute
-- Languages: Common, Alzhedo, Thieves' Cant; a few memorized Sylvan phrases without proficiency
+- Languages: Common, Alzhedo, Sylvan, Thieves' Cant
 
 ## Equipment and Appearance
 

@@ -4,8 +4,8 @@
 
 - Human, männlich, 25 Jahre alt
 - etwa 1,70 m groß, schlank und feingliedrig
-- Level 4: Rogue 1 / Bard 3
-- geplante Subclass: College of Lore
+- Level 5: Rogue 1 / Bard 4
+- Subclass: **College of the Little Court** (Homebrew, seit 2026-08-12; vorher College of Lore)
 - Herkunft: Straßen und kriminelles Milieu Calimports
 - Berufung: fahrender Musiker, Sänger, Panflötenspieler und Geschichtenerzähler
 - Haltung: zwischen Chaotic Good und Chaotic Neutral
@@ -66,7 +66,8 @@ Viele seiner Auftritte beendet er mit derselben kleinen musikalischen Wendung: d
 - Common
 - Alzhedo
 - Thieves' Cant
-- einige einzelne Sylvan-Grußformeln, Liedzeilen und freundliche Ausdrücke; keine vollständige Language proficiency
+- **Sylvan** — bis Level 5 nur einzelne Grußformeln und Liedzeilen; mit der Subclass
+  `College of the Little Court` volle Language proficiency
 
 Weitere Languages werden vorerst nicht festgelegt. Falls die allgemeine 2024-Character-Creation-Regel zusätzliche Choices zwingend verlangt, werden sie später regelkonform ergänzt.
 

@@ -54,10 +54,10 @@ Die bestehende Fey-Gunst (`player/nathan_special_gift.md`) wird Teil der Subclas
 **Sylvan.** Du erhältst volle Language proficiency in `Sylvan`. (Nathan konnte bisher nur einzelne
 Grußformeln und Liedzeilen.)
 
-**Always Prepared.** Du hast `Speak with Animals` und `Faerie Fire` immer prepared. Sie zählen als
-Bard Spells für dich und nicht gegen die Zahl deiner Prepared Spells.
+**Always Prepared.** Du hast `Speak with Animals` und `Animal Friendship` immer prepared. Sie zählen
+als Bard Spells für dich und nicht gegen die Zahl deiner Prepared Spells.
 
-**Bonus Proficiencies.** Du erhältst Proficiency in `Nature` und `Insight`.
+**Bonus Proficiencies.** Du erhältst Proficiency in `Survival` und `Insight`.
 
 **Gentle Bloom.** Lebende, nichtmagische Blumen und kleine Pflanzen wirken nach deiner Berührung für
 einige Stunden frischer und farbiger. Kein Heilen, kein Wiederbeleben, kein nutzbares Wachstum,
@@ -89,11 +89,22 @@ Wähle einen Punkt, den du sehen kannst, innerhalb von 30 feet. Bis zum Beginn d
 hat jede Creature innerhalb von 15 feet dieses Punktes **Disadvantage auf Wisdom (Perception) checks**
 und auf jeden Check, dich zu orten oder zu verfolgen.
 
-Zusätzlich kannst du als Teil derselben Bonus Action einen **Dexterity (Stealth) check** ablegen,
-auch wenn du im Freien stehst und beobachtet wirst. Jede betroffene Creature, deren Passive Perception
-niedriger ist als dein Ergebnis, verliert dich: Ihr gegenüber hast du die **Invisible** condition,
-bis du angreifst, einen Spell mit sichtbaren Komponenten wirkst, oder bis dein nächster Zug endet —
-je nachdem, was zuerst eintritt.
+Zusätzlich kannst du als Teil derselben Bonus Action die **`Hide`** action nehmen, sofern **jede
+Creature, die dich derzeit sehen kann, von diesem Feature betroffen ist.** Für diesen Versuch
+entfallen zwei Voraussetzungen der Hide action: Du musst weder **Heavily Obscured** noch hinter
+**Three-Quarters or Total Cover** sein, und du darfst in der **line of sight** der betroffenen
+Creatures stehen.
+
+Alles Übrige gilt unverändert: DC 15 Dexterity (Stealth); bei Erfolg hast du die **Invisible**
+condition, und dein Check-Total ist der DC, mit dem man dich per Wisdom (Perception) findet. Du
+hörst auf, hidden zu sein, sobald eine der normalen Bedingungen eintritt — ein Geräusch lauter als
+ein Flüstern, ein Feind findet dich, du machst einen Attack Roll, oder du wirkst einen Spell mit
+Verbal component.
+
+**Zusätzliche Endbedingung.** Bist du am Ende deines nächsten Zuges weder Heavily Obscured noch
+hinter Three-Quarters or Total Cover, hörst du auf, hidden zu sein. Der Hof beruhigt sich, die Vögel
+setzen sich wieder, und man sieht wieder hin. Das Feature verschafft dir **ein Zeitfenster**, keinen
+Dauerzustand im Freien.
 
 > **Voraussetzung — der Hof muss da sein.** Das Feature braucht kleines Getier in der Umgebung.
 > Draußen fast immer; ebenso in Ställen, Kellern, Speichern, Schankräumen, Schiffen und bewohnten
@@ -124,12 +135,18 @@ Level 14 ist so weit weg, dass jede Festlegung heute Unsinn wäre.
 
 ---
 
-## Offene Regelfrage
+## Regelgrundlagen
 
-Der exakte 2024-Wortlaut der **`Hide`**-Action (Glossar der Core Rules) ließ sich auf aidedd nicht
-abrufen — dort stehen nur die Klassenkapitel. `The Court Stirs` ist deshalb **selbsttragend**
-formuliert und verweist nicht auf die Hide-Regel. Falls der Spieler den Originaltext bereitstellt,
-kann das Feature sauber daran angeglichen werden.
+- **`Hide` action (2024):** vom Spieler am 2026-08-12 im Originalwortlaut bereitgestellt, abgelegt in
+  `rules/sources/2024_hide_action.md`. `The Court Stirs` ist daran angeglichen.
+- **Bard-Subclasses und Rogue `Steady Aim` (2024):** aidedd.org, abgerufen am 2026-08-12.
+- **`Speak with Animals` und `Animal Friendship` (2024):** aidedd.org, abgerufen am 2026-08-12.
+  Beide Level 1, beide auf der Bard-Liste. Anti-Regression-Hinweis: `Animal Friendship` hat in 2024
+  **kein** „Intelligence 4 or lower"-Limit mehr (das war 2014) — Ziel ist schlicht „a Beast",
+  Wisdom save, Charmed für 24 Stunden, endet bei Schaden durch dich oder Verbündete, upcastbar für
+  je ein weiteres Ziel pro Slot-Level. `Speak with Animals` hat das **Ritual**-Tag und liefert
+  ausdrücklich Informationen über nahe Orte und Monster, „including whatever it has perceived within
+  the past day".
 
 ## Umstellung von College of Lore (Retcon)
 
@@ -138,18 +155,22 @@ keine Szene nötig.
 
 | | vorher (Lore) | nachher (Little Court) |
 |---|---|---|
-| Skills | `Arcana`, `History`, `Insight` | `Nature`, `Insight` |
+| Skills | `Arcana`, `History`, `Insight` | `Survival`, `Insight` |
 | Aktives Feature | `Cutting Words` | `The Court Stirs` |
-| Spells | — | `Speak with Animals`, `Faerie Fire` (always prepared) |
+| Spells | — | `Speak with Animals`, `Animal Friendship` (always prepared) |
 | Languages | Sylvan nur bruchstückhaft | volle `Sylvan` proficiency |
 | Gabe | separate Homebrew nebenher | Teil der Subclass, mit Bericht-Erweiterung |
+
+Skill-Begründung des Spielers: Nathan hat kein theoretisches Naturwissen (`Nature`, Intelligence),
+kommt aber im Freien gut zurecht (`Survival`, Wisdom). Mit Wis 12 gegenüber Int 10 ist Survival
+zusätzlich der minimal bessere Wert.
 
 **Netto:** Er verliert zwei praktisch nie genutzte Skills (`Arcana` und `History` kommen im gesamten
 `dice_log` kein einziges Mal vor) und sein bestes defensives Reaction-Tool. Er gewinnt zwei Spells,
 eine Language, einen Skill und ein proaktives Werkzeug, das zu seinem tatsächlichen Spielstil passt.
 
-**Folgeentscheidung:** Die Wahl von Bard 5 für Level 6 war ausdrücklich mit `Cutting Words` begründet
-(`state/current_state.md`). Diese Begründung entfällt und die Entscheidung sollte neu getroffen
-werden — Bard 5 (`Font of Inspiration`, d8, Level-3-Spells) bleibt stark und ist jetzt sogar besser,
-weil `The Court Stirs` Bardic Inspiration verbraucht und Font of Inspiration sie auf Short Rest
-zurückgibt. Rogue 2 (`Cunning Action`) bleibt die Alternative.
+**Folgeentscheidung (2026-08-12 getroffen):** Die Wahl von Bard 5 für Level 6 war ursprünglich mit
+`Cutting Words` begründet. Diese Begründung entfällt — der Spieler hat die Entscheidung trotzdem
+bestätigt, und sie ist jetzt sogar besser begründet als vorher: `The Court Stirs` verbraucht Bardic
+Inspiration, und `Font of Inspiration` gibt die Würfel auf **Short Rest** zurück. Die Ressource, die
+die neue Subclass frisst, wird durch das nächste Level nachgefüllt.

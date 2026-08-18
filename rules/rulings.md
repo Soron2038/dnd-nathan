@@ -2,6 +2,34 @@
 
 Jeder Eintrag erhält Datum, Situation, Entscheidung, Quelle/Regeltext und die Angabe, ob er dauerhaft oder vorläufig gilt.
 
+## 2026-08-12 — Subclass-Wechsel: College of Lore → College of the Little Court (Homebrew)
+
+- **Situation:** Der Spieler ist mit `College of Lore` weder thematisch noch mechanisch glücklich.
+  Thematisch: Nathan ist kein Gelehrter, sondern ein Straßenmusiker mit einer Fey-Gunst, die bisher
+  als separate Homebrew-Gabe *neben* der Klasse herlief. Mechanisch: Von den vier offiziellen
+  2024-Subclasses ist nur Lore solo brauchbar, weil `Cutting Words` das einzige Bard-Subclass-Feature
+  ist, das sich gegen einen Gegner richtet statt an Verbündete verteilt zu werden. Eine passende
+  Fey-Subclass existiert offiziell nicht.
+- **Entscheidung:** Wechsel wird gewährt, als **schlichter Retcon** — in der Fiktion war es immer so,
+  keine Szene, keine Erklärung. Neue Subclass ist die gemeinsam entworfene Homebrew
+  `College of the Little Court`, vollständig dokumentiert in
+  `rules/homebrew/college_of_the_little_court.md`. Sie absorbiert die bestehende Gabe
+  `The Little Court` und erweitert sie.
+- **Was sich ändert:** `Arcana` und `History` fallen weg (im gesamten `dice_log` nie gewürfelt),
+  `Insight` bleibt, `Survival` kommt dazu. `Cutting Words` wird durch `The Court Stirs` ersetzt.
+  Neu: volle `Sylvan` proficiency, `Speak with Animals` und `Animal Friendship` always prepared,
+  und `A Little Favor` verliert seine „das Tier kann nicht berichten"-Klausel.
+- **Balance:** An 2024-Originaltexten geprüft (Bard-Subclasses und Rogue `Steady Aim` von aidedd,
+  `Hide` vom Spieler bereitgestellt). `The Court Stirs` ist offensiv stärker als `Cutting Words`,
+  kostet aber mehr im Gebrauch und nimmt Nathan sein einziges reaktives Rettungswerkzeug — er muss
+  jetzt vorher handeln statt hinterher zu retten. Ausdrückliches Designziel des Spielers war
+  *„nicht stärker, sondern stimmiger"*.
+- **Gilt dauerhaft.** Level 3 ist verbindlich; Level 6 und 14 der Subclass sind bewusst offen und
+  werden festgelegt, wenn sie relevant werden.
+- **Bestätigt:** Level 6 bleibt **Bard 5**. Die ursprüngliche Begründung (`Cutting Words`) entfällt,
+  die Entscheidung ist aber besser als vorher — `The Court Stirs` frisst Bardic Inspiration, und
+  `Font of Inspiration` gibt sie auf Short Rest zurück.
+
 ## 2026-08-01 — Der DM als Figur am Tisch (auf Probe)
 
 - **Situation:** Nach dem Zurückfahren der Mechanik-Klammern fehlt ein Kanal für dezente Hinweise,
