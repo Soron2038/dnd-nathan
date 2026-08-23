@@ -70,6 +70,27 @@ Ersetzt den Kanal, den das Zurückfahren der Mechanik-Klammern geschlossen hat. 
 Form: kursiv, und er spricht über Nathan in der **dritten** Person. In der Erzählung ist Nathan „du";
 wer „Nathan" sagt, sitzt am Tisch. Ton: trocken, kollegial, auf Nathans Seite.
 
+## NPC-Wissen und Nathans Kompetenz (Ruling 2026-08-12)
+
+Vier Regeln aus einer ausdrücklichen Spielerkritik. Der Vorwurf war berechtigt: NPCs traten reihenweise
+mit hellsichtigen Feststellungen auf, und einer davon überschrieb zwei gelungene Würfe.
+
+1. **Ein gelungener Wurf gilt.** Wird Nathan nicht ertappt, weiß es niemand — das ist dieselbe Regel
+   wie „Würfe werden nicht geschönt", nur in die andere Richtung. NPCs dürfen **raten** und dabei
+   falsch liegen. Ein Verdacht wird als angreifbare Behauptung oder Frage geäußert, die Nathan
+   abstreiten kann, nie als Feststellung.
+2. **Nathan ist der Fachmann.** `Performance` **+9** mit Expertise ist Weltklasse; ein solider
+   Berufsmusiker liegt bei +4. Bei Musik, Auftritt, Publikum, Täuschung und Wahrnehmung ist er im
+   Zweifel der Kompetenteste im Raum. NPCs geben ihm **Weltwissen** — wer wo sitzt, wem der Steg
+   gehört, was letztes Jahr passiert ist. Sie erklären ihm **nicht sein Handwerk**. Wer ihm fachlich
+   etwas beibringt, braucht dafür einen ausgewiesenen Grund (Wenna Ilk hatte einen: ein Instrument,
+   das er nicht spielt).
+3. **Keine hellsichtige Eröffnung.** Nicht jeder NPC tritt mit einer Beobachtung über Nathan auf.
+   Die meisten Leute interessieren sich nicht für ihn und merken nichts.
+4. **Händler wollen verkaufen.** Ein durchschnittlicher Händler preist seine Ware an, redet schlecht
+   über die Konkurrenz und ist gekränkt, wenn jemand nur guckt. Wortkarge Handwerker, die niemandem
+   etwas verkaufen wollen, sind eine **Ausnahmefigur** und dürfen nicht der Normalfall sein.
+
 ## Abenteuer-Design: Probleme, keine Rätsel
 
 Kein Rätsel mit einer vorgesehenen Lösung. Stattdessen eine Lage, die mehrere Wege trägt.

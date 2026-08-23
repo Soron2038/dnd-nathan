@@ -161,6 +161,58 @@ Bronzeplatte.
   Payoff-Optionen: Nathan hört später von ihr; sie sucht ihn (fair oder unangenehm), je nachdem,
   was aus dem Ledger und dem Compact-Erbe wird.
 
+## Scornubel (ab 28 Kythorn 1496)
+
+- **Hesker Vaunts Angebot** `[angeboten — wird abgelehnt]` — Termin am Mittag des 2. Flamerule im
+  Kontor am Westkai. **Der Spieler hat vorab angesagt, dass Nathan ablehnen wird:** kein Hausmusiker,
+  keine Kammermusik, er will neue Abenteuer.
+
+  **DM-Regel:** Das ist zu respektieren, vollständig. Kein Nachfassen, keine Nötigung, kein Nachteil,
+  der daraus konstruiert wird. Vaunt hat selbst gesagt: „Ich kaufe keine Leute mit Preisen." Er hält
+  sich daran, sonst wäre er keine gute Figur. Wenn er beim Termin etwas **anderes** will als einen
+  Musiker — eine Auskunft, einen Boten, jemanden, der irgendwo unauffällig zuhört —, ist das eine
+  eigene Sache und muss als eigenes Angebot behandelt werden, das ebenfalls kostenlos ablehnbar ist.
+
+  **Was in der Hinterhand bleibt** (aus `dm/adventures/04_scornubel.md`, Angebot C): Vaunt hat vor
+  zwei Jahren eine kleinere Kompanie ruiniert, indem er ihre Frachtbriefe aufkaufte und fällig
+  stellte — legal, sauber dokumentiert, und die Witwe des Kompanieführers wäscht heute Wäsche in der
+  Zeltstadt. Das hängt **nicht** am Brett und wird **nicht** von Vaunt selbst geliefert. Wenn es
+  kommt, dann zugesteckt, über Nazhira oder die Zeltstadt, und als Gelegenheit — nie als moralische
+  Nötigung. Nathans erklärter Wunsch war *ein Diebstahl bei jemandem, der es verdient hat*.
+- **Die junge graue Taube** `[angeboten]` — steht bei Ossa, hat sich auf Nathan geprägt und ist als
+  Ware verdorben. Ossa verkauft sie nicht mehr und füttert sie durch. Ein möglicher tierischer
+  Begleiter, ohne jeden Druck: Wenn Nathan nie hingeht, hat Ossa eine Taube mehr und gut ist.
+  Mechanisch wäre sie kein Companion, sondern Textur — und ein natürlicher Träger für Botschaften,
+  sobald Nathan `Speak with Animals` einsetzt.
+- **Kel aus Vaerings Fähre** `[offen]` — siebzehn, Knieharfe, hat durch Nathan sein erstes Publikum
+  und ein Winterangebot auf der Steinseite bekommen. Kein Faden, der etwas fordert. Mögliche spätere
+  Wiederbegegnung: in ein, zwei Jahren als jemand, der es geschafft hat — oder als jemand, der es
+  nicht geschafft hat und trotzdem dankbar ist. **Nicht in einen Schützling verwandeln**, solange der
+  Spieler es nicht selbst betreibt.
+- **Sabin Orr** `[offen]` — kommt nächstes Jahr wieder. Guter wiederkehrender Kollege und Spiegel:
+  Er hat vor drei Jahren dieselbe Entscheidung getroffen, die Nathan jetzt trifft, und trägt seither
+  geflickte Stiefel. Nützlich als Auskunftsquelle über die Stadt, nie als Questgeber.
+- **Iseldes verhülltes Instrument** `[offen]` — im kalten Hinterraum ihrer Werkstatt, Decke aus
+  engringiger Fichte, Rosette mit geschnittener **Schrift** statt Muster. Bezahlt und nie abgeholt,
+  unverkäuflich. **Bewusst nicht festgelegt**, was es ist und wer es bestellt hat. Zugang läuft über
+  ihre eigene Einladung: „Kommt wieder, wenn Ihr mal was habt, das repariert werden muss." Klein und
+  lokal halten, wenn es je aufgemacht wird.
+- **Nazhira und Wenna** `[offen]` — elf Jahre Funkstille zwischen zwei Frauen, die einander mögen.
+  Nazhiras einziger Auftrag an Nathan: „Sagt ihr, dass der Hof steht. Nicht mehr." Wenna war Sängerin
+  und Fiedlerin; heute schlägt sie einen Kasten mit Stöcken und singt kein Wort. Die weiße Narbe über
+  zwei Fingerknöcheln bleibt **unerklärt** — auch für den DM ist bewusst nichts festgelegt. Wenn es
+  je aufgelöst wird, dann klein, menschlich und ohne Bösewicht.
+- **„Die bunte Blume von Calimport"** `[offen]` — Nathan hat sich in Scornubel unter einem Bild statt
+  einem Namen eingetragen und damit vor dreitausend Leuten gewonnen. Der Name reist jetzt mit den
+  Karawanen. Zweites wachsendes Straßengerücht neben „Nihamor" — und diesmal ein Gerücht, das er
+  **will**. Mögliche Folgen: Erwartungshaltung am nächsten Ort, Nachahmer, jemand, der ihn engagieren
+  will, oder jemand, der den Namen benutzt, ohne Nathan zu sein.
+- **Alvo Renns Warnung** `[offen]` — „Wer in dieser Stadt an einem Abend auffällt, dem sehen am
+  nächsten Morgen Leute zu, die man sich nicht aussucht. Manche wollen dich engagieren. Und die
+  anderen wollen wissen, ob du was besitzt." Nathan hat jetzt 335 Gold, einen Wagen und einen sehr
+  öffentlichen Abend hinter sich. **Nicht als Strafe für den Sieg spielen** — aber als ehrliche
+  Konsequenz verfügbar halten.
+
 ## Charakter-Fäden
 
 - **The Little Court** `[offen]` — Herkunft von Nathans Fey-Gunst unbekannt; kein

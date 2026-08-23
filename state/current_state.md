@@ -2,8 +2,8 @@
 
 ## Kampagnenstatus
 
-- Datum: 28 Kythorn 1496 DR, Nachmittag
-- Region: auf der Kuppe über **Scornubel**, am Zusammenfluss von Chionthar und River Reaching
+- Datum: 2 Flamerule 1496 DR, kurz nach Mitternacht
+- Region: **Scornubel** — Der Lange Zug, am Rand der Zeltstadt
 - Party: Nathan al'Nassir (Rogue 1 / Bard 4), solo
 - Level: 5
 - XP-System: Milestones
@@ -12,62 +12,66 @@
 
 - HP 33/33; Hit Dice 5d8; AC 15
 - Proficiency Bonus +3; Spell Save DC 14; Spell Attack +6; Initiative +6
-- Heroic Inspiration 1; Luck Points 3/3; Bardic Inspiration 3/3 (d6)
+- Heroic Inspiration 1; **Luck Points 0/3** (alle drei am Wettstreitabend verbraucht); Bardic Inspiration 3/3 (d6)
 - Spell Slots: Level 1 — 4/4; Level 2 — 3/3
 - `A Little Favor` verfügbar
-- Potions of Healing 2; Geld **272 GP 5 SP**
+- Potions of Healing 2; Geld rund **335 GP**
+- **Drei Tage frei** in jedem Haus am Ostkai, auf Hesker Vaunts Rechnung (2.–4. Flamerule)
 - Charter Token der Charter Hall, Standing **Bronze** (gestempelt 15 Kythorn, Asbravn)
 - Struppi und Wagon unversehrt
 - Stiefel von Derrik Mullens Vater; kurzes Brecheisen (Geschenk Harls)
-- Proviant unterwegs mehrfach nachgeladen; ausreichend
+- Proviant ausreichend; ein Paar gute Handschuhe (Geschenk eines Zuhörers)
+- Am Steg zurückgeblieben: eine Frachtkiste, vier bunte Laternen, der Nachen der Kornmessergilde
 - Im Geheimfach: der Großteil des Geldes, Rafiqs Messingkompass, das Sternbild-Fernrohr und alle
   Fundstücke aus Barrowmill
 
 ## Wo wir stehen (Resume-Punkt für die nächste Session)
 
-Nathan ist **angekommen** — beziehungsweise steht auf der Kuppe und sieht es zum ersten Mal: den
-Chionthar, die Steinstadt am Zusammenfluss, und drumherum meilenweit die Zelt- und Wagenstadt der
-Karawanensaison mit Tausenden Feuern bei Tageslicht. Der Wind trägt Ochsen, Fisch, Gewürz und aus
-drei Richtungen gleichzeitig Musik herauf.
+Nathan hat den offenen Musikerwettstreit beim Wasserfest **gewonnen** — als „Nathan, die bunte Blume
+von Calimport". Es ist kurz nach Mitternacht, er sitzt neben Nazhira auf der Schwelle ihrer
+Küchentür, und der Hof ist auf Glut heruntergebrannt.
 
-Zwölf Tage Straße liegen hinter ihm. Er hat keinen Auftrag, keine Frist und niemanden, der auf ihn
-zählt. **Was als nächstes passiert, sucht er sich selbst aus.**
+**Der eine Termin, der ansteht:** Hesker Vaunt, Karawanenherr und Stifter des Preises, erwartet ihn
+**am Mittag des 2. Flamerule in seinem Kontor über dem Lagerhaus am Westkai**. Vaunt hat ausdrücklich
+gesagt, dass Preis und Freitage unabhängig davon Nathans bleiben.
 
-Vorbereitung für Stadt und erstes Abenteuer: `dm/adventures/04_scornubel.md` (DM-only).
+> **Spielerentscheidung, vorab angesagt:** Ein Angebot, dauerhaft für Vaunt zu spielen, wird
+> **abgelehnt**. Nathan sucht neue Abenteuer, keine Kammermusik. Das ist zu respektieren — kein
+> Nachfassen, keine Nötigung, kein Nachteil daraus konstruieren. Falls Vaunt etwas anderes will als
+> einen Hausmusiker, ist das eine eigene Sache.
 
-**Der eine Faden, den er mitbringt:** Wenna Ilk hat ihm **Nazhira** genannt, Wirtin des **Langen
-Zugs** am Rand der Zeltstadt — kleine Frau aus Memnon, redet mit jedem in dessen Sprache. Einzulösen
-nicht mit einem Namen, sondern mit einem Vorspiel: Nathan soll ihr die calishitische Kadenz spielen,
-die er und Wenna gemeinsam gerettet haben, und dann sagen, wo er sie herhat.
+Vorbereitung zur Stadt: `dm/adventures/04_scornubel.md` (DM-only).
 
-## Was auf der Reise geschah (16.–28. Kythorn)
+## Was in Scornubel geschah (28 Kythorn – 2 Flamerule)
 
-Drei Tage leere Dusk Road, dann **Hluthvar** — befestigt, Torgeld, Meldepflicht, „Kategorie vier".
-Im **Wollsack** verweigerte Wirt Berrin Toal ihm die Bühne, weil er seit sechs Jahren **Wenna Ilk**
-hat. Sie spielt Hackbrett, singt kein Wort, und hatte fünfzehn Leute in der Hand.
+Ankunft in einer Stadt, die niemanden fragt, wer er ist. Erster Kontakt: **Ossa**, Taubenhändlerin,
+bei der zwei Dutzend Tauben gleichzeitig verstummten. Im **Langen Zug** löste Nathan Wenna Ilks
+Erkennungszeichen ein und erfuhr dabei von **Nazhira**, dass Wenna früher Sängerin und Fiedlerin war.
 
-Mitten im Spiel baute sie eine calishitische Kadenz ein, die sie vor vier Jahren zweimal gehört hat
-und seither falsch spielt. Nathan fand den Fehler: ein einziger Ton, der auf einem diatonisch
-gestimmten Instrument schlicht nicht existiert. Seine Idee (die Figur nach hinten legen, leise, „als
-wehte sie zum Fenster herein") plus ihr Handwerk (den obersten Chor herunterziehen) haben ihn
-gerettet. Auf der Laute scheiterte Nathan daran; gesungen gelang es.
+Am ersten Abend legte er eine grölende Söldnerkompanie mit `Mage Hand` lahm — Becher, Schärpenknoten,
+Kiesel im Stiefel — und spielte danach ein Lied aus Memnon, damit niemand mehr über die Blamierten
+lachte.
 
-Danach kamen vier Mäuse in den Schankraum und setzten sich hin. Berrin Toal hat das in
-sechsundzwanzig Jahren nicht erlebt.
+Dann drei Tage Vorbereitung: den Ostkai als Bühne gelesen (Wind, Ausrichtung, Schallwand,
+Publikumsverhalten), den einzigen brauchbaren **Steg** bei Speichermeister **Bram Holl** als
+Liegeplatz gesichert, eine Kiste und vier Laternen besorgt, ein Programm aus sechs Stücken gebaut.
 
-Dann **Triel** (teuer, unfreundlich, nicht gespielt), der Abstieg mit den Sunset Mountains als Wand,
-ein Berggewitter, eine Karawane von fünfzig Wagen, die ihn ohne einen Blick überholte, und
-**Hill's Edge** — eine Stadt ohne Manieren.
-
-## Aktive Quests / Leads
-
-Keine Aufträge. Ein einziger Lead, und der ist ein Geschenk: **Nazhira im Langen Zug** (siehe oben).
-
-Liegengeblieben in Asbravn (verfallen mit der Abreise): Hochzeit zu Nettlemarch, Wolfsplage bei
-Threefall, der eiserne Brunnen von Marrow's Green, Odral Fenns Angebot als Hausmusiker.
+Am Wettstreitabend hielt er die Menge mit einem Opener an, der eine Frage stellt, ließ Blumen per
+`Mage Hand` fliegen, schickte ein neunjähriges Mädchen mit einer Blume zu einem untergehenden
+Konkurrenten — und beendete den Abend, indem er den erkämpften Steg verließ und mit dreihundert
+singenden Leuten über den Kai zog.
 
 ## Beziehungen, Besitz und Folgen
 
+- **Nazhira** vom Langen Zug hat Nathan aufgenommen, ihm Wennas alte Kammer gegeben und ihn ohne
+  Bezahlung wohnen lassen, solange er abends spielt. Ihr einziger Auftrag: Falls er je nordwärts
+  fährt, soll er Wenna sagen, dass der Hof steht.
+- **Sabin Orr**, Sänger und Mitbewerber, ist Nathan wohlgesonnen — Nathan hat ihm am Ende des Abends
+  dreihundert Zuhörer vor den Bierstand geschoben.
+- **Bram Holl**, Speichermeister der Kornmesser, wurde zum ersten Mal seit zwanzig Jahren gefragt,
+  wie man etwas machen sollte. Er hat den Steg vergeben, den Nachen gestellt und ungefragt Werg und
+  Pech hingelegt.
+- **Kel**, siebzehnjähriger Harfner, verdankt Nathan sein Publikum und ein Winterangebot.
 - **Wenna Ilk** in Hluthvar — Hausmusikerin im Wollsack, Hackbrett, technisch hervorragend, reist
   seit Jahren nicht mehr und sagt nicht warum. Nathan hat ihr einen Ton zurückgegeben, den sie vier
   Jahre gesucht hat. „Das war der beste Abend, den ich seit Jahren hatte, und ich sag das nicht noch
@@ -112,12 +116,15 @@ Vollständig in `dm/threads.md`. Keiner davon verfolgt Nathan.
 
 Level 5 erreicht und angewandt (Bard 4, Feat `Telekinetic`).
 
+**Level 6 vergeben am 2 Flamerule 1496** (Sieg beim Wettstreit = Abschluss des ersten Abenteuers in
+Scornubel). **Noch nicht umgesetzt:** Bard 5 bringt `Font of Inspiration`, Bardic-Würfel **d8** und
+**Level-3-Spells**. Spellwahl und Anti-Regression-Check stehen aus — das ist der erste Punkt der
+nächsten Session.
+
 **Subclass-Wechsel am 2026-08-12:** Nathan ist nicht mehr `College of Lore`, sondern
 **`College of the Little Court`** — gemeinsam entworfene Homebrew, die seine Fey-Gabe absorbiert.
 Regeltext: `rules/homebrew/college_of_the_little_court.md`, Ruling in `rules/rulings.md`. Behandelt
 als Retcon: In der Fiktion war es immer so. `Cutting Words` ist weg, `The Court Stirs` ist da.
 
-**Level 6 ist entschieden: Bard 5** — `Font of Inspiration`, Bardic-Würfel **d8**, **Level-3-Spells**.
-Begründung nach dem Subclass-Wechsel bestätigt: `The Court Stirs` verbraucht Bardic Inspiration, und
-`Font of Inspiration` gibt die Würfel auf **Short Rest** zurück. Der Milestone selbst ist noch nicht
-vergeben; vorgesehen ist der **Abschluss des ersten Abenteuers in Scornubel**.
+Begründung für Bard 5 statt Rogue 2: `The Court Stirs` verbraucht Bardic Inspiration, und
+`Font of Inspiration` gibt die Würfel auf **Short Rest** zurück.

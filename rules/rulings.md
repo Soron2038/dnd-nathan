@@ -2,6 +2,28 @@
 
 Jeder Eintrag erhält Datum, Situation, Entscheidung, Quelle/Regeltext und die Angabe, ob er dauerhaft oder vorläufig gilt.
 
+## 2026-08-12 — NPC-Wissen, Nathans Kompetenz, Händlerverhalten
+
+- **Situation:** Spielerkritik, ausdrücklich um schonungslose Prüfung gebeten. Zwei Punkte: (a) NPCs
+  traten reihenweise mit hellsichtigen Feststellungen auf und wussten Dinge, die sie nicht wissen
+  konnten; (b) eine Instrumentenbauerin erklärte Nathan sein eigenes Handwerk, obwohl er zwei Szenen
+  vorher mit `Performance` 26 exakt dieselbe Analyse selbst hergeleitet hatte.
+- **Prüfung:** Beide Punkte berechtigt. Der schwerste Einzelfall: Alvo Renn stellte fest, Nathan sei
+  für drei Streiche verantwortlich, obwohl dieser mit **18** und **24** auf `Sleight of Hand`
+  gewürfelt hatte — ein NPC-Satz überschrieb zwei gelungene Würfe. Dazu die **Häufung**: Ossa,
+  Sabin, Nazhira, Alvo und Iselde eröffneten alle mit einer hellsichtigen Beobachtung. Einzeln
+  begründbar, zusammen ein DM-Tic, der ausgerechnet Nathans Kernkompetenz — täuschen — entwertet.
+- **Entscheidung, vier Regeln, dauerhaft** (ausformuliert in `dm/00_run_procedure.md`):
+  1. **Ein gelungener Wurf gilt.** Wird Nathan nicht ertappt, weiß es niemand. NPCs dürfen raten und
+     falsch liegen; ein Verdacht ist eine angreifbare Behauptung, keine Feststellung.
+  2. **Nathan ist der Fachmann.** `Performance` +9 mit Expertise ist Weltklasse. NPCs geben
+     Weltwissen, nicht Handwerksunterricht — außer mit ausgewiesenem Grund.
+  3. **Keine hellsichtige Eröffnung.** Die meisten Leute interessieren sich nicht für ihn.
+  4. **Händler wollen verkaufen.** Wortkarge Handwerker ohne Verkaufsinteresse sind Ausnahmefiguren.
+- **Nicht rückwirkend korrigiert:** Die Iselde-Szene bleibt auf Spielerwunsch stehen. Alvo Renns
+  Feststellung liest sich nachträglich als Verdacht, den Nathan mit seinem Dschinni-Spruch selbst
+  bestätigt hat.
+
 ## 2026-08-12 — Subclass-Wechsel: College of Lore → College of the Little Court (Homebrew)
 
 - **Situation:** Der Spieler ist mit `College of Lore` weder thematisch noch mechanisch glücklich.

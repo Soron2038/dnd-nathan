@@ -188,6 +188,68 @@ Nathan war dort am 19.–20. Kythorn 1496.
 - **Bran** — schwarzweißer Hirtenhund der Ferrins (Mastiff-Werte). Wurde beim Überfall schwer
   verletzt, von Nathan mit `Cure Wounds` geheilt und kämpfte an seiner Seite. Bleibt bei Aldo.
 
+## Scornubel (ab 28 Kythorn 1496)
+
+Karawanenstadt am Zusammenfluss von Chionthar und River Reaching. Fragt niemanden, wer er ist.
+In der Saison verdreifacht sie sich durch eine Zelt- und Wagenstadt vor den Toren.
+
+- **Nazhira** — Wirtin des **Langen Zugs**, einer Karawanserei am Rand der Zeltstadt (Hof, Brunnen,
+  Ställe, offene Halle mit drei Feuerstellen). Klein, trocken, Ende fünfzig, aus **Memnon**, redet
+  mit jedem in dessen Sprache und rechnet in Fässern. Kannte **Wenna Ilk** — vier Sommer lang deren
+  Wirtin, seit elf Jahren kein Wort. Sie war eine von vier Leuten, die das Erkennungszeichen kannten;
+  die anderen drei (Rakhim, Onna, und einer, dessen Namen sie nicht mehr sagt) sind tot. Gab Nathan
+  wortlos Wennas alte Kammer. Haltung: **kostenlos wohnen, solange er abends spielt** — und ein
+  einziger Auftrag: „Wenn Ihr irgendwann wieder nordwärts fahrt, sagt Ihr ihr, dass der Hof steht."
+- **Toma** — Stalljunge im Langen Zug, dreizehn, zu große Hände, redet ohne Punkt. Seine Mutter zog
+  mit einer Kompanie weiter und kam nicht zurück; er sagt das so beiläufig wie das Wetter. Kennt
+  jede Kompanie an ihrer Farbe. Streut heimlich Hirse für Nathans Vögel.
+- **Ossa** — Taubenhändlerin am Ostrand der Zeltstadt, um die fünfzig, zweiundzwanzig Jahre im
+  Geschäft, Arme vom Käfigheben. Verkauft Reisetauben an Handelshäuser. Bei Nathans erstem Besuch
+  verstummten alle zwei Dutzend gleichzeitig, und eine **junge Graue** prägte sich auf ihn statt auf
+  einen Schlag — als Ware damit wertlos. Haltung: fachlich fasziniert, ohne Vorwurf. „Die Graue steht
+  hier. Wenn Ihr in drei Tagen noch in der Stadt seid, könnt Ihr ja vorbeikommen. Mehr sag ich dazu
+  nicht."
+- **Bram Holl** — Speichermeister der Kornmessergilde, um die fünfzig, breit, schwerer Kiefer, guter
+  Mantel, den er im Speicher nicht braucht. Ab vier Uhr auf. Hat sich sein Zählsystem selbst
+  ausgedacht und wird seit zwanzig Jahren nie gefragt, wie man etwas machen sollte — genau das war
+  Nathans Hebel. Vergab den Steg als **Liegeplatz**, stellte den Nachen der Gilde dazu und legte
+  ungefragt Werg und Pech für die undichten Stellen hin. Haltung: kollegialer Respekt.
+- **Sabin Orr** — Sänger ohne Instrument, Ende vierzig, mager, grauer Zopf, gebrochene Nase, sieht
+  aus wie ein Fuhrmann. Trieb zwanzig Jahre Ochsen und sang dabei. **Gewann den Wettstreit vor drei
+  Jahren**, lehnte danach Hesker Vaunts Angebot ab und trägt seither geflickte Stiefel. Macht mit,
+  um einmal im Jahr zu wissen, wo er steht — und um zwanzig andere zu hören. Verlor den Steg an
+  Nathan, weil er zwei Tage lang den Schreiber im Kontor bearbeitete statt Bram Holl. Haltung:
+  ehrliche Sportlichkeit; Nathan schob ihm zum Abschluss dreihundert Zuhörer vor den Bierstand.
+- **Kel** — siebzehn, Harfner aus Vaerings Fähre, zwei Tagesreisen flussaufwärts. Kleine Knieharfe,
+  dreißig Saiten, wunderschön und viel zu leise für einen Kai. Übte vier Tage lang aus Panik dieselben
+  vier Takte, die er längst konnte. Nathan gab ihm Essen, den Wind-im-Rücken-Tipp und ein
+  grauenhaft kitschiges Bild gegen die Nerven — und schickte ihm später über Tuli sein Publikum.
+  Am Ende standen fünfzig Leute an seiner Treppe und er hat ein Winterangebot von einem Haus auf der
+  Steinseite. Haltung: grenzenlos dankbar; er weiß nicht, was es Nathan gekostet hat.
+- **Tuli** — neun Jahre, arbeitete sich eine Stunde lang bis ans Kaigeländer vor, brüllte ihren Namen
+  in die Stille und trug die Blume zu Kel. Behielt beide Blumen.
+- **Alvo Renn** — Serjeant einer Söldnerkompanie mit roten Schärpen aus Athkatla, um die sechzig,
+  Gesicht wie ein alter Sattel, trinkt nicht, wenn seine Leute trinken. Der Einzige, der Nathans
+  Streiche mit dem Becher, den Schärpen und dem Stiefel verdächtigte. „Wer sie blamiert, ist
+  gefährlich. Wer sie rettet, ist gefährlich. Wer beides an einem Abend macht — für den hab ich noch
+  kein Wort." Warnte ihn: Wer in dieser Stadt auffällt, dem sehen am nächsten Morgen Leute zu, die
+  man sich nicht aussucht. Zog am 30. Kythorn weiter.
+- **Iselde** — Instrumentenbauerin auf der Steinseite, um die sechzig, vierzig Jahre im Beruf,
+  Werkstatt ohne Schild. Verkauft nur an Leute, die spielen. Hat drei Lauten, Fiedeln, eine
+  **Cister** mit Drahtsaiten (35 GP; Nathan lehnte sie ab) und im kalten Hinterraum ein verhülltes
+  Instrument mit einer Rosette aus geschnittener Schrift — **bezahlt und nie abgeholt, unverkäuflich**.
+  „Kommt wieder, wenn Ihr mal was habt, das repariert werden muss."
+- **Hesker Vaunt** — Karawanenherr, Anteile an vier Kompanien, sitzt im Rat, Kontor über dem
+  Lagerhaus am Westkai. Mitte fünfzig, aufrecht, grau, dunkler Rock ohne jede Verzierung, ein
+  Gesicht, das man vergessen würde, wenn es nicht so ruhig wäre. Bringt eine Menge zum Schweigen,
+  ohne die Hände zu heben. Stiftet den Wettstreit-Preis seit elf Jahren und benutzt ihn als Markt:
+  Wer sein Musiker wird, spielt, wo er sagt, und singt nicht über Sachen, die ihm ungünstig sind.
+  Seine eigenen Worte bei der Übergabe: „Ich kaufe keine Leute mit Preisen. Das wäre schlechtes
+  Geschäft und schlechte Musik." Haltung: offen, aufmerksam, unlesbar.
+- **Die drei mit den Trommeln** — zwei Trommlerinnen und eine Dritte mit einem fellbespannten
+  Instrument. Laut, gut, sehr geprobt. Ihre Schwäche: Der große Wechsel im dritten Durchgang sitzt
+  jedes Mal an derselben Stelle. Zweitplatzierte des Wettstreits.
+
 ## Unterwegs / Berdusk
 
 - **Jessa Pike** — Schatzsucherin. Haltung: amüsierte Achtung; hielt die Fundvereinbarung ein.

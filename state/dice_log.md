@@ -102,3 +102,13 @@ Das Log wird chronologisch geführt. Sichtbare Würfe werden mit ihren Rohwürfe
 | 96 | 007 | Nathan | 10 | Performance +9 | 19 | Open | Abend in der Vollen Garbe, gut zwei Gold |
 | 97 | 009 | Nathan | 2 | Performance +9 | 11 | Open | die calishitische Kadenz auf der Laute — Ton zwischen den Bünden, misslungen |
 | 98 | 009 | Nathan | 11 | Performance +9 | 20 | Open | dieselbe Kadenz gesungen, mit Wenna Ilks Begleitung — gelungen |
+| 99 | 010 | Nathan | 12 | Performance +9, Advantage (Luck) | 21 | Open | die calishitische Kadenz auf der Laute gezogen — Nazhiras Erkennungszeichen |
+| 100 | 010 | Nathan | 12/3 | Sleight of Hand +6, Advantage | 18 | Open | Mage Hand verknotet zwei Schärpen unter der Bank |
+| 101 | 010 | Nathan | 5/18 | Sleight of Hand +6, Advantage | 24 | Open | drei Kiesel in den ausgezogenen Stiefel |
+| 102 | 010 | Nathan | 7/20 | Performance +9, Advantage (Luck) | 29 | Open | natural 20 — das Lied aus Memnon, erster Abend im Langen Zug |
+| 103 | 010 | Nathan | 17 | Performance +9 | 26 | Open | den Ostkai als Bühne gelesen: Wind, Ausrichtung, Schallwand, Publikum |
+| 104 | 010 | Nathan | 18 | Performance +9 | 27 | Open | zweiter Abend im Hof, als Probe genutzt |
+| 105 | 010 | Nathan | 12/4 | Persuasion +6, Advantage | 18 | Open | Bram Holl: der Steg als Liegeplatz |
+| 106 | 010 | Nathan | 14/7 | Performance +9, Advantage (Luck) | 23 | Open | Eröffnung auf dem Steg — die Menge wächst langsam |
+| 107 | 010 | Nathan | 9/12 | Performance +9, Advantage (Luck) | 21 | Open | zweiter Block; die Blumen nutzen sich ab |
+| 108 | 010 | Nathan | 20/4 | Performance +9, Advantage (Luck) | 29 | Open | natural 20 — der wandernde Chor über den ganzen Kai |
