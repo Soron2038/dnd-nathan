@@ -4,16 +4,16 @@
 
 - Datum: 2 Flamerule 1496 DR, kurz nach Mitternacht
 - Region: **Scornubel** — Der Lange Zug, am Rand der Zeltstadt
-- Party: Nathan al'Nassir (Rogue 1 / Bard 4), solo
-- Level: 5
+- Party: Nathan al'Nassir (Rogue 1 / Bard 5), solo
+- Level: 6
 - XP-System: Milestones
 
 ## Aktuelle Ressourcen
 
-- HP 33/33; Hit Dice 5d8; AC 15
+- HP 39/39; Hit Dice 6d8; AC 15
 - Proficiency Bonus +3; Spell Save DC 14; Spell Attack +6; Initiative +6
-- Heroic Inspiration 1; **Luck Points 0/3** (alle drei am Wettstreitabend verbraucht); Bardic Inspiration 3/3 (d6)
-- Spell Slots: Level 1 — 4/4; Level 2 — 3/3
+- Heroic Inspiration 1; **Luck Points 0/3** (alle drei am Wettstreitabend verbraucht); Bardic Inspiration 3/3 (**d8**, kommt jetzt auf Short Rest zurück)
+- Spell Slots: Level 1 — 4/4; Level 2 — 3/3; **Level 3 — 2/2**
 - `A Little Favor` verfügbar
 - Potions of Healing 2; Geld rund **335 GP**
 - **Drei Tage frei** in jedem Haus am Ostkai, auf Hesker Vaunts Rechnung (2.–4. Flamerule)
@@ -116,10 +116,12 @@ Vollständig in `dm/threads.md`. Keiner davon verfolgt Nathan.
 
 Level 5 erreicht und angewandt (Bard 4, Feat `Telekinetic`).
 
-**Level 6 vergeben am 2 Flamerule 1496** (Sieg beim Wettstreit = Abschluss des ersten Abenteuers in
-Scornubel). **Noch nicht umgesetzt:** Bard 5 bringt `Font of Inspiration`, Bardic-Würfel **d8** und
-**Level-3-Spells**. Spellwahl und Anti-Regression-Check stehen aus — das ist der erste Punkt der
-nächsten Session.
+**Level 6 erreicht und angewandt** (2 Flamerule 1496, Sieg beim Wettstreit): Bard 5,
+`Font of Inspiration`, Bardic-Würfel **d8**, HP 39, Slots 4/3/2, neun Prepared Spells.
+Neu gewählt: **`Major Image`** und **`Cacophonic Shield`** (beide Level 3); **`Silence`** wurde
+gegen **`See Invisibility`** getauscht. Anti-Regression an 2024-Originaltexten geprüft;
+`Cacophonic Shield` liegt als vom Spieler bereitgestellte Quelle in
+`rules/sources/2024_cacophonic_shield.md`.
 
 **Subclass-Wechsel am 2026-08-12:** Nathan ist nicht mehr `College of Lore`, sondern
 **`College of the Little Court`** — gemeinsam entworfene Homebrew, die seine Fey-Gabe absorbiert.

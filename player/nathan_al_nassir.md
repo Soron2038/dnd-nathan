@@ -4,7 +4,7 @@
 
 - Human, männlich, 25 Jahre alt
 - etwa 1,70 m groß, schlank und feingliedrig
-- Level 5: Rogue 1 / Bard 4
+- Level 6: Rogue 1 / Bard 5
 - Subclass: **College of the Little Court** (Homebrew, seit 2026-08-12; vorher College of Lore)
 - Herkunft: Straßen und kriminelles Milieu Calimports
 - Berufung: fahrender Musiker, Sänger, Panflötenspieler und Geschichtenerzähler
