@@ -213,6 +213,49 @@ Bronzeplatte.
   öffentlichen Abend hinter sich. **Nicht als Strafe für den Sieg spielen** — aber als ehrliche
   Konsequenz verfügbar halten.
 
+## Kettleford und die Straße nach Süden (ab 4 Flamerule 1496)
+
+- **Vaunts Auftrag** `[aufgegriffen — faktisch erfüllt]` — 80 Gold für einen einzigen Satz: warum
+  Kettleford seine Wagen nicht durchlässt. Kein Vorschuss, keine Zusage, kein Termin. Nathan hat die
+  Antwort seit dem Nachmittag des 6. Flamerule. Vollständige Festlegung in
+  `dm/adventures/05_kettleford.md`. **Es gibt keinen zweiten Boden** — die Sache ist genau so klein
+  und menschlich, wie sie aussieht, und das ist ihre Stärke.
+
+  Offen ist nur, **was Nathan damit macht**: Paloma losschicken und kassieren; mit Sella Orrel reden;
+  die Versammlung angehen; oder weiterfahren und es liegen lassen. **Alle vier sind vollständige
+  Ausgänge.** Niemand hat Nathan gebeten, das zu lösen — Vaunt ausdrücklich nicht.
+
+- **Sella Orrel** `[offen]` — die Witwe. Macht seit Ende Mirtul niemandem länger als einen Gruß die
+  Tür auf; Orla bringt ihr zweimal die Woche etwas vorbei. Nathan ist ihr noch nicht begegnet.
+  **Nicht zur Tür schicken.** Wenn er hingeht, geht er hin. Wenn sie in der Tür steht, weil man Musik
+  durch ein ganzes Dorf hört, dann nur, wenn es sich ergibt.
+
+- **Die Versammlung** `[offen]` — zwölf Anteilseigner am Zoll, tagt viermal im Jahr und sonst nur,
+  wenn es brennt. Keiner kommt zu Nathans Abend, weil das aussähe wie Zurückrudern. Der Interessanteste
+  ist **der Erste, der weich wird** — Namen bewusst noch nicht festgelegt, damit die Figur aus dem
+  Abend entstehen kann.
+
+- **Der durchweichte Brief** `[angeboten]` — eine Hochzeit am **neunten Flamerule**, zwölf Gold und
+  Essen, „hinter der Färberei", Name und Straße unlesbar. Nathan hat entschieden, nicht danach zu
+  suchen, den Brief aber behalten. **Nicht auflösen.** Wenn überhaupt, dann so, dass **sie ihn**
+  finden — nie umgekehrt. Läuft am 9. Flamerule ab; danach ist es schlicht vorbei, und das ist in
+  Ordnung.
+
+- **Die zwei Tauben** `[offen]` — **Paloma** ist auf Vaunts Kontor geprägt und funktioniert als
+  Nachrichtenweg nach Scornubel. Die **junge Graue** von Ossa ist auf **Nathan** geprägt statt auf
+  einen Ort und fliegt zu ihm zurück; sie ist noch namenlos. Was daraus wird, ist offen — sie ist
+  Textur und kein Companion, und der Little Court wird dabei nicht erklärt.
+
+- **Die Fields of the Dead** `[offen]` — ab dem vierten Reisetag südlich von Kettleford. Alte
+  Schlachtfelder, Grabhügel, umgefallene Wachtürme, und Bauern, die beim Pflügen Dinge finden, die man
+  besser liegen lässt. **Hier gehört der kämpfbare Encounter dieses Abschnitts hin** (Bauvorgaben
+  unverändert: ohne Uhr, Schaden statt Kontrolle, offener Rückzugsweg). Merric hat vorab geklärt, dass
+  niemand von Nathan erwartet, für die Ladung zu sterben — das hält die Uhr draußen.
+
+- **Baldur's Gate** `[offen]` — zwölf bis vierzehn Tage südlich, Nathans erklärtes Fernziel. „Die
+  Stadt, über die jeder redet und die keiner beschreiben kann." Nichts davon ist vorbereitet; wenn er
+  ankommt, wird gebaut.
+
 ## Charakter-Fäden
 
 - **The Little Court** `[offen]` — Herkunft von Nathans Fey-Gunst unbekannt; kein

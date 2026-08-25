@@ -250,6 +250,56 @@ In der Saison verdreifacht sie sich durch eine Zelt- und Wagenstadt vor den Tore
   Instrument. Laut, gut, sehr geprobt. Ihre Schwäche: Der große Wechsel im dritten Durchgang sitzt
   jedes Mal an derselben Stelle. Zweitplatzierte des Wettstreits.
 
+## Der Zug nach Süden (ab 4 Flamerule 1496)
+
+Vier Kleinhändler, über die Charter Hall Scornubel angeheuert. 35 GP plus Anteil, sechs bis acht Tage.
+
+- **Merric Toal** — Anfang vierzig, hager, muss immer etwas festhalten, meistens eine Liste. Redet
+  viel und organisiert gern. Hat vorab klargestellt, dass niemand von Nathan erwartet, für die Ladung
+  zu sterben. Nicht verwandt mit dem Wirt in Hluthvar, das fragt jeder.
+- **Dovel** — breit, langsam, Bart mit Frühstück drin, fährt Töpferware in Stroh und nimmt jeden
+  Wagenstoß persönlich. Sagt an einem Abend höchstens einen ganzen Satz. Sang am dritten Abend mit.
+- **Die Witwe Sann** — um die sechzig, gerader Rücken, ein Mantel, der vor fünfzehn Jahren teuer war.
+  Fährt Leinen und eine Truhe, die sie selbst festzurrt. Hört zu, wo andere reden, und lieferte den
+  ersten Hinweis auf Kettleford. Ihr einziger Kommentar zu Nathans Musik am ersten Abend: „Weiter."
+- **Ferrin** — Merrics Vetter, neunzehn, fährt nichts und fährt mit, weil zu Hause diskutiert wurde,
+  was man mit ihm anfängt. Sitzt seit dem zweiten Tag freiwillig auf Nathans Bock, versorgt Struppi
+  und stellt Fragen über die Laute, von denen mindestens eine besser ist, als er weiß.
+- **Orin Bekk** — Chartermaster in Scornubel, seit anderthalb Jahren, zwei Räume im Erdgeschoss und
+  ein Brett für drei Zettel. Nüchtern und ohne Bitterkeit: „In Iriaebor kommt die Arbeit zur Hall.
+  Hier gehen die Kompanien direkt zu Leuten, die sie kennen."
+
+## Kettleford (Furt an der Trade Way, drei Tage südlich von Scornubel)
+
+Vierzig Häuser an einer hundert Schritt breiten Kiesfurt, dazu ebenso viele Höfe drumherum. Ein
+wohlhabendes, gepflegtes Dorf, das vom Zoll lebt. Seit Ende Mirtul steht die Schranke unten für alle
+Wagen mit Hesker Vaunts Zeichen, und im Dorf wird nicht mehr gefeiert.
+
+- **Hobb** — Wirt des Gasthauses *Zum Kessel*, um die fünfzig, breit, rotes Gesicht. Sein Vater baute
+  die Stube mit sechzig Plätzen, und alle nannten ihn verrückt, bis sie zwei Jahre später zu klein war.
+  Herzlich zu Stammgästen. Hat für Nathans Abend das Mittsommerfass angeschlagen und einen Jungen
+  durchs Dorf geschickt — nach sechs Wochen ohne Musik im Haus. Haltung: dankbar, und ein bisschen
+  ängstlich, dass niemand kommt.
+- **Orla** — vierundsiebzig, sitzt mit Bohnen auf einer Bank an der Südseite. Direkt, trocken,
+  vollkommen unbeeindruckt von Dorfbeschlüssen: „Ich bin vierundsiebzig, mir kann das keiner mehr
+  verbieten." Hat Nathan in einem Nachmittag die ganze Geschichte erzählt, weil er nicht nach der
+  Schranke fragte, sondern danach, warum niemand mehr feiert. Bringt Sella Orrel zweimal die Woche
+  etwas vorbei. Haltung: mag ihn, weil ihr Hund ihn mag.
+- **Mick** — Orlas Hund, vierzehn, dünnes Fell an den Hüften, geht grundsätzlich nicht zu Fremden.
+  Ging zu Nathan.
+- **Kettil** — Junge, zwölf, rennt gern, wird von Hobb als Nachrichtendienst eingesetzt.
+- **Grete** — Hobbs Schwägerin, klein, schnell, redet nur mit dem Teig.
+- **Dannic Orrel** † — Fuhrmann, dann Kompanieführer mit vier eigenen Wagen, alles selbst aufgebaut.
+  Vor zwei Jahren in Scornubel ruiniert: Jemand kaufte seine Schuldscheine auf und stellte sie an einem
+  Tag fällig, an dem sein Geld in Wagen unterwegs war. Vollkommen rechtens. „Nicht mit Räubern. Mit
+  Papier." Zog zu seiner Frau nach Kettleford, war noch keine fünfzig, saß zwei Jahre lang am Fenster
+  und ging zweimal die Woche denselben Weg hoch zum Wehr. Starb Ende Mirtul 1496 im Bett, am Herzen.
+- **Sella Orrel** — seine Witwe, aus Kettleford stammend. Macht seit Ende Mirtul niemandem länger als
+  einen Gruß die Tür auf. Nathan ist ihr noch nicht begegnet.
+- **Die Versammlung** — zwölf Anteilseigner am Zoll, tagt viermal im Jahr und sonst nur, wenn es
+  brennt. Sie hat den Balken beschlossen und das Feierverbot. Keiner von ihnen kommt zu Nathans Abend,
+  weil das aussähe wie Zurückrudern. Namen noch nicht etabliert.
+
 ## Unterwegs / Berdusk
 
 - **Jessa Pike** — Schatzsucherin. Haltung: amüsierte Achtung; hielt die Fundvereinbarung ein.
