@@ -112,3 +112,8 @@ Das Log wird chronologisch geführt. Sichtbare Würfe werden mit ihren Rohwürfe
 | 106 | 010 | Nathan | 14/7 | Performance +9, Advantage (Luck) | 23 | Open | Eröffnung auf dem Steg — die Menge wächst langsam |
 | 107 | 010 | Nathan | 9/12 | Performance +9, Advantage (Luck) | 21 | Open | zweiter Block; die Blumen nutzen sich ab |
 | 108 | 010 | Nathan | 20/4 | Performance +9, Advantage (Luck) | 29 | Open | natural 20 — der wandernde Chor über den ganzen Kai |
+| 109 | 011 | Nathan | 11/19 | Performance +9, Advantage (Luck) | 28 | Open | der Abend im Hof des Kessel — über sechzig Leute, erstes Fest seit sechs Wochen |
+| 110 | 011 | DM | 1 | Situationswurf, Tabelle offengelegt | 1 | Open | niemand kommt dazu — weder Sella noch einer aus der Versammlung |
+| 111 | 011 | DM | 17 | Situationswurf, Tabelle offengelegt | 17 | Open | Sella Orrel kommt früh zum Grab, während Nathan dort steht |
+| 112 | 011 | DM | 20 | Situationswurf, Tabelle offengelegt | 20 | Open | die lautlose Lichterprozession über die Fields of the Dead |
+| 113 | 011 | Nathan | 16 | Animal Handling +7 | 23 | Open | einen wilden Hasen berührt; drei Sekunden, dann ist er weg |

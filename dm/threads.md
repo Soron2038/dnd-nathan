@@ -215,7 +215,13 @@ Bronzeplatte.
 
 ## Kettleford und die Straße nach Süden (ab 4 Flamerule 1496)
 
-- **Vaunts Auftrag** `[aufgegriffen — faktisch erfüllt]` — 80 Gold für einen einzigen Satz: warum
+- **Vaunts Auftrag** `[ausgeschlagen — endgültig]` — **Nathan hat entschieden, Vaunt nichts zu sagen.**
+  Der Bericht liegt zerknüllt im Straßengraben, die achtzig Gold sind weg. Vollständige DM-Regeln dazu
+  in `dm/adventures/05_kettleford.md`: kein zweiter Weg zum Geld, kein Nachfassen durch Vaunt, keine
+  nachgeschobene Strafe für die Entscheidung. Falls Nathan ihm je wieder begegnet, akzeptiert Vaunt ein
+  Schweigen ohne Groll.
+
+  *(Historischer Stand des Fadens:)* — 80 Gold für einen einzigen Satz: warum
   Kettleford seine Wagen nicht durchlässt. Kein Vorschuss, keine Zusage, kein Termin. Nathan hat die
   Antwort seit dem Nachmittag des 6. Flamerule. Vollständige Festlegung in
   `dm/adventures/05_kettleford.md`. **Es gibt keinen zweiten Boden** — die Sache ist genau so klein

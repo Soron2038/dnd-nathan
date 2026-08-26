@@ -1,11 +1,11 @@
 # Session 011 — Die Schranke von Kettleford
 
-**Läuft noch.** Unterbrochen mitten im Abend des 6. Flamerule, kurz bevor Nathan im Gasthaus
-*Zum Kessel* zu spielen anfängt.
+**Läuft noch.** Unterbrochen am Nachmittag des 7. Flamerule auf den Fields of the Dead, vor einer
+dünnen Rauchsäule an der Straße.
 
 ## Ausgangszustand
 
-- In-world date: 2 Flamerule (nach Mitternacht) bis 6 Flamerule 1496 DR, Abend
+- In-world date: 2 Flamerule (nach Mitternacht) bis 7 Flamerule 1496 DR, später Nachmittag
 - Ort: Scornubel → Trade Way südwärts → **Kettleford**
 - Party: Nathan al'Nassir (Rogue 1 / **Bard 5**), solo
 - Ressourcen zu Beginn: rund 335 GP, Level 6 frisch angewandt
@@ -177,14 +177,141 @@ Orla selbst: „Ich komm. Und wenn ich um die Zeit noch wach bin, dann bin ich d
 **Keine.** In dieser Session bis hierher gab es keine Probe, keinen Konflikt und keine offene Frage,
 die ein Wurf hätte beantworten müssen. `state/dice_log.md` steht unverändert bei #108.
 
+## Der Abend im Kessel (6. Flamerule)
+
+Nathan verlegt das Fest **nach draußen** in den Hof — die Stube mit ihren neunundfünfzig leeren
+Plätzen hätte sechs Zuschauer erdrückt, und draußen hört man Musik in einem windstillen Dorf
+überall. Den Umzug macht er zur ersten Nummer: *„Wer hilft, darf sich später ein Lied wünschen."*
+Damit werden aus sechs Zuschauern sechs Beteiligte, und neun Männer, die Bänke über gestampften Lehm
+schleppen, sind laut genug, dass nach einer halben Stunde neunzehn Leute am Hof stehen.
+
+Die **vier bunten Laternen** aus Scornubel kommen an den Draht unterm Vordach. Als sie angehen, wird
+der Hof für einen Moment still, und ein kleines Mädchen sagt sehr laut „ooooh".
+
+**Der Abend** (`Performance` mit Advantage: **28**): schnell rein, dann runter zum Essen, dann Stück
+für Stück wieder hoch. Nach einer Stunde sind **über sechzig Leute** da — mehr, als je in die Stube
+gepasst hätten. Es wird getanzt. Orla bekommt ein Lied, das außer ihr niemand mehr kennt; sie summt
+vier Takte vor, und ab der zweiten Strophe singen sechs alte Leute mit, die vorher einzeln am Rand
+standen.
+
+**Niemand von den zwölf kommt** (Situationswurf: 1). Sella Orrel auch nicht. In den Häusern, in denen
+es darauf ankäme, bleiben die Läden zu — und jeder dort drin hört jeden Ton.
+
+Hobb zapft das Mittsommerfass leer, macht ein zweites auf und drückt Nathan hinterher **gut sechs
+Gold** in die Hand, mehr als vereinbart. Sagen kann er nichts dazu; er versucht es zweimal.
+
+## Das Grab (7. Flamerule, früh)
+
+Nathan geht vor der Abreise still auf den Friedhof, mit Wiesenblumen, die er selbst gepflückt hat und
+die durch `Gentle Bloom` aussehen, als wären sie eine Stunde jünger geworden.
+
+Der Stein: **DANNIC ORREL · 1447–1496 · ER HAT ES SELBST AUFGEBAUT.**
+
+Und dann kommt **Sella Orrel** mit Eimer und Lappen den Hang herauf (Situationswurf: 17), so wie
+offenbar jeden Morgen. Ihre erste Frage: „Habt Ihr ihn gekannt?" Nathan sagt die Wahrheit — nein.
+
+Was sie ihm dann sagt, **korrigiert die ganze Lage**:
+
+> „Ich sitz nicht zu Hause, weil ich um ihn trauere. Um ihn trauere ich hier oben, jeden Morgen, eine
+> halbe Stunde. Ich sitz zu Hause, weil ich diese Leute nicht mehr sehen kann."
+
+Zwei Jahre lang hat das Dorf ihren Mann gegrüßt und ihr Suppe gebracht, und **niemand ist einmal
+reingekommen und hat gesagt: Dannic, komm, ich brauch am Mittwoch jemanden, der mir hilft.** Drei
+Wochen nach seinem Tod tagt die Versammlung außerplanmäßig, lässt den Balken runter und kommt zu ihr,
+damit sie sieht, was sie für ihn tun.
+
+> „Ich hab sie nicht drum gebeten. Ich hab niemanden drum gebeten. Sie machen das nicht für Dannic.
+> Sie machen das, damit sie nachts schlafen können. Und ich soll dabei die Witwe sein, die das schön
+> findet, und deswegen mach ich meine Läden zu."
+
+Sie hat in der Nacht **das Fenster aufgemacht** und bis zum Schluss zugehört, zum ersten Mal seit sechs
+Wochen. Nathans ungebetener Rat — „oder Ihr verzeiht ihnen und seid besser als sie es waren" — nimmt
+sie nicht an und weist ihn auch nicht zurück: *„Ich verzeih ihnen nicht heute. Und morgen auch nicht.
+Aber ich hab die ganze Nacht am Fenster gesessen und mir überlegt, wie lang ich das noch mache."*
+
+Sie fragt zum Schluss nach seinem Namen, weil er der Erste in sechs Wochen war, der Blumen hinlegt und
+wieder gehen will, ohne sich vorzustellen.
+
+## Nathans Entscheidung: Vaunt erfährt nichts
+
+**Der wichtigste Beschluss dieser Session.** Auf der Straße schreibt Nathan den Bericht für Vaunt
+tatsächlich — und zerknüllt ihn nach einer halben Meile.
+
+Begründung, im Spiel ausformuliert: Es ist nicht sein Wissen. Es gehört Orla und Sella, und keine von
+beiden hat gesagt, dass es weitergehen soll. Wann die Strafe des Dorfes aufhört, entscheidet das Dorf
+— nicht ein Mann in einem Kontor, der sich zwei Jahre lang nicht gefragt hat, wo Dannic Orrel
+geblieben ist. Nathan hat **keine Anzahlung genommen und schuldet nichts**; genau so war die Abmachung
+gebaut, und Vaunt fand sie selbst besser als sein eigenes Angebot.
+
+Das zweite Argument, mit Grinsen: Wer soll neben Paloma sitzen, wenn Paloma weg ist?
+
+**Die achtzig Gold sind damit ausgeschlagen.** Der Zettel liegt im Straßengraben.
+
+## Abschied von Kettleford
+
+**Hobb:** dreiunddreißig Krüge am Stück, das letzte Mal vor vier Jahren an einer Hochzeit. Seine Frau
+hat gesagt, sie habe ihn seit Wochen nicht so gehört — er habe gelacht. „Ihr kommt hier durch,
+jederzeit, und Ihr zahlt nichts. Nie."
+
+**Orla** sitzt auf ihrer Bank und hebt beim Vorbeifahren zwei Finger zwei Zoll vom Schüsselrand.
+Mick geht drei Schritte hinter dem Wagen her, bevor er es sich anders überlegt.
+
+## Die Fields of the Dead
+
+Flach, weit, gelbes Gras bis zum Horizont, kaum Bäume — und **Hügel, die keine Hügel sind**: zu viele,
+zu regelmäßig, an Stellen ohne Grund. Auf einem steht ein aufrechter Stein ohne Zeichen. Ein Bauer
+wirft beim Pflügen etwas Längliches, Rostbraunes auf den Steinhaufen am Feldrand und pflügt weiter.
+
+Die Witwe Sann: *„Da unten liegen mehr Leute als in Scornubel wohnen. Und keiner weiß mehr, wer gegen
+wen."* Auf Ferrins Frage, ob es hier spukt, sagt Merric nein, Dovel nichts, und sie: *„Nicht so, wie
+du meinst."*
+
+**In der Nacht zum 7.** (Situationswurf: **20**) hören während Nathans Wache erst die Grillen auf —
+wellenförmig, von einer Seite her, bis vollkommene Stille steht. Dann zieht zwei oder drei Meilen im
+Osten **Licht** über die Ebene: hunderte blasse, kalte Lichter, kniehoch über dem Gras, in einer
+langen geordneten Linie quer zur Straße, von einem Hügel zum nächsten. Sie schwanken alle im selben
+Takt, und der Takt ist der eines gehenden Menschen. **Vollkommen lautlos.** Es dauert zwanzig Minuten.
+Die Spitze erreicht den zweiten Hügel und ist einfach nicht mehr da.
+
+Zehn Herzschläge später fangen die Grillen wieder an, alle gleichzeitig.
+
+Zwei Beobachtungen hinterher: Die **Hasen sind nicht weggelaufen** — sie haben in dieselbe Richtung
+geguckt. Und die **graue Taube** ist irgendwann aus dem Dunkeln zurückgekommen und hat sich lautlos
+auf Nathans Knie gesetzt.
+
+Niemand sonst hat etwas gesehen. Auf Merrics „Alles ruhig?" braucht Nathan zwei Sekunden und sagt
+dann: „Nur ein paar Hasen." Merric, ohne aufzusehen: *„Meine erste Fahrt hier durch war ich
+zweiundzwanzig. Da hab ich meinem Onkel morgens erzählt, was ich nachts gesehen hab. Der hat gesagt:
+Waren Hasen."*
+
+**Der Hasen-Versuch** (`Animal Handling` 23): Nathan geht mit einer Taube auf der Schulter langsam ins
+Gras, hockt fünf Minuten und berührt einen wilden Hasen zwischen den Schulterblättern — drei Sekunden,
+dann ist der weg. **Die Grenze ist damit im Spiel etabliert:** Die Tiere kommen nah und fürchten ihn
+nicht, aber sie bleiben wild. Kein Schoßsitzen, kein Folgen.
+
+## Loot und Ausgaben (Stand 7. Flamerule)
+
+- Die junge graue Taube von Ossa: **−2 GP**
+- Hutgeld und Zulage von Hobb: **+6 GP**
+- **Ausgeschlagen: 80 GP von Hesker Vaunt**
+- Geld: rund **339 GP**; dazu 35 GP plus Anteil ausstehend aus dem Begleitschutz
+- Von Hobb mitgegeben: Brot, Speck, harter Käse
+- Freie Zeche im *Kessel*, auf Dauer
+
+## Würfe
+
+#109–#113. Zwei natural 20 unter den Situationswürfen (die Lichterprozession und — als 1 — dass
+niemand zum Fest dazukommt).
+
+
 ## Resume-Punkt
 
-**6 Flamerule, halb sieben abends, Schankraum des Kessel.** Alles ist vorbereitet: Brot für achtzig
-Leute, ein angeschlagenes Fass, Lampen an allen Balken, und Nathan hat den Spielplatz selbst gewählt —
-drei Schritte links vom Pfosten, den Hobb vorgeschlagen hatte, weil dort die Treppe den Klang nicht
-frisst. Hobb hat es nachgeprüft und gelacht: „Sechsundzwanzig Jahre. Und mein Vater vierzig davor."
+**7 Flamerule, später Nachmittag, Fields of the Dead.** Der Zug rollt südwärts. An diesem Tag
+begegneten sie einem Boten, der nur zwei Finger hob, und einer Reihe von sieben mannshohen Steinen im
+rechten Winkel zur Straße, auf deren drittem ein Bussard saß.
 
-Merric und Dovel sitzen schon da. Ferrin hat sich neben den Schemel gesetzt.
+Und dann lässt Merric anhalten: **Eine halbe Meile voraus steht Rauch.** Eine dünne, gerade Säule,
+wie von einem kleinen Feuer, das schon eine Weile brennt — genau dort, wo die Straße über eine flache
+Kuppe geht. Zu früh am Tag für ein Nachtlager, zu wenig Rauch für einen Zug.
 
-Und dann kommt Orla herein, mit Mick, sieht die leeren Bänke und setzt sich mitten in die erste Reihe:
-**„So. Ich sitz jetzt hier."**
+Merric steht auf seinem Bock, die Hand über den Augen: **„Da ist normalerweise nichts."**
