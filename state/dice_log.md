@@ -117,3 +117,6 @@ Das Log wird chronologisch geführt. Sichtbare Würfe werden mit ihren Rohwürfe
 | 111 | 011 | DM | 17 | Situationswurf, Tabelle offengelegt | 17 | Open | Sella Orrel kommt früh zum Grab, während Nathan dort steht |
 | 112 | 011 | DM | 20 | Situationswurf, Tabelle offengelegt | 20 | Open | die lautlose Lichterprozession über die Fields of the Dead |
 | 113 | 011 | Nathan | 16 | Animal Handling +7 | 23 | Open | einen wilden Hasen berührt; drei Sekunden, dann ist er weg |
+| 114 | 011 | Nathan | 5 | Perception +7 | 12 | Open | langer Blick auf die Kuppe aus einer halben Meile — Krähen, falscher Rauch, mehr als eine Bewegung |
+| 115 | 011 | Nathan | 8 | Animal Handling +7 | 15 | Open | Gespräch mit Paloma unter `Speak with Animals` — Taubenlogik bleibt Taubenlogik |
+| 116 | 011 | Nathan | 5/5 | Animal Handling +7, Advantage (Friendly), `Influence` vs DC 15 | 12 | Open | die junge Graue soll die Kuppe auskundschaften — misslungen |
