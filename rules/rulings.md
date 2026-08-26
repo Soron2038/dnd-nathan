@@ -202,3 +202,25 @@ Jeder Eintrag erhält Datum, Situation, Entscheidung, Quelle/Regeltext und die A
 - **Quelle:** Spielerwahl; deckt sich mit `campaign/00_campaign_contract.md` (lokale Konflikte, Schätze, Ruinen).
 - **Gültigkeit:** dauerhaft, revidierbar.
 
+
+## 2026-08-26 — `Influence` gegen Beasts unter `Speak with Animals`
+
+- **Situation:** Nathan wollte auf den Fields of the Dead eine seiner Tauben die Rauchsäule
+  auskundschaften lassen. Der 2024er-Spell `Speak with Animals` erlaubt ausdrücklich „any of the
+  Influence action's skill options" gegen Beasts.
+- **Entscheidung:** Behandelt als reguläre `Influence` action. Bitte war **hesitant** (Rauch und
+  Raubzeug sind für einen Vogel ein echtes Nein-Argument), Attitude **Friendly** (auf Nathan geprägt,
+  `Small Audience` nimmt gewöhnlichen harmlosen Tieren die Scheu) → `Animal Handling` +7 mit
+  **Advantage** gegen **DC 15** (Intelligence 2 liegt unter dem Bodenwert). Wurf 5/5 → 12,
+  **misslungen**.
+- **Korrektur einer DM-Ansage im Spiel:** Der DM hatte die Sperre zunächst als „kein `Influence` für
+  24 Stunden" angesagt. Der Regeltext ist enger: **„auf dieselbe Weise erneut"**, und er räumt dem DM
+  ausdrücklich eine kürzere Dauer ein. Gilt hier: Dieselbe Taube auf dieselbe sanfte Art nochmal
+  bitten, ohne dass sich etwas geändert hat, ist gesperrt. Wird das eigentliche Hindernis beseitigt
+  oder ein anderer Weg gewählt, ist es ein neuer Versuch.
+- **Zusatz:** Unter `Speak with Animals` **versteht** das Beast Nathan. Damit sind gegenüber Tieren
+  auch `Persuasion`, `Deception`, `Intimidation` und `Performance` regelkonform möglich, nicht nur
+  `Animal Handling`.
+- **Quelle:** `rules/sources/2024_influence_action.md` (vom Spieler bereitgestellt),
+  `player/nathan_spells.md`. Offen: die Glossardefinitionen zu Friendly/Indifferent/Hostile.
+- **Gültigkeit:** dauerhaft, revidierbar.
