@@ -161,9 +161,20 @@ angezündet haben. **Der Fahrer ist tot** — es gibt keine Geisel, keinen Sterb
   hohes Gras zum Anschleichen, Nathan hat `Perception` +7 und kann sich Zeit nehmen. Zahl,
   Bewaffnung, Gelände und Rückzugsweg werden vor jeder Entscheidung genannt.
 
-**Offen, weil der Lookup an einer Bot-Sperre hing:** Der 2024/2025-Statblock für Gnolls muss noch
-geholt werden (aidedd `/monster/`, sonst Spieler fragen), **bevor** gewürfelt wird. Nicht aus dem
-Gedächtnis spielen.
+**Statblock liegt vor** (2026-08-26, vom Spieler bereitgestellt, weil aidedd weiter blockt):
+`rules/sources/2025_gnolls.md`. Es sind **vier Gnoll Warriors**, kein Pack Lord — das steht fest und
+wird nachträglich nicht aufgestockt.
+
+Die drei Punkte, die die Lage prägen:
+
+- **Kein Reden.** Gnolls sprechen nur Gnoll. `Command` und `Suggestion` sind raus, und zwar durch
+  Gegner-Design, nicht durch DM-Willkür. `Vicious Mockery` und `Dissonant Whispers` gehen.
+- **Keine Tiere.** Gnolls sind 2024 **Fiends**. `Animal Friendship` und `Speak with Animals` greifen
+  nicht; die Little Court hilft hier nicht.
+- **Bone Bow, 150/600 ft.** Auf flachem Land ist das der Grund, warum Umkehren teuer ist und
+  Anschleichen kein Freifahrtschein. Vier Bögen decken die Kuppe weit hinunter.
+
+Der Rauch ist im 2025-Text ausdrücklich erklärt: Gnolls zerstören, was sie nicht mitnehmen können.
 
 **Alternative, falls der Spieler ausweicht:** Umfahren ist möglich — offenes Land, aber Wagen im
 hohen Gras verlieren Zeit und riskieren Achsen. Merric würde es versuchen. Ob die Gnolls den Zug
