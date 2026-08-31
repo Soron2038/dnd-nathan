@@ -2,8 +2,8 @@
 
 ## Kampagnenstatus
 
-- Datum: 7 Flamerule 1496 DR, später Nachmittag
-- Region: **Fields of the Dead**, Trade Way südlich von Kettleford
+- Datum: 8 Flamerule 1496 DR, Vormittag
+- Region: **Fields of the Dead**, Trade Way, rund sechs Meilen nördlich der Kuppe
 - Party: Nathan al'Nassir (Rogue 1 / Bard 5), solo
 - Level: 6
 - XP-System: Milestones
@@ -12,7 +12,7 @@
 
 - HP 39/39; Hit Dice 6d8; AC 15
 - Proficiency Bonus +3; Spell Save DC 14; Spell Attack +6; Initiative +6
-- Heroic Inspiration 1; **Luck Points 2/3**; Bardic Inspiration 3/3 (**d8**, kommt auf Short Rest zurück)
+- Heroic Inspiration 1; **Luck Points 3/3**; Bardic Inspiration 3/3 (**d8**, kommt auf Short Rest zurück)
 - Spell Slots: Level 1 — 4/4; Level 2 — 3/3; **Level 3 — 2/2**
 - `A Little Favor` verfügbar
 - Potions of Healing 2; Geld rund **339 GP**; dazu 35 GP plus Anteil ausstehend aus dem Begleitschutz
@@ -31,15 +31,32 @@
 
 ## Wo wir stehen (Resume-Punkt für die nächste Session)
 
-**Mitten in Session 011.** Später Nachmittag des 7. Flamerule, der Zug rollt südwärts über die Fields
-of the Dead — flaches, offenes Grasland bis zum Horizont, mit Hügeln, die keine natürlichen Hügel sind.
+**Mitten in Session 011.** Vormittag des 8. Flamerule. Der Zug fährt **nach Norden**, zurück Richtung
+Kettleford, weil Nathan vier Gnolls auf einer Kuppe im Süden aufgeklärt hat und ein offener Kampf
+rechnerisch nicht zu gewinnen war.
 
-**Merric hat gerade anhalten lassen:** Eine halbe Meile voraus steht eine dünne, gerade Rauchsäule
-genau dort, wo die Straße über eine flache Kuppe geht. Zu früh am Tag für ein Nachtlager, zu wenig
-Rauch für einen Zug. Merric, die Hand über den Augen: *„Da ist normalerweise nichts."*
+**Wie die Aufklärung lief:** `Speak with Animals` als Ritual, dann `Influence` (`Animal Handling`,
+Friendly → Advantage, DC 15) auf die junge graue Taube — erst misslungen (5/5), dann mit
+`Heroic Inspiration` doch geschafft. Sie hat aus der Luft geliefert: **vier Gnolls**, zwei davon mit
+Bögen, ein toter Fuhrmann, ein glimmender Karren, ein **Steinhaufen als Deckung diesseits der Kuppe**
+und eine **leere Straße dahinter**. Paloma fiel als Kundschafterin aus: Sie ist auf Vaunts Kontor
+geprägt und kann nicht zu einem fahrenden Wagen heimfinden.
 
-DM-Festlegung und Bauvorgaben zu dieser Lage: `dm/adventures/05_kettleford.md`, Abschnitt „Der Rauch".
-**Der Statblock ist vor dem ersten Wurf noch zu holen.**
+**Situationswurf 18:** Die Gnolls haben den Zug nie bemerkt. Das Umkehren war sauber, es folgte
+niemand. In der Nachtwache war die Glut auf zwei Meilen sichtbar und hat sich nicht bewegt.
+
+**Die offene Lage:** Merric fährt nach Kettleford, weil es keinen zweiten Weg gibt, und weiß nicht,
+ob er dort drei Tage wartet oder zwanzig. Nathan hat laut überlegt, sich einem **wehrhafteren Zug**
+anzuschließen. Vor ihnen auf der Straße steht eine südwärts fahrende Familie mit zwei Wagen, die
+nichtsahnend auf die Kuppe zufährt und die Nathan gerade gewarnt hat.
+
+DM-Festlegung zum Encounter: `dm/adventures/05_kettleford.md`, Abschnitt „Der Rauch".
+Statblock: `rules/sources/2025_gnolls.md`. Regeln zur Aufklärung: `rules/rulings.md` (2026-08-26).
+
+**Kanonisch festgehalten zum Verkehr auf der Trade Way:** drei bis sechs Parteien pro vollem
+Reisetag in beide Richtungen, plus gelegentlich ein Reiter. Dass dem Zug am 7. Flamerule den ganzen
+Tag **niemand nordwärts** entgegenkam, war das übersehene Signal — die Gnolls sitzen seit dem
+Vormittag des 7. auf der Kuppe.
 
 ## Kettleford — abgeschlossen, ohne gelöst zu sein
 

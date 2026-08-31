@@ -120,3 +120,7 @@ Das Log wird chronologisch geführt. Sichtbare Würfe werden mit ihren Rohwürfe
 | 114 | 011 | Nathan | 5 | Perception +7 | 12 | Open | langer Blick auf die Kuppe aus einer halben Meile — Krähen, falscher Rauch, mehr als eine Bewegung |
 | 115 | 011 | Nathan | 8 | Animal Handling +7 | 15 | Open | Gespräch mit Paloma unter `Speak with Animals` — Taubenlogik bleibt Taubenlogik |
 | 116 | 011 | Nathan | 5/5 | Animal Handling +7, Advantage (Friendly), `Influence` vs DC 15 | 12 | Open | die junge Graue soll die Kuppe auskundschaften — misslungen |
+| 117 | 011 | Nathan | 13 (Reroll) | `Heroic Inspiration` auf 116; mit 5 stehend → 13, +7, `Influence` vs DC 15 | 20 | Open | die junge Graue fliegt doch — Aufklärung aus der Luft gelingt |
+| 118 | 011 | Nathan | 13 | History +1 (Jack of All Trades) | 14 | Open | Gnoll-Wissen aus Calimport: nicht verhandeln, nicht reden, sie jagen nach, vier sind wenige |
+| 119 | 011 | DM | 18 | Situationswurf, Tabelle offengelegt | 18 | Open | die Gnolls haben den Zug nicht registriert — Umkehren bricht den Kontakt sauber |
+| 120 | 011 | Nathan | 18 | Perception +7 | 25 | Open | Nachtwache: die Glut auf der Kuppe zwei Meilen weit sichtbar, und sie bewegt sich nicht |
