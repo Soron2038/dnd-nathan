@@ -124,3 +124,5 @@ Das Log wird chronologisch geführt. Sichtbare Würfe werden mit ihren Rohwürfe
 | 118 | 011 | Nathan | 13 | History +1 (Jack of All Trades) | 14 | Open | Gnoll-Wissen aus Calimport: nicht verhandeln, nicht reden, sie jagen nach, vier sind wenige |
 | 119 | 011 | DM | 18 | Situationswurf, Tabelle offengelegt | 18 | Open | die Gnolls haben den Zug nicht registriert — Umkehren bricht den Kontakt sauber |
 | 120 | 011 | Nathan | 18 | Perception +7 | 25 | Open | Nachtwache: die Glut auf der Kuppe zwei Meilen weit sichtbar, und sie bewegt sich nicht |
+| 121 | 011 | Nathan | 3 | Deception +9 (Korrektur: Playbook stand auf veraltetem +7) | 12 | Open | Voth kauft die Andeutung nicht, Nathan sei selbst auf der Kuppe gewesen — nimmt die Aufklärung aber trotzdem |
+| 122 | 011 | Nathan | 19 | Performance +9 | 28 | Open | der Handel mit Ondrew Kest: Anwerbung für sechs Abende, 35 GP, deckt alle sieben Wagen |
