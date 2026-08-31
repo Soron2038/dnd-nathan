@@ -103,7 +103,8 @@ Kein Rätsel mit einer vorgesehenen Lösung. Stattdessen eine Lage, die mehrere 
   echte Fluchtwege, Gegner mit einem Grund zu fliehen oder zu verhandeln.
 - **Locks, Fallen, Mechanik** bleiben Textur im Vorbeigehen (ein `Thieves' Tools`-Wurf im Fluss),
   nie der Inhalt eines Raums.
-- Nathans Kit zeigt die Richtung: `Deception` +7, `Performance` +7, `Perception` +5, `Stealth` +5,
+- Nathans Kit zeigt die Richtung (Stand Level 6, PB +3): `Deception` **+9**, `Performance` **+9**,
+  `Perception` +7, `Stealth` +6,
   dazu `Suggestion`, `Silence`, `Minor Illusion`, `Command` — gebaut für Infiltration, Täuschung,
   Auskundschaften und den einen gut gewählten Moment.
 
@@ -148,7 +149,7 @@ Sorte Lage baut. Nach drei Abenteuern in Folge ohne Kampf gilt:
 
 ## Solo-Kampf-Prinzipien
 
-Nathan ist squishy: 27 HP, AC 15, kein Frontliner.
+Nathan ist squishy: 39 HP, AC 15, kein Frontliner.
 
 - Lieber **ein kluger, gefährlicher Gegner** als ein Schwarm; Zahl der Angreifer pro Runde niedrig halten.
 - **Gefahr ehrlich telegrafieren.** Flucht, Umkehr und Verhandlung sind vollwertige Lösungen.
@@ -188,3 +189,9 @@ Nathan ist squishy: 27 HP, AC 15, kein Frontliner.
   und nichtkämpfende Tiere nicht als Spektakel.
 - Nathan wird ausschließlich vom Spieler entschieden. Companions (später, DM-gespielt) haben
   eigene Ziele und stimmen nicht automatisch zu.
+
+## Achtung: Zahlen veralten
+
+Die Skill-Werte in diesem Playbook waren bis 2026-08-26 auf Level-4-Stand (PB +2) und haben zu einem
+falsch gerechneten `Deception`-Wurf geführt. **Kanonisch ist immer `player/nathan_character_sheet.md`**,
+nie eine Zahl aus diesem Dokument.
