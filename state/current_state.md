@@ -16,9 +16,12 @@
 - Spell Slots: Level 1 — 4/4; Level 2 — 3/3; **Level 3 — 2/2**
 - `A Little Favor` verfügbar
 - Potions of Healing 2; Geld rund **339 GP**; dazu 35 GP plus Anteil ausstehend aus dem Begleitschutz
-- **Zwei Tauben** in einem offenen Weidenkäfig auf dem Kutschbock: **Paloma** (Reisetaube, auf Vaunts
-  Kontor am Westkai geprägt) und die **junge Graue** von Ossa, namenlos, auf **Nathan** geprägt statt
-  auf einen Ort
+- **Zwei Tauben** auf dem Kutschbock: **Paloma** (Reisetaube, auf Vaunts Kontor am Westkai geprägt,
+  benutzt den Weidenkäfig) und **Lumi**, die Junge von Ossa, auf **Nathan** geprägt statt auf einen
+  Ort und deshalb ohne Heimatschlag. Benannt am 9 Flamerule unter `Speak with Animals`, nachdem sie
+  selbst gesagt hat: *„Ich bin die, die zurückkommt."* Ihr Name ist kein Wort, sondern **zwei
+  gesungene Töne** — hell und kurz, dann tiefer und länger. Sie mag Berührung an **Stirn und Nacken**
+  und duldet sie nur auf dem Rücken
 - Charter Token der Charter Hall, Standing **Bronze** (gestempelt 15 Kythorn, Asbravn)
 - Struppi und Wagon unversehrt
 - Stiefel von Derrik Mullens Vater; kurzes Brecheisen (Geschenk Harls)

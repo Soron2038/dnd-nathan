@@ -328,3 +328,17 @@ Wagen mit Hesker Vaunts Zeichen, und im Dorf wird nicht mehr gefeiert.
 
 - **Struppi (Fashal)** — gewöhnliches, geduldiges, etwas störrisches Draft Horse. Kein Geheimnis,
   keine verborgene Abstammung. Unversehrt.
+
+## Nathans Tiere
+
+- **Struppi** — Draft Horse, struppig, gewöhnlich, unerschütterlich. Unter `Speak with Animals` stellte
+  sich heraus, dass er vor allem Meinungen über Hafer hat.
+- **Paloma** — Reisetaube, Geschenk Hesker Vaunts, auf dessen Kontor am Westkai von Scornubel geprägt.
+  Fett, selbstzufrieden, kann von überall nach Hause finden und **nur** dorthin — an einen fahrenden
+  Wagen kann sie nicht heimkehren. Versteht ihren Namen als Signal, auf das Hirse folgt. Fiel als
+  Kundschafterin deshalb aus.
+- **Lumi** — junge graue Taube mit hellem Augenring, von Ossa in Kettleford zum ehrlichen Preis
+  gekauft, **auf Nathan geprägt statt auf einen Ort**. Hat am 8 Flamerule die Kuppe auf den Fields of
+  the Dead aus der Luft aufgeklärt und dabei geliefert, was kein Späher am Boden hätte liefern können.
+  Benannt am 9 Flamerule; der Name ist eine kleine gesungene Zweitonfigur, kein gesprochenes Wort.
+  Sitzt nie im Käfig.
