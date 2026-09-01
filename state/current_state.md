@@ -2,8 +2,8 @@
 
 ## Kampagnenstatus
 
-- Datum: 8 Flamerule 1496 DR, Vormittag
-- Region: **Fields of the Dead**, Trade Way, rund sechs Meilen nördlich der Kuppe
+- Datum: 9 Flamerule 1496 DR, früher Nachmittag
+- Region: **Fields of the Dead**, Trade Way südlich der Kuppe, im Zug des Roten Rades
 - Party: Nathan al'Nassir (Rogue 1 / Bard 5), solo
 - Level: 6
 - XP-System: Milestones
@@ -13,9 +13,10 @@
 - HP 39/39; Hit Dice 6d8; AC 15
 - Proficiency Bonus +3; Spell Save DC 14; Spell Attack +6; Initiative +6
 - Heroic Inspiration 1; **Luck Points 3/3**; Bardic Inspiration 3/3 (**d8**, kommt auf Short Rest zurück)
-- Spell Slots: Level 1 — 4/4; Level 2 — 3/3; **Level 3 — 2/2**
+- Spell Slots: Level 1 — **2/4**; Level 2 — 3/3; **Level 3 — 2/2**
 - `A Little Favor` verfügbar
-- Potions of Healing 2; Geld rund **339 GP**; dazu 35 GP plus Anteil ausstehend aus dem Begleitschutz
+- Potions of Healing 2; Geld rund **339 GP**; dazu 35 GP plus Anteil aus dem Begleitschutz und
+  15 GP Schuld von Merric, beides zahlbar in Baldur's Gate
 - **Zwei Tauben** auf dem Kutschbock: **Paloma** (Reisetaube, auf Vaunts Kontor am Westkai geprägt,
   benutzt den Weidenkäfig) und **Lumi**, die Junge von Ossa, auf **Nathan** geprägt statt auf einen
   Ort und deshalb ohne Heimatschlag. Benannt am 9 Flamerule unter `Speak with Animals`, nachdem sie
@@ -27,6 +28,9 @@
 - Stiefel von Derrik Mullens Vater; kurzes Brecheisen (Geschenk Harls)
 - Proviant ausreichend; ein Paar gute Handschuhe (Geschenk eines Zuhörers)
 - Vier bunte Laternen im Wagen, in Stroh verpackt
+- Knapp fünf Ellen feines rotbraunes Wolltuch, Geschenk Cabb Threshs, 10–12 GP wert
+- **Vertrag mit dem Roten Rad:** angeworben als Musiker bis Baldur's Gate, sechs Abende, Lohn 35 GP,
+  gegen Wagengeld für sieben Wagen verrechnet. Nathans erstes schriftliches Engagement
 - Ein durchweichter Brief: eine Hochzeit am neunten, zwölf Gold, hinter einer Färberei — Name und
   Straße sind unlesbar
 - Im Geheimfach: der Großteil des Geldes, Rafiqs Messingkompass, das Sternbild-Fernrohr und alle
@@ -34,32 +38,22 @@
 
 ## Wo wir stehen (Resume-Punkt für die nächste Session)
 
-**Mitten in Session 011.** Vormittag des 8. Flamerule. Der Zug fährt **nach Norden**, zurück Richtung
-Kettleford, weil Nathan vier Gnolls auf einer Kuppe im Süden aufgeklärt hat und ein offener Kampf
-rechnerisch nicht zu gewinnen war.
+**Session 012 abgeschlossen** (`sessions/012-der-rauch-auf-den-fields-of-the-dead.md`).
 
-**Wie die Aufklärung lief:** `Speak with Animals` als Ritual, dann `Influence` (`Animal Handling`,
-Friendly → Advantage, DC 15) auf die junge graue Taube — erst misslungen (5/5), dann mit
-`Heroic Inspiration` doch geschafft. Sie hat aus der Luft geliefert: **vier Gnolls**, zwei davon mit
-Bögen, ein toter Fuhrmann, ein glimmender Karren, ein **Steinhaufen als Deckung diesseits der Kuppe**
-und eine **leere Straße dahinter**. Paloma fiel als Kundschafterin aus: Sie ist auf Vaunts Kontor
-geprägt und kann nicht zu einem fahrenden Wagen heimfinden.
+Nathan reist im Zug des **Roten Rades** — einundzwanzig Wagen, fünf Reiter, Fahrtmeister Ondrew Kest,
+Eskortenführerin Voth. Dazu Merrics fünf und Cabb Threshs zwei. **Fünf Tage bis Baldur's Gate**, fünf
+bezahlte Abende noch offen.
 
-**Situationswurf 18:** Die Gnolls haben den Zug nie bemerkt. Das Umkehren war sauber, es folgte
-niemand. In der Nachtwache war die Glut auf zwei Meilen sichtbar und hat sich nicht bewegt.
+Hinter ihnen liegt die Kuppe: zwei tote Gnolls im Gras, **zwei entkommen**, ein toter Fuhrmann, den
+niemand begraben hat. Kein Countdown.
 
-**Die offene Lage:** Merric fährt nach Kettleford, weil es keinen zweiten Weg gibt, und weiß nicht,
-ob er dort drei Tage wartet oder zwanzig. Nathan hat laut überlegt, sich einem **wehrhafteren Zug**
-anzuschließen. Vor ihnen auf der Straße steht eine südwärts fahrende Familie mit zwei Wagen, die
-nichtsahnend auf die Kuppe zufährt und die Nathan gerade gewarnt hat.
+Was sich in dieser Session grundlegend geändert hat:
 
-DM-Festlegung zum Encounter: `dm/adventures/05_kettleford.md`, Abschnitt „Der Rauch".
-Statblock: `rules/sources/2025_gnolls.md`. Regeln zur Aufklärung: `rules/rulings.md` (2026-08-26).
-
-**Kanonisch festgehalten zum Verkehr auf der Trade Way:** drei bis sechs Parteien pro vollem
-Reisetag in beide Richtungen, plus gelegentlich ein Reiter. Dass dem Zug am 7. Flamerule den ganzen
-Tag **niemand nordwärts** entgegenkam, war das übersehene Signal — die Gnolls sitzen seit dem
-Vormittag des 7. auf der Kuppe.
+- **Lumi ist Nathans Aufklärung.** `Speak with Animals` als Ritual (kein Slot) plus `Influence`
+  (`Animal Handling` +7, Friendly → Advantage, DC 15). Sie liefert aus der Luft, was kein Späher am
+  Boden liefern kann. **Paloma kann das nicht** — sie kehrt nur zu Vaunts Kontor zurück.
+- **Voth weiß, dass Nathan heilen kann**, und hat aufgehört zu fragen, was er sonst noch ist.
+- **Kest prüft in Baldur's Gate**, ob die Geschichte vom Wettstreit stimmt. Sie stimmt.
 
 ## Kettleford — abgeschlossen, ohne gelöst zu sein
 

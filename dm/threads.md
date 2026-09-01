@@ -24,6 +24,23 @@ Bronzeplatte.
 
 ## Aktiv / offen
 
+- **Die zwei entkommenen Gnolls** `[offen]` — Fields of the Dead, nordwestlich der Kuppe, 9 Flamerule
+  1496. Unverletzt, ohne Anführer, nach dem Tod der Hälfte ihres Rudels ins Gras geplatzt.
+  **Verbindliche DM-Regel: Das ist kein Countdown.** Sie werden dem Zug nicht als Rache-Handlung
+  nachgeschickt und tauchen nicht auf, weil es dramaturgisch passt. Wenn sie je wieder auftauchen,
+  dann als das, was sie sind — zwei hungrige Räuber irgendwo auf einer sehr großen Ebene, und dann
+  über einen offenen Situationswurf, nicht über eine Entscheidung.
+- **Der tote Fuhrmann auf der Kuppe** `[offen]` — liegt weiter dort, unbegraben, mit seinem
+  auseinandergenommenen Karren. Einundzwanzig Wagen sind daran vorbeigefahren und alle wussten es.
+  Niemand kennt seinen Namen. Falls Nathan je zurückkommt oder in Baldur's Gate jemand einen
+  Vermissten sucht, ist das der Anschluss. **Nicht als Vorwurf inszenieren** — die Entscheidung war
+  richtig und wurde von Berufsleuten getroffen.
+- **Ondrew Kests Nachfrage** `[offen]` — er hat angekündigt, in Baldur's Gate zu prüfen, ob Nathan
+  den Wettstreit in Scornubel wirklich gewonnen hat, und was passiert, wenn nicht. **Er hat.**
+  Die Prüfung geht also gut aus und darf gern öffentlich gut ausgehen.
+- **Fünf bezahlte Abende** `[aufgegriffen]` — Nathan schuldet dem Roten Rad noch fünf Auftritte,
+  zu spielen wann Kest sagt. Vertrag liegt schriftlich vor.
+
 - **Die Binsenmutter** `[aufgegriffen]` — Green Hag (`rules/sources/2025_green_hag.md`) im Weidenbruch
   am Wenzel-Bach. Nathan hat sie ohne Kampf dazu gebracht, sechs entführte Hunde samt ihrem
   weggenommenen „Wollen" zurückzugeben, und ihr geraten, sich einen echten Baum zu suchen und zu warten.

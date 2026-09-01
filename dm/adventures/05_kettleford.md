@@ -179,3 +179,31 @@ Der Rauch ist im 2025-Text ausdrücklich erklärt: Gnolls zerstören, was sie ni
 **Alternative, falls der Spieler ausweicht:** Umfahren ist möglich — offenes Land, aber Wagen im
 hohen Gras verlieren Zeit und riskieren Achsen. Merric würde es versuchen. Ob die Gnolls den Zug
 bemerken, wäre dann ein offener Situationswurf mit Tabelle.
+
+---
+
+# Auflösung des Rauch-Encounters (9 Flamerule 1496)
+
+**Abgeschlossen.** Protokoll: `sessions/012-der-rauch-auf-den-fields-of-the-dead.md`.
+
+Der Encounter hat genau so funktioniert, wie er gebaut war, und ist trotzdem anders ausgegangen als
+erwartet — weil Nathan ihn **umgangen** und dann doch stattgefunden hat, ohne dass er nötig war.
+
+**Was gut funktioniert hat und wiederholt werden sollte:**
+
+- **Keine Uhr.** Nathan konnte zweimal umkehren, ohne dass ihn irgendetwas dafür bestraft hat. Das
+  Ergebnis war trotzdem spannend, weil die Ungewissheit die Spannung getragen hat, nicht der Zwang.
+- **Aufklärung als eigenständiges Spiel.** Lumis Flüge waren der Höhepunkt der Session, nicht das
+  Gefecht. Die interessanteste Mechanik war `Speak with Animals` + `Influence`, nicht ein Angriffswurf.
+- **Voth als Fachfrau, die widerspricht.** Sie hat Nathans Bluff-Idee sachlich zerlegt und dabei
+  ernstgenommen. NPCs, die einen Plan *bewerten* statt ihn zu bejubeln oder abzuwinken, sind Gold.
+- **Der Kampf lief ohne Nathan.** Er ist drei Runden umsonst gerannt und kam zu spät. Das war nicht
+  Bestrafung, sondern Würfelreihenfolge — und der `Cure Wounds` danach hat mehr verändert als jeder
+  Treffer es gekonnt hätte. **Nicht nachbessern, wenn so etwas passiert.**
+
+**Zwei DM-Fehler, protokolliert, damit sie nicht wiederkommen:**
+
+1. `Deception` mit veraltetem Modifikator gerechnet (+7 statt +9), weil die Zahl aus dem Playbook kam
+   statt vom Bogen. Playbook trägt jetzt eine Warnung.
+2. Ein Moralwurf wurde geworfen und nicht angewandt; das Auswertungsskript kämpfte weiter. Korrigiert
+   zugunsten der Reihenfolge, nicht zugunsten einer Seite.

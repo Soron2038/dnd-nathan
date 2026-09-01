@@ -342,3 +342,37 @@ Wagen mit Hesker Vaunts Zeichen, und im Dorf wird nicht mehr gefeiert.
   the Dead aus der Luft aufgeklärt und dabei geliefert, was kein Späher am Boden hätte liefern können.
   Benannt am 9 Flamerule; der Name ist eine kleine gesungene Zweitonfigur, kein gesprochenes Wort.
   Sitzt nie im Käfig.
+
+## Das Rote Rad (ab 8 Flamerule 1496)
+
+Handelskompanie, vierzehn eigene Wagen, rotes Rad dreimal auf jede Plane gemalt. Fährt die Trade Way
+seit Jahren. Nathan ist bis Baldur's Gate als Musiker angeworben.
+
+- **Ondrew Kest** — Fahrtmeister, Anfang sechzig, klein und schmal, dünnes weißes Haar, Klappbrett
+  mit eingebohrtem Tintenfass, geschliffene Brille, Finger voller alter Tintenflecken. Steigt nicht
+  ab, man geht neben ihm her. **Sein Preis bewegt sich nie, die Währung immer** — hat Wagengeld schon
+  in Salz, Glas, einem Maulesel und einer Woche Zahnarbeit genommen. Freundlich, unbestechlich,
+  genießt das Handeln. Haltung: geschäftlich, mit echtem Respekt seit der Probe am Grabhügel.
+- **Voth** — Eskortenführerin, um die vierzig, breit in den Schultern, Gesicht wie Sattelleder.
+  Achtzehn Jahre auf der Straße, redet in Sätzen ohne Fett. Schläft nicht, wenn etwas ist. Hat Nathan
+  bei einer Andeutung ertappt und es bewusst fallen lassen (*„Lügner erfinden Zahlen, keine
+  Steinhaufen"*). Seit dem `Cure Wounds` auf ihren Oberschenkel: *„Ich weiß immer noch nicht, was Ihr
+  seid. Aber ich hör auf zu fragen."*
+- **Sesk** — Nachhutreiter, Ende zwanzig, mager, gebrochene Nase, Kettenhemd zu weit. Seine Mutter
+  kommt aus Baldur's Gate. Befahl Nathan, auf dem Wagen zu bleiben; Nathan tat es nicht. Sagte danach
+  nur: **„Ludd ist mein Vetter."**
+- **Ludd** — Reiter. Kämpfte fünf Runden lang bei 2 HP weiter, ohne es zu wissen, und wurde von
+  Nathan geheilt. Sesks Vetter.
+- **Anka** und **Hesp** — Reiter, Rippen bzw. Streifschuss über dem Ohr. Beide winkten ab.
+
+## Cabb und Willa Thresh (ab 8 Flamerule 1496)
+
+Wollhändlerfamilie, zwei Wagen, zwei Kinder (zwölf und zehn), dazu Willas Bruder und ein Hund. Fuhren
+ahnungslos auf die Gnolls zu und wurden von Nathan gewarnt.
+
+- **Cabb** — stolz, rechnet in bekannten Zahlen, konnte die zehn Gold Wagengeld nicht aufbringen.
+  Nathan hat ihre Durchfahrt mitbezahlt, ohne dass jemand darum bat. Cabb hat sich das nicht
+  schenken lassen und **knapp fünf Ellen seines besten gefärbten Wolltuchs** herausgegeben:
+  *„Ich fahr nicht sechs Tage neben einem Mann her, der uns durchgebracht hat, und hab nichts gegeben."*
+- **Willa** — lieferte den Hinweis auf das Rote Rad. Ihre jüngere Tochter durfte am Grabhügel ein
+  Lied ansagen und tat es mit tödlichem Ernst.

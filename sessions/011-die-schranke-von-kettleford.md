@@ -315,3 +315,5 @@ wie von einem kleinen Feuer, das schon eine Weile brennt — genau dort, wo die 
 Kuppe geht. Zu früh am Tag für ein Nachtlager, zu wenig Rauch für einen Zug.
 
 Merric steht auf seinem Bock, die Hand über den Augen: **„Da ist normalerweise nichts."**
+
+**Fortsetzung: `sessions/012-der-rauch-auf-den-fields-of-the-dead.md`.**
