@@ -126,3 +126,12 @@ Das Log wird chronologisch geführt. Sichtbare Würfe werden mit ihren Rohwürfe
 | 120 | 011 | Nathan | 18 | Perception +7 | 25 | Open | Nachtwache: die Glut auf der Kuppe zwei Meilen weit sichtbar, und sie bewegt sich nicht |
 | 121 | 011 | Nathan | 3 | Deception +9 (Korrektur: Playbook stand auf veraltetem +7) | 12 | Open | Voth kauft die Andeutung nicht, Nathan sei selbst auf der Kuppe gewesen — nimmt die Aufklärung aber trotzdem |
 | 122 | 011 | Nathan | 19 | Performance +9 | 28 | Open | der Handel mit Ondrew Kest: Anwerbung für sechs Abende, 35 GP, deckt alle sieben Wagen |
+| 123 | 011 | Nathan | 12/5 | Animal Handling +7, Advantage (Friendly), `Influence` vs DC 15 | 19 | Open | Lumis zweiter Aufklärungsflug — alle vier noch auf der Kuppe |
+| 124 | 011 | DM | 2 | Situationswurf Kuppe, Tabelle offengelegt | 2 | Open | die Gnolls sind noch da, am Pferd, hundert Fuß neben der Straße |
+| 125 | 011 | DM | 9 | Situationswurf Überfahrt durchs Gras, Tabelle offengelegt | 9 | Open | Dovels Wagen bleibt stecken, wird frei; zehn Minuten, keine Achse |
+| 126 | 011 | DM | 2 | Situationswurf Reaktion der Gnolls, Tabelle offengelegt | 2 | Open | sie kommen vom Kamm runter — Voths Riegel muss halten |
+| 127 | 011 | DM | div. | Reitergefecht, 5 Runden, Werte vorab festgelegt | — | Open | Gnoll Warrior AC 15/HP 27; Voth AC 17/HP 34; Reiter AC 16/HP 22. Zwei Gnolls fallen, kein Reiter stirbt |
+| 128 | 011 | DM | 6 | Moralwurf nach dem ersten toten Gnoll | 6 | Open | sie bleiben — der Tod macht sie rasend, nicht vorsichtig |
+| 129 | 011 | DM | 19 | Moralwurf nach dem zweiten toten Gnoll | 19 | Open | die letzten zwei brechen ab und verschwinden ins Gras |
+| 130 | 011 | Nathan | 6+6 | `Cure Wounds` Level 1 (2d8+3) | 15 | Open | Ludd, der Nachzügler — war einen Treffer von Death Saves entfernt |
+| 131 | 011 | Nathan | 4+1 | `Cure Wounds` Level 1 (2d8+3) | 8 | Open | Voths Oberschenkel; es hört auf zu laufen |
