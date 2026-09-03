@@ -76,17 +76,22 @@ Zettel („vielleicht"-Preise).
 | # | Stück | Zettel | Wahrheit |
 |---|---|---|---|
 | 1 | Messingring mit Auge | 15 GP | **Schrott.** Alt, fein graviert, nichts dran. |
-| 2 | Handschuhe, dunkles Leder | 45 GP | **Echt — Gloves of Thievery** (uncommon, +5 auf Sleight of Hand und Thieves' Tools). Der Preis des Lebens für einen Rogue. |
+| 2 | Handschuhe, dunkles Leder | 45 GP | **Echt — Gloves of Thievery** (uncommon, 2024: **nur** +5 auf Sleight of Hand, unsichtbar beim Tragen — `rules/sources/2024_gloves_of_thievery.md`). Der Preis des Lebens für einen Rogue. |
 | 3 | Flöte aus hellem Holz | 20 GP | **Schrott.** Gut gemacht, spielbar, nicht magisch. |
-| 4 | Seil, seidig, leicht | 35 GP | **Echt — Rope of Climbing** (uncommon, 60 ft, bewegt sich auf Befehl). |
+| 4 | Seil, seidig, leicht | 35 GP | **Echt — Rope of Climbing** (uncommon, `rules/sources/2024_rope_of_climbing.md`). |
 | 5 | Messingkompass, zeigt SO | 10 GP | **Schrott.** Nadel festgerostet. |
 | 6 | Ohrring, grüner Stein | 25 GP | **Schrott.** Der Stein ist ein echter Halbedelstein, nicht magisch. |
 | 7 | Schriftrolle, versiegelt | 30 GP | **Echt — Spell Scroll, `Faerie Fire`** (Level 1, Bard-Liste). Unten in der Zisterne Gold wert. |
 
-Drei echt, vier Schrott — exakt Odessas Schätzung. **Anti-Regression:** Gloves of Thievery und Rope
-of Climbing vor dem Verkauf gegen 2024-Text prüfen (aidedd blockt → Spieler fragen). Faerie Fire ist
-auf der 2024-Bard-Liste.
+Drei echt, vier Schrott — exakt Odessas Schätzung. **Anti-Regression erledigt:** beide Items am 2026-09-03 auf aidedd geprüft (Magic-Item-Seiten sind
+nicht gesperrt). Gloves of Thievery haben 2024 **keinen** Thieves'-Tools-Bonus mehr.
 
 **Odessas Gegenvorschlag nach Nathans Einwand:** Sie zieht *eins* blind heraus, das gehört ihr und
 steht nicht zur Wahl. Danach identifiziert Nathan die restlichen sechs und wählt eins zum Zettelpreis.
 Welches sie zieht: offener d7.
+
+**Nathans Wahl (14 Flamerule):** Er hat Odessa alles ehrlich gesagt — die Handschuhe sind das
+Wertvollste, Seil und Rolle sind echt, der Rest Schrott — und ihr ungefragt das vergessene Stück im
+Regal genannt. **Odessas Antwort:** Sie verkauft ihm die Handschuhe zum Freundschaftspreis (deutlich
+über Zettel, deutlich unter Fremdenpreis), lässt die vereinbarte Wahl aus den sechs bestehen und bietet
+ihm eine Dauerbeziehung an. Das Regalstück ist ihres und bleibt es.
