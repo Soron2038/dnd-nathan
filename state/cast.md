@@ -376,3 +376,27 @@ ahnungslos auf die Gnolls zu und wurden von Nathan gewarnt.
   *„Ich fahr nicht sechs Tage neben einem Mann her, der uns durchgebracht hat, und hab nichts gegeben."*
 - **Willa** — lieferte den Hinweis auf das Rote Rad. Ihre jüngere Tochter durfte am Grabhügel ein
   Lied ansagen und tat es mit tödlichem Ernst.
+
+## Baldur's Gate (ab 13 Flamerule 1496)
+
+- **Dagra Wull** — Wagenhof im Ochsengang, Außenstadt vor dem Nordtor. Fünfzig, einen halben Kopf
+  größer als Nathan und doppelt so breit, Unterarme wie ein Kaiverlader, Kohlestift hinterm Ohr.
+  Siebenundvierzig vermietete Stände plus den achtundvierzigsten, den sie sonst nicht vergibt.
+  Ehrlich, teuer, keine Zeit. Schuldete Voth etwas und hat es widerwillig eingelöst — **der Hebel ist
+  verbraucht**. Weiß laut Voth, wer in der Stadt gerade wen sucht; das hat Nathan noch nicht abgefragt.
+- **Der Torjunge** (Name noch offen) — zwölf, Tafel und Kreide, rechnet schnell. Verlor eine Wette
+  gegen Nathan und begriff fünf Sekunden zu spät, dass er selbst der Türöffner war. Nimmt es nicht
+  übel. Redet mit Struppi statt mit Kunden.
+- **Nasrin** — führt das Badehaus **„Zum Warmen Stein"** in der Unteren Stadt, nahe dem Hafen.
+  Hier geboren, Eltern aus Calimshan, spricht dreißig Jahre altes Küchen-Alzhedo aus dem Mund ihrer
+  toten Mutter. Erkannte Nathans aktuelles Calimport-Alzhedo an drei Wörtern. Angebot: wiederkommen
+  und reden, dann kostet nur das Öl. Ihr Sohn versteht Alzhedo und antwortet aus Scham nicht.
+- **Bo** — der Alte vom neunten Wagen des Roten Rades, Fiedler. Kaufte sein Instrument nie: Ein
+  Hafermann in Berdusk zahlte ihn damit aus, als er zweiundzwanzig war. Zwei steife Finger links seit
+  dem Winter. Spielt seit dem 9 Flamerule wieder, in **A–E–A–E**-Stimmung, weil Nathan ihm die Fiedel
+  weggenommen und schlecht darauf gespielt hat, bis er sie zurückforderte. Kann eine halbe Stunde am
+  Stück. Fährt mit dem Roten Rad im Herbst wieder nach Norden.
+- **Hetta und Sonn** — siebter Wagen, einunddreißig Jahre verheiratet, vierundzwanzig davon auf der
+  Trade Way. Tanzten als Erste. Sonns Schwester hat eine Schenke in Elturel.
+- **Warl** — Fuhrmann, seit sieben Monaten verheiratet, hat seine Frau seit fünf nicht gesehen. Ihr
+  Name steht in seiner Bordwand, wo man ihn nur vom Nachbarwagen sieht.

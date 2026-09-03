@@ -24,6 +24,21 @@ Bronzeplatte.
 
 ## Aktiv / offen
 
+- **Mittsommer auf der Wide** `[angeboten]` — Baldur's Gate, ab dem 1. Eleasis, drei Tage. Die
+  Oberstadt teilt den Platz auf; die guten Stände gehen an Kapellen mit Patriar-Häusern dahinter,
+  Auswärtige kriegen die Ränder oder nichts. Nathan hat den Platz bereits gelesen und die
+  **Südwestecke** gefunden (zwei Häuser im stumpfen Winkel, Brunnenrand, natürliche Schallmuschel).
+  Trifft alle vier Ja-Hebel gleichzeitig. **Kein Zwang** — er kann Mittsommer auch einfach zugucken.
+- **Flussaufwärts heuert niemand an** `[offen]` — drei Leute sind nicht wiedergekommen, und keiner
+  sagt, wo genau. Gehört im Badehaus, von einem wütenden Schiffsmann.
+- **Die nicht eingetragene Anwerbung** `[offen]` — jemand in der Unterstadt sucht Leute, ohne es bei
+  der Flaming Fist einzutragen. Ein alter Mann im Badehaus riet einem Jüngeren dringend ab.
+- **Vaunt und das Brautpaar** `[offen]` — Paloma ist mit Nathans Bericht nach Scornubel unterwegs,
+  samt der Bitte, die achtzig Gold an ein Brautpaar hinter einer Färberei zu zahlen, dessen Namen,
+  Straße und Stadt Nathan nicht kennt. **Verbindliche DM-Regel: Nathan hat keinen Anspruch darauf,
+  je zu erfahren, was daraus wurde.** Wenn es je zurückkommt, dann als Zufall, nie als Belohnung und
+  nie als Vorwurf. Vaunt drängt nicht und schreibt nicht nach.
+
 - **Die zwei entkommenen Gnolls** `[offen]` — Fields of the Dead, nordwestlich der Kuppe, 9 Flamerule
   1496. Unverletzt, ohne Anführer, nach dem Tod der Hälfte ihres Rudels ins Gras geplatzt.
   **Verbindliche DM-Regel: Das ist kein Countdown.** Sie werden dem Zug nicht als Rache-Handlung

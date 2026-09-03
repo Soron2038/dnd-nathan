@@ -2,8 +2,8 @@
 
 ## Kampagnenstatus
 
-- Datum: 9 Flamerule 1496 DR, früher Nachmittag
-- Region: **Fields of the Dead**, Trade Way südlich der Kuppe, im Zug des Roten Rades
+- Datum: 13 Flamerule 1496 DR, Nacht
+- Region: **Baldur's Gate**, Außenstadt, Dagra Wulls Wagenhof im Ochsengang, Stand 48
 - Party: Nathan al'Nassir (Rogue 1 / Bard 5), solo
 - Level: 6
 - XP-System: Milestones
@@ -12,17 +12,18 @@
 
 - HP 39/39; Hit Dice 6d8; AC 15
 - Proficiency Bonus +3; Spell Save DC 14; Spell Attack +6; Initiative +6
-- Heroic Inspiration 1; **Luck Points 3/3**; Bardic Inspiration 3/3 (**d8**, kommt auf Short Rest zurück)
-- Spell Slots: Level 1 — **2/4**; Level 2 — 3/3; **Level 3 — 2/2**
+- Heroic Inspiration 1; **Luck Points 2/3**; Bardic Inspiration 3/3 (**d8**, kommt auf Short Rest zurück)
+- Spell Slots: Level 1 — **1/4**; Level 2 — 3/3; **Level 3 — 2/2**
 - `A Little Favor` verfügbar
 - Potions of Healing 2; Geld rund **339 GP**; dazu 35 GP plus Anteil aus dem Begleitschutz und
   15 GP Schuld von Merric, beides zahlbar in Baldur's Gate
-- **Zwei Tauben** auf dem Kutschbock: **Paloma** (Reisetaube, auf Vaunts Kontor am Westkai geprägt,
-  benutzt den Weidenkäfig) und **Lumi**, die Junge von Ossa, auf **Nathan** geprägt statt auf einen
-  Ort und deshalb ohne Heimatschlag. Benannt am 9 Flamerule unter `Speak with Animals`, nachdem sie
-  selbst gesagt hat: *„Ich bin die, die zurückkommt."* Ihr Name ist kein Wort, sondern **zwei
-  gesungene Töne** — hell und kurz, dann tiefer und länger. Sie mag Berührung an **Stirn und Nacken**
-  und duldet sie nur auf dem Rücken
+- **Lumi**, junge graue Taube von Ossa, auf **Nathan** geprägt statt auf einen Ort und deshalb ohne
+  Heimatschlag. Benannt am 9 Flamerule unter `Speak with Animals`, nachdem sie selbst gesagt hat:
+  *„Ich bin die, die zurückkommt."* Ihr Name ist kein Wort, sondern **zwei gesungene Töne** — hell und
+  kurz, dann tiefer und länger. Sie mag Berührung an **Stirn und Nacken** und duldet sie nur auf dem
+  Rücken. Den Weidenkäfig benutzt sie nie
+- **Paloma ist fort.** Am 9 Flamerule mit Nathans Bericht nach Scornubel geschickt, zu Vaunts Kontor,
+  auf das sie geprägt ist. Sie kommt nicht zurück; das war Absicht
 - Charter Token der Charter Hall, Standing **Bronze** (gestempelt 15 Kythorn, Asbravn)
 - Struppi und Wagon unversehrt
 - Stiefel von Derrik Mullens Vater; kurzes Brecheisen (Geschenk Harls)
@@ -31,29 +32,29 @@
 - Knapp fünf Ellen feines rotbraunes Wolltuch, Geschenk Cabb Threshs, 10–12 GP wert
 - **Vertrag mit dem Roten Rad:** angeworben als Musiker bis Baldur's Gate, sechs Abende, Lohn 35 GP,
   gegen Wagengeld für sieben Wagen verrechnet. Nathans erstes schriftliches Engagement
-- Ein durchweichter Brief: eine Hochzeit am neunten, zwölf Gold, hinter einer Färberei — Name und
-  Straße sind unlesbar
+- Der durchweichte Hochzeitsbrief ist **eingelöst**: Nathan hat Vaunt die Antwort geschickt und die
+  achtzig Gold an das unbekannte Brautpaar hinter der Färberei umgeleitet
 - Im Geheimfach: der Großteil des Geldes, Rafiqs Messingkompass, das Sternbild-Fernrohr und alle
   Fundstücke aus Barrowmill
 
 ## Wo wir stehen (Resume-Punkt für die nächste Session)
 
-**Session 012 abgeschlossen** (`sessions/012-der-rauch-auf-den-fields-of-the-dead.md`).
+**Session 013 abgeschlossen** (`sessions/013-eine-hochzeit-hinter-einer-faerberei.md`).
 
-Nathan reist im Zug des **Roten Rades** — einundzwanzig Wagen, fünf Reiter, Fahrtmeister Ondrew Kest,
-Eskortenführerin Voth. Dazu Merrics fünf und Cabb Threshs zwei. **Fünf Tage bis Baldur's Gate**, fünf
-bezahlte Abende noch offen.
+Nathan ist in **Baldur's Gate angekommen** und schläft in seinem Wagen auf Stand 48 in Dagra Wulls
+Hof, fünf Silber am Tag, hinter einer Mauer mit Scherben drauf. Er hat einen Tag lang gebadet,
+gebummelt und die Stadt angeguckt und **nichts Nützliches getan**, mit voller Absicht.
 
-Hinter ihnen liegt die Kuppe: zwei tote Gnolls im Gras, **zwei entkommen**, ein toter Fuhrmann, den
-niemand begraben hat. Kein Countdown.
+**Die Uhr, die läuft:** **Mittsommer in siebzehn Tagen** (nach dem 30. Flamerule), drei Tage Fest.
+Die Wide wird von der Oberstadt aufgeteilt, die guten Plätze gehen an Kapellen mit Patriar-Häusern
+dahinter, Auswärtige kriegen die Ränder. Nathan hat den Platz bereits als Bühne gelesen und die
+**Südwestecke** gefunden — zwei Häuser im stumpfen Winkel, ein Brunnenrand davor, eine natürliche
+Schallmuschel mit dem ganzen Platz davor. Dort steht ein Mann und verkauft Besen.
 
-Was sich in dieser Session grundlegend geändert hat:
+**Am 15. Flamerule kommt Merric** mit 35 GP plus Anteil plus 15 GP Schuld.
 
-- **Lumi ist Nathans Aufklärung.** `Speak with Animals` als Ritual (kein Slot) plus `Influence`
-  (`Animal Handling` +7, Friendly → Advantage, DC 15). Sie liefert aus der Luft, was kein Späher am
-  Boden liefern kann. **Paloma kann das nicht** — sie kehrt nur zu Vaunts Kontor zurück.
-- **Voth weiß, dass Nathan heilen kann**, und hat aufgehört zu fragen, was er sonst noch ist.
-- **Kest prüft in Baldur's Gate**, ob die Geschichte vom Wettstreit stimmt. Sie stimmt.
+**Anlaufstellen:** Dagra Wull (Hof, kein Rabatt, Voth-Schuld verbraucht), der Torjunge, Nasrin im
+Badehaus „Zum Warmen Stein" in der Unteren Stadt. Die Charter Hall hat Nathan noch nicht gefunden.
 
 ## Kettleford — abgeschlossen, ohne gelöst zu sein
 

@@ -135,3 +135,9 @@ Das Log wird chronologisch geführt. Sichtbare Würfe werden mit ihren Rohwürfe
 | 129 | 011 | DM | 19 | Moralwurf nach dem zweiten toten Gnoll | 19 | Open | die letzten zwei brechen ab und verschwinden ins Gras |
 | 130 | 011 | Nathan | 6+6 | `Cure Wounds` Level 1 (2d8+3) | 15 | Open | Ludd, der Nachzügler — war einen Treffer von Death Saves entfernt |
 | 131 | 011 | Nathan | 4+1 | `Cure Wounds` Level 1 (2d8+3) | 8 | Open | Voths Oberschenkel; es hört auf zu laufen |
+| 132 | 013 | Nathan | 8 | Insight +4 | 12 | Open | Bos „geht nicht mehr" ist eine Ausrede — er hat die Fiedel dabei und frisch bezogen |
+| 133 | 013 | Nathan | 17 | Deception +9 | 26 | Open | absichtlich schlecht auf Bos Fiedel gespielt; er hält sechzehn Takte durch |
+| 134 | 013 | Nathan | 20/11 | Performance +9, Advantage (Luck Point) | 29 | Open | die Hochzeit für Fremde am Rastplatz — natural 20 |
+| 135 | 013 | Nathan | 6+4 | `Cure Wounds` Level 1 (2d8+3) | 13 | Open | Bos überanstrengte Hand; die zwei steifen Finger bleiben |
+| 136 | 013 | DM | 16 | Situationswurf vier Reisetage, Tabelle offengelegt | 16 | Open | ruhige Straße, kein Nachspiel der Gnolls |
+| 137 | 013 | Nathan | 17 | Perception +7 | 24 | Open | Badehaus „Zum Warmen Stein": Mittsommer, der Fluss, die nicht eingetragene Anwerbung |
