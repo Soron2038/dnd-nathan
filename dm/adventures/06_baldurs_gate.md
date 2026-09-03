@@ -65,3 +65,28 @@ der Wagenhof selbst (siebenundvierzig Besatzungen, jeden Abend am Feuer an der O
 Eine Bleibe innerhalb der Mauern (Nathan hat es angekündigt). Ein Wirt oder eine Wirtin, bei der er
 abends spielt. Die Färbergasse, deren Geruch ihn bei der Ankunft erwischt hat. Und irgendwann jemand,
 der ihn beim zweiten Mal wiedererkennt — das ist in einer Stadt dieser Größe der eigentliche Luxus.
+
+---
+
+## „Zum Ballast" — Odessa Krays Kiste (festgelegt am 14 Flamerule, vor Nathans Wahl)
+
+**Verbindlich, vor jedem Wurf und vor jeder Wahl aufgeschrieben.** Sieben Stücke, Preise sind ihre
+Zettel („vielleicht"-Preise).
+
+| # | Stück | Zettel | Wahrheit |
+|---|---|---|---|
+| 1 | Messingring mit Auge | 15 GP | **Schrott.** Alt, fein graviert, nichts dran. |
+| 2 | Handschuhe, dunkles Leder | 45 GP | **Echt — Gloves of Thievery** (uncommon, +5 auf Sleight of Hand und Thieves' Tools). Der Preis des Lebens für einen Rogue. |
+| 3 | Flöte aus hellem Holz | 20 GP | **Schrott.** Gut gemacht, spielbar, nicht magisch. |
+| 4 | Seil, seidig, leicht | 35 GP | **Echt — Rope of Climbing** (uncommon, 60 ft, bewegt sich auf Befehl). |
+| 5 | Messingkompass, zeigt SO | 10 GP | **Schrott.** Nadel festgerostet. |
+| 6 | Ohrring, grüner Stein | 25 GP | **Schrott.** Der Stein ist ein echter Halbedelstein, nicht magisch. |
+| 7 | Schriftrolle, versiegelt | 30 GP | **Echt — Spell Scroll, `Faerie Fire`** (Level 1, Bard-Liste). Unten in der Zisterne Gold wert. |
+
+Drei echt, vier Schrott — exakt Odessas Schätzung. **Anti-Regression:** Gloves of Thievery und Rope
+of Climbing vor dem Verkauf gegen 2024-Text prüfen (aidedd blockt → Spieler fragen). Faerie Fire ist
+auf der 2024-Bard-Liste.
+
+**Odessas Gegenvorschlag nach Nathans Einwand:** Sie zieht *eins* blind heraus, das gehört ihr und
+steht nicht zur Wahl. Danach identifiziert Nathan die restlichen sechs und wählt eins zum Zettelpreis.
+Welches sie zieht: offener d7.
