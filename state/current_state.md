@@ -15,8 +15,9 @@
 - Heroic Inspiration 1; **Luck Points 2/3**; Bardic Inspiration 3/3 (**d8**, kommt auf Short Rest zurück)
 - Spell Slots: Level 1 — **1/4**; Level 2 — 3/3; **Level 3 — 2/2**
 - `A Little Favor` verfügbar
-- Potions of Healing 2; Geld rund **339 GP**; dazu 35 GP plus Anteil aus dem Begleitschutz und
-  15 GP Schuld von Merric, beides zahlbar in Baldur's Gate
+- Potions of Healing 2; Geld rund **153 GP** (14 Flamerule: 150 GP Handschuhe, 35 GP Seil, Bad,
+  vier Tage Stellplatz); dazu 35 GP plus Anteil aus dem Begleitschutz und 15 GP Schuld von Merric,
+  beides zahlbar in Baldur's Gate am 15. Flamerule
 - **Lumi**, junge graue Taube von Ossa, auf **Nathan** geprägt statt auf einen Ort und deshalb ohne
   Heimatschlag. Benannt am 9 Flamerule unter `Speak with Animals`, nachdem sie selbst gesagt hat:
   *„Ich bin die, die zurückkommt."* Ihr Name ist kein Wort, sondern **zwei gesungene Töne** — hell und
@@ -24,6 +25,8 @@
   Rücken. Den Weidenkäfig benutzt sie nie
 - **Paloma ist fort.** Am 9 Flamerule mit Nathans Bericht nach Scornubel geschickt, zu Vaunts Kontor,
   auf das sie geprägt ist. Sie kommt nicht zurück; das war Absicht
+- **Gloves of Thievery** (Sleight of Hand jetzt **+11**) und **Rope of Climbing** — Nathans erste Magic
+  Items, gekauft bei Odessa Kray, „Zum Ballast"
 - Charter Token der Charter Hall, Standing **Bronze** (gestempelt 15 Kythorn, Asbravn)
 - Struppi und Wagon unversehrt
 - Stiefel von Derrik Mullens Vater; kurzes Brecheisen (Geschenk Harls)

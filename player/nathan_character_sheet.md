@@ -49,7 +49,7 @@
 | Performance | +9 | Expertise |
 | Persuasion | +6 | Proficient |
 | Religion | +1 | Jack of All Trades |
-| Sleight of Hand | +6 | Proficient |
+| Sleight of Hand | +11 | Proficient, Gloves of Thievery +5 |
 | Stealth | +6 | Proficient |
 | Survival | +4 | Proficient |
 
@@ -106,6 +106,11 @@ Always Prepared (from The Little Court; do not count against prepared spells):
 
 - Speak with Animals (Ritual)
 - Animal Friendship
+
+## Magic Items
+
+- Gloves of Thievery (Uncommon, no attunement): imperceptible while worn; +5 to Dexterity (Sleight of Hand) checks. Bought 14 Flamerule 1496, Baldur's Gate.
+- Rope of Climbing (Uncommon, no attunement): 60 ft, holds 3,000 lb, animates on a Magic action, knots and coils itself.
 
 ## Proficiencies
 

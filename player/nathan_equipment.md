@@ -1,6 +1,7 @@
 # Nathan — Equipment
 
-Status: Starting Equipment für Level 4 bestätigt. Alle Verzierungen sind zunächst nichtmagisch und geben keinen pauschalen Bonus.
+Status: Starting Equipment für Level 4 bestätigt; seit dem 14 Flamerule 1496 mit den ersten beiden
+Magic Items. Alle Verzierungen sind nichtmagisch und geben keinen pauschalen Bonus.
 
 ## Worn and carried
 
@@ -22,6 +23,16 @@ Status: Starting Equipment für Level 4 bestätigt. Alle Verzierungen sind zunä
 - fein gearbeitetes, nichtmagisches Messingfernrohr mit eingelegten Sternbildern; Beute aus Marr's Vault
 - **Charter Token** der Charter Hall, daumennagelgroßes Messingtäfelchen mit Namensstempel und
   Wagenrad-Zeichen; Standing **Bronze**, gestempelt in Asbravn am 15 Kythorn 1496
+
+## Magic Items
+
+- **Gloves of Thievery** (Wondrous Item, Uncommon; DMG 2024, `rules/sources/2024_gloves_of_thievery.md`) —
+  unsichtbar beim Tragen, **+5 auf Dexterity (Sleight of Hand)**. Gekauft am 14 Flamerule 1496 bei
+  Odessa Kray, „Zum Ballast", Baldur's Gate, für 150 GP — der Freundschaftspreis, weil Nathan ihr
+  ehrlich gesagt hat, was sie blind gezogen hatte. Kein Attunement.
+- **Rope of Climbing** (Wondrous Item, Uncommon; DMG 2024, `rules/sources/2024_rope_of_climbing.md`) —
+  60 Fuß, trägt 3.000 Pfund, bewegt sich auf Magic action, bindet, knotet und rollt sich selbst.
+  Gekauft am selben Tag für 35 GP, Zettelpreis. Kein Attunement.
 
 ## Practical adventuring gear
 
