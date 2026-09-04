@@ -95,3 +95,85 @@ Wertvollste, Seil und Rolle sind echt, der Rest Schrott — und ihr ungefragt da
 Regal genannt. **Odessas Antwort:** Sie verkauft ihm die Handschuhe zum Freundschaftspreis (deutlich
 über Zettel, deutlich unter Fremdenpreis), lässt die vereinbarte Wahl aus den sechs bestehen und bietet
 ihm eine Dauerbeziehung an. Das Regalstück ist ihres und bleibt es.
+
+---
+
+# Die Zisternen der Färbergasse (festgelegt am 14 Flamerule, abends, bevor Nathan anfasst)
+
+**Verbindlich. Kein zweiter Boden.** Wie Kettleford: eine menschliche Wahrheit, eine physische, eine
+unheimliche — und sonst nichts.
+
+## Die menschliche Wahrheit
+
+Die Zunft weiß es seit sechs Wochen. **Drei Lehrjungen sind tot** — Piet (Haus Tarrick, der erste),
+Orrin (Haus Brack), ein Dritter aus dem Hof am Ende der Gasse. „Weggelaufen", sagt man laut. Lehrjungen
+laufen ständig weg. Niemand zählt Lehrjungen.
+
+Die Zisternen sind das Leben der Gasse. Wer die Fist holt, kriegt die Zisternen versiegelt; ohne
+Wasser kein Färben, ohne Färben kein Brot für vierzig Höfe. Also gehen weiter Jungen runter — zu
+zweit jetzt, mit Laternen, „nicht allein". **Die Laternen über den Kellertreppen sind Schuld, die sich
+als Vorsicht verkleidet.** Sie brennen, weil irgendwer beschlossen hat, dass Licht hilft, und keiner
+beweisen kann, dass es nicht so ist.
+
+**Die Auftraggeberin** ist **Meisterin Alwe Tarrick**, Zunftvorsteherin, Ende fünfzig, deren eigener
+Lehrjunge der erste war. Die hundert Gold sind **nicht** aus der Zunftkasse — sie sind ihre. Sie hat
+dem Schneider gesagt, er soll „Zunftkasse" sagen, weil die Zunft nicht wissen soll, dass sie zahlt.
+(Sella-Struktur: die Person, in deren Namen gehandelt wird, hat nie darum gebeten — hier umgekehrt:
+die, die zahlt, darf es nicht gewesen sein.)
+
+**Tam und Fenn** sind heute runter und wieder rauf. Nichts passiert. Kein Countdown. Aber Tam hat
+unten etwas gesehen, das er niemandem gesagt hat: einen Stiefel, im Wasser, weiter hinten, wo sie
+nicht hin sollen. Er erzählt es Nathan, wenn Nathan ihn allein fragt.
+
+## Die physische Wahrheit
+
+Unter der Gasse liegt ein Stück **altes Wasserwerk** der begrabenen Stadt: ein gemauerter Hauptgang,
+mannshoch, knietief bis hüfttief Wasser, mit Absetzbecken an den Seiten, an die die Zisternen der
+Höfe angeschlossen sind. Seit Generationen benutzt, seit Generationen nicht weiter erkundet als nötig.
+
+**Vor sechs Wochen** (Frühjahrsflut plus das ewige Pumpen) ist am hinteren Ende des Hauptgangs die
+Wand eingebrochen — in **älteren Stein**, unter dem Ziegel. Durch die Bresche kam, was jetzt jagt:
+
+- **Zwei Gricks** — nisten im Schutt der Bresche, tarnen sich auf nassem Stein, jagen die Gänge
+  entlang, wo die Jungen waten, und schleppen Beute zurück ins Nest. **Die Knochen sind dort.** Das
+  ist der Beweis, den die Zunft braucht, und das Ende der Frage „weggelaufen".
+- **Ein Darkmantle** in der Bresche selbst, an der Decke. Löscht das Licht, wenn es fällt. Genau die
+  Laternen-Spannung, für die dieser Bogen gebaut ist.
+- **Ratten**, viele — ein Swarm oder zwei in den Absetzbecken. Kleines Getier: `The Court Stirs`
+  funktioniert hier. Die Ratten meiden die Kammer dahinter.
+
+**Statblocks liegen vor:** `rules/sources/2025_cistern_creatures.md` (Grick 2025 = **54 HP**, nicht 27).
+Die beiden Gricks kommen **gestaffelt**, nie zu zweit auf einmal — das ist die Bedingung, unter der
+dieser Bestand solo fair bleibt.
+
+**Rückzug:** Der Weg nach oben liegt immer hinter Nathan. Gricks sind Lauerjäger, keine Verfolger
+über weite Strecken; wer die Bresche verlässt, wird nicht bis zur Treppe gejagt. Kein Save-or-Die
+im ganzen Bestand. Statblocks (Grick, Darkmantle, Swarm of Rats) **vor dem ersten Wurf** holen.
+
+## Die unheimliche Wahrheit
+
+Hinter der Bresche, unter dem Ziegel, liegt eine **Kammer aus behauenem Stein**, älter als alles
+oben: ein Becken, in dem das Wasser **still, klar und kalt** steht — die Quelle, aus der die Gasse seit
+Generationen ihr sauberes Wasser holt, ohne je gesehen zu haben, wo es herkommt. Am Rand eine
+**Statue mit abgewaschenem Gesicht**, die Hände nach unten ins Wasser geöffnet. Eine Inschrift in einer
+Schrift, die niemand mehr liest.
+
+Es greift nicht an. Es **sieht.** Die Binsenmutter hat es benannt: Aufmerksamkeit, kein Segen. Lumi
+geht nicht hinein. Ratten gehen nicht hinein. Wer mit einer Laterne ans Becken tritt, sieht in der
+Spiegelung **die Kammer, wie sie war** — beleuchtet, gepflegt, mit Menschen, die Wasser schöpfen und
+etwas hineinlegen. Kein Mechanik-Effekt. Kein Wurf. Man kann es sich ansehen und gehen.
+
+**Was da unten liegt** (der Fund, laut Schneider „dem, der's raufholt"): am Grund des Beckens die
+Gaben von Jahrhunderten — angelaufenes Silber (rund 60 GP Gegenwert), ein Dutzend Halbedelsteine,
+und **ein** magisches Stück, Typ noch offen (vor Vergabe verifizieren; Idee: etwas Wasser-/
+Lichtbezogenes, Uncommon, kein Attunement-Monster). Wer es nimmt, nimmt es aus einem Becken, das
+zusieht. Keine Strafe dafür. Aber es wird gesehen.
+
+## Zugang und Ablauf
+
+Über Tarricks Hof (der erste, hinterste). Treppe, Zisterne, Durchlass in den Hauptgang. Hauptgang
+~300 Fuß bis zur Bresche, Absetzbecken alle 40 Fuß. Wasser knietief, an zwei Stellen hüfttief.
+Stockfinster. Echos. Die Laternen oben hört man nicht.
+
+**Kein NPC drängt.** Tarrick will es gelöst haben und sagt, was sie weiß. Die Jungen sagen mehr,
+wenn man sie allein fragt. Meister Brack will es nicht gelöst haben, weil Lösen heißt, dass es wahr war.
