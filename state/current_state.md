@@ -2,7 +2,7 @@
 
 ## Kampagnenstatus
 
-- Datum: 13 Flamerule 1496 DR, Nacht
+- Datum: 15 Flamerule 1496 DR, früher Morgen
 - Region: **Baldur's Gate**, Außenstadt, Dagra Wulls Wagenhof im Ochsengang, Stand 48
 - Party: Nathan al'Nassir (Rogue 1 / Bard 5), solo
 - Level: 6
@@ -42,22 +42,24 @@
 
 ## Wo wir stehen (Resume-Punkt für die nächste Session)
 
-**Session 013 abgeschlossen** (`sessions/013-eine-hochzeit-hinter-einer-faerberei.md`).
+**Session 014 abgeschlossen** (`sessions/014-die-laternen-ueber-den-kellertreppen.md`).
 
-Nathan ist in **Baldur's Gate angekommen** und schläft in seinem Wagen auf Stand 48 in Dagra Wulls
-Hof, fünf Silber am Tag, hinter einer Mauer mit Scherben drauf. Er hat einen Tag lang gebadet,
-gebummelt und die Stadt angeguckt und **nichts Nützliches getan**, mit voller Absicht.
+Nathan hat den Auftrag der Färber **angenommen, aber noch nicht angefasst**: Heute früh geht er zum
+letzten Hof der Färbergasse, Tor mit Wappen, zu **Meisterin Alwe Tarrick**, Losung *„Der Schneider hat
+mir das Maß genommen."* Hundert Gold, wenn es aufhört, ohne das Wort *Fist*. Was unten liegt, gehört ihm.
 
-**Die Uhr, die läuft:** **Mittsommer in siebzehn Tagen** (nach dem 30. Flamerule), drei Tage Fest.
-Die Wide wird von der Oberstadt aufgeteilt, die guten Plätze gehen an Kapellen mit Patriar-Häusern
-dahinter, Auswärtige kriegen die Ränder. Nathan hat den Platz bereits als Bühne gelesen und die
-**Südwestecke** gefunden — zwei Häuser im stumpfen Winkel, ein Brunnenrand davor, eine natürliche
-Schallmuschel mit dem ganzen Platz davor. Dort steht ein Mann und verkauft Besen.
+**Was er weiß:** Unter der Gasse liegt altes Wasser in gemauerten Gängen. Seit Wochen kommen Jungen
+nicht wieder herauf. Laternen brennen Tag und Nacht über den Kellertreppen. Ein erfahrener Mann kam
+nach zwei Stunden unversehrt zurück und sagte nur: *„Das Wasser guckt einen an."*
 
-**Am 15. Flamerule kommt Merric** mit 35 GP plus Anteil plus 15 GP Schuld.
+**Was er hat:** Hooded Lantern und Öl (im Wagen), Rope of Climbing, Gloves of Thievery, zwei Potions,
+alle Slots. **Kein Darkvision.** Bei Odessa liegt eine Rolle `Faerie Fire` für 30 GP zurück.
 
-**Anlaufstellen:** Dagra Wull (Hof, kein Rabatt, Voth-Schuld verbraucht), der Torjunge, Nasrin im
-Badehaus „Zum Warmen Stein" in der Unteren Stadt. Die Charter Hall hat Nathan noch nicht gefunden.
+**Heute außerdem:** Merric kommt mit 35 GP plus Anteil plus 15 GP Schuld. Morgen (16.) der Abend bei
+**Haus Durinbold** in der Oberstadt, falls Nathan will.
+
+DM: `dm/adventures/06_baldurs_gate.md` (Wahrheit der Zisternen, verbindlich),
+`rules/sources/2025_cistern_creatures.md` (Grick 54 HP!, Darkmantle, Ratten).
 
 ## Kettleford — abgeschlossen, ohne gelöst zu sein
 

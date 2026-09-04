@@ -141,3 +141,8 @@ Das Log wird chronologisch geführt. Sichtbare Würfe werden mit ihren Rohwürfe
 | 135 | 013 | Nathan | 6+4 | `Cure Wounds` Level 1 (2d8+3) | 13 | Open | Bos überanstrengte Hand; die zwei steifen Finger bleiben |
 | 136 | 013 | DM | 16 | Situationswurf vier Reisetage, Tabelle offengelegt | 16 | Open | ruhige Straße, kein Nachspiel der Gnolls |
 | 137 | 013 | Nathan | 17 | Perception +7 | 24 | Open | Badehaus „Zum Warmen Stein": Mittsommer, der Fluss, die nicht eingetragene Anwerbung |
+| 138 | 014 | DM | 2 | Situationswurf Elfsong morgens | 2 | Open | sie singt nicht |
+| 139 | 014 | Nathan | 16 | Deception +9 | 25 | Open | der harmlose Tourist vor Meister Brack — vollständig geglaubt |
+| 140 | 014 | DM | 2 | d7, Odessas blinder Griff | 2 | Open | sie zieht die Handschuhe — das beste Stück der Kiste |
+| 141 | 014 | Nathan | 6 | Persuasion +6 | 12 | Open | die Watch lässt ihn nicht in die Oberstadt |
+| 142 | 014 | DM | 11 | Situationswurf Elfsong abends | 11 | Open | sie singt — vierzehn Takte, dann Abbruch |

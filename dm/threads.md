@@ -24,6 +24,17 @@ Bronzeplatte.
 
 ## Aktiv / offen
 
+- **Die Zisternen der Färbergasse** `[aufgegriffen]` — Nathan hat beim Schneider nach dem Kontakt
+  gefragt; morgen früh Alwe Tarrick. Wahrheit verbindlich in `dm/adventures/06_baldurs_gate.md`:
+  zwei Gricks (gestaffelt!), ein Darkmantle, Ratten, eine Bresche in älteren Stein, dahinter eine
+  Kammer mit stillem Wasser, die zusieht. Drei tote Lehrjungen. Die hundert Gold sind Tarricks eigene.
+- **Haus Durinbold** `[angeboten]` — 16. Flamerule, Oberstadt, privater Abend, 15 GP, Einladung mit
+  Siegel. Die Tür, durch die sonst niemand kommt. Kein Zwang.
+- **Die Elfe im Elfsong** `[angeboten]` — Nathan will sie nach ihrem Lied fragen. Sie singt, wann sie
+  will, und antwortet niemandem. **DM-Regel:** Das ist ein Faden für später und keine Uhr; er darf sich
+  über Monate entwickeln. Ihre Sprache liegt *neben* Sylvan — mit jedem Hören ein Wort mehr, nie das
+  ganze Lied. Der Name im Lied ist noch nicht festgelegt.
+
 - **Mittsommer auf der Wide** `[angeboten]` — Baldur's Gate, ab dem 1. Eleasis, drei Tage. Die
   Oberstadt teilt den Platz auf; die guten Stände gehen an Kapellen mit Patriar-Häusern dahinter,
   Auswärtige kriegen die Ränder oder nichts. Nathan hat den Platz bereits gelesen und die

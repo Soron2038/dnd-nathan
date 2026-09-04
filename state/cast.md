@@ -400,3 +400,23 @@ ahnungslos auf die Gnolls zu und wurden von Nathan gewarnt.
   Trade Way. Tanzten als Erste. Sonns Schwester hat eine Schenke in Elturel.
 - **Warl** — Fuhrmann, seit sieben Monaten verheiratet, hat seine Frau seit fünf nicht gesehen. Ihr
   Name steht in seiner Bordwand, wo man ihn nur vom Nachbarwagen sieht.
+- **Nib** — Dagra Wulls Torjunge, zwölf. Redet mit Struppi statt mit Kunden. Verlor die Wette und
+  verstand fünf Sekunden zu spät, was sie war.
+- **Brenna Tosk** — Wirtin des Elfsong seit einundzwanzig Jahren. Beschäftigt keine Musiker, weil
+  „sie" gewinnt. Gab die Auskunft über die Makler laut, ohne die Stimme zu senken.
+- **Der Schneider** — Makler, sitzt abends hinten am Fenster des Elfsong. Schwer, still, misst Leute
+  mit den Augen; ein Junge holt Becher. Ein Zehntel hinterher, nichts schriftlich, nichts vorher. *„Ich
+  hab noch nie einen auf was gesetzt, das ihn umgebracht hat, jedenfalls sag ich das."* Die Elfe sang,
+  während Nathan bei ihm saß — viermal in acht Jahren. Er merkt sich das.
+- **Meister Brack** — Färber, Arme bis über den Ellbogen blau. Erklärte Nathan die Zisternen wahr und
+  unvollständig. Will nicht, dass es gelöst wird, weil Lösen heißt, dass es wahr war.
+- **Tam** — Lehrjunge bei Brack, vierzehn, rote Wange, blaue Hände. Geht „nicht allein" hinunter. Hat
+  unten etwas gesehen, das er niemandem gesagt hat.
+- **Odessa Kray** — „Zum Ballast", hinter den Kaispeichern. Sechzig, trübes linkes Auge, Hauptbuch.
+  Testet Leute mit einem unfairen Angebot und respektiert, wer es merkt. Verkaufte Nathan die Handschuhe
+  zum Preis für Leute, die nicht lügen — *„davon kenn ich ungefähr drei."* Besitzt jetzt einen Spiegel,
+  der zeigt, was war. Standing offer: Nathan identifiziert, sie zahlt.
+- **Alwe Tarrick** — Zunftvorsteherin der Färber, Ende fünfzig, letzter Hof der Gasse. Hat den
+  Schneider angesprochen, nicht umgekehrt. Nathan trifft sie am 15. Flamerule.
+- **Die Watch am Oberstadttor** — eine Frau mit Buch, die heute elfmal dieselbe Antwort gab und beim
+  Zuhören vergaß zu schreiben. *„Haus Vanthampur. Die proben seit Mirtul."*
